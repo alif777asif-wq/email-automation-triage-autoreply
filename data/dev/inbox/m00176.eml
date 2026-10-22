@@ -1,0 +1,32 @@
+From: Arjun Yilmaz <arjun.yilmaz@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 06:25:46 -0800
+Message-ID: <58702bec47111c834f5b@example.com>
+MIME-Version: 1.0
+Subject: Return request for #90245
+Content-Type: multipart/alternative;
+ boundary="===============9048448259242160952=="
+
+--===============9048448259242160952==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Please cancel order #90245 and refund USD 604.50 to my original payment metho=
+d. I changed my mind.
+
+Sent from my phone
+
+--===============9048448259242160952==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Please cancel order #90245 and refund USD 604.50 to my original payment m=
+ethod. I changed my mind.</p><p style=3D"margin:0 0 12px">Sent from my phone<=
+/p></body></html>
+
+--===============9048448259242160952==--

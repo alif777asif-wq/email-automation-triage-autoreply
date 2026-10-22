@@ -1,0 +1,27 @@
+From: =?utf-8?q?Chlo=C3=A9?= Varga <chloe.varga@example.com>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 00:36:18 +0100
+Message-ID: <17a59beea027de5b6724@example.com>
+MIME-Version: 1.0
+Subject: Late delivery
+Content-Type: multipart/alternative;
+ boundary="===============7212658430564880197=="
+
+--===============7212658430564880197==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (#20007) and nothing has turned up.=
+ Could you let me know what is going on?
+
+--===============7212658430564880197==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (#20007) and nothing has turned up. Could you let me know what is goin=
+g on?</p></body></html>
+
+--===============7212658430564880197==--

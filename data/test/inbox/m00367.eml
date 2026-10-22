@@ -1,0 +1,32 @@
+From: Ava Moreau <ava.moreau@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 02:36:21 +0530
+Message-ID: <a62e695b93cb03e31908@example.org>
+MIME-Version: 1.0
+Subject: INV-2026-1877 - question
+Content-Type: multipart/alternative;
+ boundary="===============5276128413760733521=="
+
+--===============5276128413760733521==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the $1895.76 payment went through twice on my bank statement (INV-2026=
+-1877). Please fix it and confirm once done.
+
+--=20
+Ava Moreau
+Copperline Supply
+
+--===============5276128413760733521==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the $1895.76 payment went th=
+rough twice on my bank statement (INV-2026-1877). Please fix it and confirm o=
+nce done.</p><p style=3D"margin:0 0 12px">-- <br>Ava Moreau<br>Copperline Sup=
+ply</p></body></html>
+
+--===============5276128413760733521==--

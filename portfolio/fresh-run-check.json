@@ -1,0 +1,30 @@
+{
+ "what": "deterministic fields of results/results.json, shipped run vs a fresh-directory ./reproduce.sh run",
+ "fields_compared": 1383,
+ "fields_matched": 1383,
+ "mismatches": [],
+ "excluded_from_comparison": [
+  "meta (timestamps, environment, step timings)",
+  "throughput (timings)",
+  "tests.seconds",
+  "crash_tests.*.seconds (campaign wall-clock time)",
+  "crash_tests.pipeline_random_wall_clock.reconciliation (the random campaign's split varies by run)"
+ ],
+ "random_campaign_fresh": {
+  "kills": 40,
+  "duplicates": 0,
+  "lost": 0,
+  "already_delivered_not_resent": 2,
+  "never_delivered_resent": 29
+ },
+ "tests_fresh": {
+  "passed": 72,
+  "tests": 72
+ },
+ "fresh_environment": {
+  "python": "3.13.16",
+  "cpus": 2,
+  "ingest_parse_messages_per_second": 337.1
+ },
+ "hygiene_scan": "a scripted scan of every text file in the tree found no credential patterns, no local paths, no email addresses outside the reserved example domains, and no URLs outside them (apart from the font licence texts)."
+}

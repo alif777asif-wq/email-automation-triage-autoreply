@@ -1,0 +1,26 @@
+From: Mateo =?utf-8?q?M=C3=BCller?= <mateo.mueller@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 05:18:27 -0500
+Message-ID: <085cfe86ad36be1ef082@example.org>
+MIME-Version: 1.0
+Subject: Late delivery
+Content-Type: multipart/alternative;
+ boundary="===============1277879456849667740=="
+
+--===============1277879456849667740==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello! Just checking whether my parcel has left your warehouse yet. Order ORD=
+54796. Thanks.
+
+--===============1277879456849667740==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello! Just checking whether my par=
+cel has left your warehouse yet. Order ORD54796. Thanks.</p></body></html>
+
+--===============1277879456849667740==--

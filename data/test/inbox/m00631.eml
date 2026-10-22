@@ -1,0 +1,29 @@
+From: Daniel Patel <daniel.patel@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 08:09:30 +0200
+Message-ID: <107b0abcc99f8ce9960c@example.org>
+MIME-Version: 1.0
+Subject: Request a demo
+Content-Type: multipart/alternative;
+ boundary="===============0735714231592331364=="
+
+--===============0735714231592331364==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We are evaluating tools for our team of 120 people and would like a quote and=
+ a short demo. Do you offer volume discounts?
+
+--===============0735714231592331364==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We are evaluating tools for our team of 120 people and would like a quote=
+ and a short demo. Do you offer volume discounts?</p></body></html>
+
+--===============0735714231592331364==--

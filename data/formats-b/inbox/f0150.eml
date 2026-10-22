@@ -1,0 +1,16 @@
+From: Acme Feedback <hello@acme-fb150.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 02:30:00 +0000
+Message-ID: <01a2b3ef7ee9d5b88369@mx.example.net>
+Subject: How did we do?
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi,
+
+You recently contacted our support team. How would you rate your experience?
+
+Great   |   Okay   |   Not good
+
+It takes ten seconds and helps us improve.

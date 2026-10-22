@@ -1,0 +1,16 @@
+From: Acme Payments <receipts@pay155.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 03:05:00 +0000
+Message-ID: <309fe709aedf13ba8559@mx.example.net>
+Subject: Your receipt from Acme #3731
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Receipt from Acme
+
+Amount paid: $18.00
+Payment method: card ending 4242
+Invoice INV-2026-2548
+
+Thank you for your payment.

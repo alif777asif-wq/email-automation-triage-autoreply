@@ -1,0 +1,32 @@
+From: Sofia Rossi <sofia.rossi@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:25:26 -0800
+Message-ID: <8f79766c7278e4079c2f@example.net>
+MIME-Version: 1.0
+Subject: Interested in your product
+Content-Type: multipart/alternative;
+ boundary="===============6793397943809164017=="
+
+--===============6793397943809164017==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 40 and looking at your product for next quarter. What wo=
+uld the cost be, and could someone give us a walkthrough?
+
+--=20
+Sofia Rossi
+Marrow Design
+
+--===============6793397943809164017==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 40 and looking=
+ at your product for next quarter. What would the cost be, and could someone =
+give us a walkthrough?</p><p style=3D"margin:0 0 12px">-- <br>Sofia Rossi<br>=
+Marrow Design</p></body></html>
+
+--===============6793397943809164017==--

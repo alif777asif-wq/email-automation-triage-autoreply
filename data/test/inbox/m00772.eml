@@ -1,0 +1,19 @@
+From: Kofi Cruz <kofi.cruz@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 12:01:37 +0100
+Message-ID: <d158b8a1287ae28609bf@example.net>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 4.1.2.
+
+Sent from my phone
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Good morning,
+>=20
+> Could you resend invoice INV2026-0820? Our accounting team cannot find it. =
+The amount due is $4,473.49.

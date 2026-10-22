@@ -1,0 +1,32 @@
+From: Yara Cruz <yara.cruz@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:03:03 -0500
+Message-ID: <101f628ac8bc6a0e6b4f@example.com>
+MIME-Version: 1.0
+Subject: Payment went through twice
+Content-Type: multipart/alternative;
+ boundary="===============3908324031885738616=="
+
+--===============3908324031885738616==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $3365.05 last month (INV-202=
+6-4461) for my expense report. Thanks!
+
+--=20
+Yara Cruz
+Northfield Clinic
+
+--===============3908324031885738616==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, I need an official receipt for =
+my payment of $3365.05 last month (INV-2026-4461) for my expense report. Than=
+ks!</p><p style=3D"margin:0 0 12px">-- <br>Yara Cruz<br>Northfield Clinic</p>=
+</body></html>
+
+--===============3908324031885738616==--

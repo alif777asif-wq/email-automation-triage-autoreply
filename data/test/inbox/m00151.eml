@@ -1,0 +1,32 @@
+From: Alice Berg <alice.berg@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:20:30 +0100
+Message-ID: <83fb132fa9c7787d519d@example.org>
+MIME-Version: 1.0
+Subject: Order ORD-94064 - not what I expected
+Content-Type: multipart/alternative;
+ boundary="===============5990486209834475083=="
+
+--===============5990486209834475083==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, I would like my money returned for ORD-94064 ($3213.45). The product s=
+topped working after two days.
+
+--=20
+Alice Berg
+Kestrel Logistics
+
+--===============5990486209834475083==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, I would like my money return=
+ed for ORD-94064 ($3213.45). The product stopped working after two days.</p><=
+p style=3D"margin:0 0 12px">-- <br>Alice Berg<br>Kestrel Logistics</p></body>=
+</html>
+
+--===============5990486209834475083==--

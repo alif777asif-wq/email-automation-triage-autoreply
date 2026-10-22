@@ -1,0 +1,38 @@
+From: Diego Mensah <diego.mensah@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 23:10:23 +0000
+Message-ID: <79e026db512ab253c2d0@example.org>
+MIME-Version: 1.0
+Subject: Payment went through twice
+Content-Type: multipart/alternative;
+ boundary="===============5655145615188952175=="
+
+--===============5655145615188952175==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, I think there is a mistake on INV 2026-3878. I was billed $3,325.81 but =
+our plan should cost less than that. Can someone take a look?
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> I would like to return order #31719 and get a refund of $4720.62. The item =
+arrived damaged.
+
+--===============5655145615188952175==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV 2026-3878. I was billed $3,325.81 but our plan should cost less than that=
+. Can someone take a look?</p><div class=3D"gmail_quote"><div class=3D"gmail_=
+attr">On Sun, 01 Mar 2026, Support &lt;support@shop.example&gt; wrote:</div><=
+blockquote class=3D"gmail_quote">Hi,
+
+I would like to return order #31719 and get a refund of $4720.62. The item ar=
+rived damaged.</blockquote></div></body></html>
+
+--===============5655145615188952175==--

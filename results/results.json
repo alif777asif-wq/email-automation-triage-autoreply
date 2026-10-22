@@ -1,0 +1,1998 @@
+{
+  "meta": {
+    "project": "email-automation-triage-autoreply",
+    "version": "1.0.0",
+    "started_utc": "2026-10-22T03:06:25+00:00",
+    "python": "3.13.16",
+    "platform": "Linux 6.18.44-fc-v139 x86_64",
+    "cpus": 2,
+    "aiosmtpd": "1.4.6",
+    "pytest": "9.1.1",
+    "sqlite": "3.45.1",
+    "finished_utc": "2026-10-22T03:08:15+00:00",
+    "step_seconds": {
+      "data:dev": 0.7,
+      "data:test": 1.8,
+      "data:formats-a": 0.2,
+      "data:formats-b": 0.2,
+      "data:formats-c": 0.2,
+      "pytest": 18.5,
+      "clean run: dev": 3.5,
+      "clean run: test": 9.4,
+      "clean run: naive baseline": 6.9,
+      "formats formats-a, guard=off": 1.2,
+      "formats formats-a, guard=wording": 1.0,
+      "formats formats-a, guard=full": 0.9,
+      "formats formats-b, guard=off": 1.6,
+      "formats formats-b, guard=wording": 1.4,
+      "formats formats-b, guard=full": 1.1,
+      "formats formats-c, guard=off": 1.5,
+      "formats formats-c, guard=wording": 1.4,
+      "formats formats-c, guard=full": 1.4,
+      "crash: pipeline targeted": 18.2,
+      "crash: pipeline random": 25.6,
+      "crash: naive targeted": 11.8
+    }
+  },
+  "data": {
+    "dev": {
+      "files": 417,
+      "unique_messages": 400,
+      "redelivered_copies": 17,
+      "seed": 101,
+      "holdout_phrasing_share": 0.0,
+      "categories": {
+        "tech_support": 68,
+        "unsubscribe": 19,
+        "bulk": 40,
+        "bounce": 30,
+        "billing": 58,
+        "sales_lead": 35,
+        "refund_request": 38,
+        "auto_reply": 47,
+        "order_status": 65
+      },
+      "challenge_messages": 99,
+      "manifest_sha256": "aa6f67c415eff2d22c227150a7a6a092dd84a5e899e6dec98db992b192f213e8",
+      "regenerated_byte_identical_to_committed": true
+    },
+    "test": {
+      "files": 1246,
+      "unique_messages": 1200,
+      "redelivered_copies": 46,
+      "seed": 202,
+      "holdout_phrasing_share": 0.5,
+      "categories": {
+        "order_status": 221,
+        "bounce": 58,
+        "tech_support": 239,
+        "refund_request": 98,
+        "billing": 175,
+        "bulk": 122,
+        "sales_lead": 110,
+        "unsubscribe": 75,
+        "auto_reply": 102
+      },
+      "challenge_messages": 326,
+      "manifest_sha256": "5b44b01f909bfebc7a72e32ebd289c4812c8cd85ab81aadd8bdc143b76e9efaf",
+      "regenerated_byte_identical_to_committed": true
+    },
+    "formats-a": {
+      "files": 196,
+      "formats": 14,
+      "marked": 126,
+      "unmarked": 70,
+      "seed": 301,
+      "manifest_sha256": "6d86ca28415a71d4fd9fd5f171b01ff7b7c0b2a10f4c15a3836f35132e004416",
+      "regenerated_byte_identical_to_committed": true
+    },
+    "formats-b": {
+      "files": 196,
+      "formats": 14,
+      "marked": 70,
+      "unmarked": 126,
+      "seed": 302,
+      "manifest_sha256": "a41494cd496fc74bdad314a276d07c11357ee00c3c1b977469afc825072074c3",
+      "regenerated_byte_identical_to_committed": true
+    },
+    "formats-c": {
+      "files": 196,
+      "formats": 14,
+      "marked": 70,
+      "unmarked": 126,
+      "seed": 303,
+      "manifest_sha256": "4cb65cd6b60b272ea62dee9cb921077d9037cd67489acf1cb94006c5581d43cf",
+      "regenerated_byte_identical_to_committed": true
+    }
+  },
+  "rules_unchanged_since_freeze": true,
+  "tests": {
+    "tests": 72,
+    "passed": 72,
+    "failed": 0,
+    "skipped": 0,
+    "seconds": 18.5
+  },
+  "classification": {
+    "dev": {
+      "messages_scored": 400,
+      "unprocessed": 0,
+      "category_accuracy": 1.0,
+      "macro_f1": 1.0,
+      "queue_accuracy": 1.0,
+      "manual_review": 0,
+      "manual_review_rate": 0.0,
+      "misrouted_not_review": 0,
+      "challenge": {
+        "n": 99,
+        "accuracy": 1.0
+      },
+      "by_phrasing": {
+        "machine_mail": {
+          "n": 117,
+          "correct": 117,
+          "accuracy": 1.0,
+          "manual_review": 0,
+          "misrouted_not_review": 0
+        },
+        "human_seen_wording": {
+          "n": 283,
+          "correct": 283,
+          "accuracy": 1.0,
+          "manual_review": 0,
+          "misrouted_not_review": 0
+        },
+        "human_unseen_wording": {
+          "n": 0,
+          "correct": 0,
+          "accuracy": null,
+          "manual_review": 0,
+          "misrouted_not_review": 0
+        },
+        "human_unseen_wording_recall": {
+          "billing": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          },
+          "order_status": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          },
+          "tech_support": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          },
+          "sales_lead": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          },
+          "refund_request": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          },
+          "unsubscribe": {
+            "n": 0,
+            "correct": 0,
+            "recall": null
+          }
+        }
+      },
+      "per_class": {
+        "billing": {
+          "support": 58,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "order_status": {
+          "support": 65,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "tech_support": {
+          "support": 68,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "sales_lead": {
+          "support": 35,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "refund_request": {
+          "support": 38,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "unsubscribe": {
+          "support": 19,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "auto_reply": {
+          "support": 47,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "bounce": {
+          "support": 30,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "bulk": {
+          "support": 40,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "confusion": {
+        "billing": {
+          "billing": 58
+        },
+        "order_status": {
+          "order_status": 65
+        },
+        "tech_support": {
+          "tech_support": 68
+        },
+        "sales_lead": {
+          "sales_lead": 35
+        },
+        "refund_request": {
+          "refund_request": 38
+        },
+        "unsubscribe": {
+          "unsubscribe": 19
+        },
+        "auto_reply": {
+          "auto_reply": 47
+        },
+        "bounce": {
+          "bounce": 30
+        },
+        "bulk": {
+          "bulk": 40
+        }
+      },
+      "extraction": {
+        "fields_expected": 287,
+        "fields_correct": 287,
+        "accuracy": 1.0,
+        "spurious_values": 0
+      },
+      "reply_policy": {
+        "expected_replies": 241,
+        "replies_delivered_unique": 241,
+        "missed_replies": 0,
+        "extra_replies": 0,
+        "duplicate_replies": 0,
+        "replies_to_automated_senders": 0,
+        "missed_to_manual_review": 0,
+        "missed_treated_as_unsubscribe": 0,
+        "missed_in_unseen_wording": 0,
+        "extra_inside_cooldown": 0,
+        "extra_to_unsubscribe_requests": 0,
+        "acknowledged_under_wrong_topic": 0
+      }
+    },
+    "test": {
+      "messages_scored": 1200,
+      "unprocessed": 0,
+      "category_accuracy": 0.8408,
+      "macro_f1": 0.8729,
+      "queue_accuracy": 0.8533,
+      "manual_review": 146,
+      "manual_review_rate": 0.1217,
+      "misrouted_not_review": 45,
+      "challenge": {
+        "n": 326,
+        "accuracy": 0.7853
+      },
+      "by_phrasing": {
+        "machine_mail": {
+          "n": 282,
+          "correct": 282,
+          "accuracy": 1.0,
+          "manual_review": 0,
+          "misrouted_not_review": 0
+        },
+        "human_seen_wording": {
+          "n": 475,
+          "correct": 475,
+          "accuracy": 1.0,
+          "manual_review": 0,
+          "misrouted_not_review": 0
+        },
+        "human_unseen_wording": {
+          "n": 443,
+          "correct": 252,
+          "accuracy": 0.5688,
+          "manual_review": 146,
+          "misrouted_not_review": 45
+        },
+        "human_unseen_wording_recall": {
+          "billing": {
+            "n": 89,
+            "correct": 77,
+            "recall": 0.8652
+          },
+          "order_status": {
+            "n": 100,
+            "correct": 100,
+            "recall": 1.0
+          },
+          "tech_support": {
+            "n": 123,
+            "correct": 71,
+            "recall": 0.5772
+          },
+          "sales_lead": {
+            "n": 51,
+            "correct": 0,
+            "recall": 0.0
+          },
+          "refund_request": {
+            "n": 52,
+            "correct": 0,
+            "recall": 0.0
+          },
+          "unsubscribe": {
+            "n": 28,
+            "correct": 4,
+            "recall": 0.1429
+          }
+        }
+      },
+      "per_class": {
+        "billing": {
+          "support": 175,
+          "precision": 0.9106,
+          "recall": 0.9314,
+          "f1": 0.9209
+        },
+        "order_status": {
+          "support": 221,
+          "precision": 0.9286,
+          "recall": 1.0,
+          "f1": 0.963
+        },
+        "tech_support": {
+          "support": 239,
+          "precision": 0.9947,
+          "recall": 0.7824,
+          "f1": 0.8759
+        },
+        "sales_lead": {
+          "support": 110,
+          "precision": 0.9516,
+          "recall": 0.5364,
+          "f1": 0.686
+        },
+        "refund_request": {
+          "support": 98,
+          "precision": 0.8846,
+          "recall": 0.4694,
+          "f1": 0.6133
+        },
+        "unsubscribe": {
+          "support": 75,
+          "precision": 0.9623,
+          "recall": 0.68,
+          "f1": 0.7969
+        },
+        "auto_reply": {
+          "support": 102,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "bounce": {
+          "support": 58,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "bulk": {
+          "support": 122,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "confusion": {
+        "billing": {
+          "billing": 163,
+          "unknown": 11,
+          "refund_request": 1
+        },
+        "order_status": {
+          "order_status": 221
+        },
+        "tech_support": {
+          "tech_support": 187,
+          "unknown": 43,
+          "refund_request": 2,
+          "billing": 1,
+          "order_status": 3,
+          "unsubscribe": 2,
+          "sales_lead": 1
+        },
+        "sales_lead": {
+          "sales_lead": 59,
+          "unknown": 48,
+          "billing": 1,
+          "tech_support": 1,
+          "refund_request": 1
+        },
+        "refund_request": {
+          "refund_request": 46,
+          "unknown": 25,
+          "order_status": 13,
+          "billing": 14
+        },
+        "unsubscribe": {
+          "unsubscribe": 51,
+          "unknown": 19,
+          "refund_request": 2,
+          "sales_lead": 2,
+          "order_status": 1
+        },
+        "auto_reply": {
+          "auto_reply": 102
+        },
+        "bounce": {
+          "bounce": 58
+        },
+        "bulk": {
+          "bulk": 122
+        }
+      },
+      "extraction": {
+        "fields_expected": 825,
+        "fields_correct": 825,
+        "accuracy": 1.0,
+        "spurious_values": 0
+      },
+      "reply_policy": {
+        "expected_replies": 784,
+        "replies_delivered_unique": 681,
+        "missed_replies": 119,
+        "extra_replies": 16,
+        "duplicate_replies": 0,
+        "replies_to_automated_senders": 0,
+        "missed_to_manual_review": 117,
+        "missed_treated_as_unsubscribe": 2,
+        "missed_in_unseen_wording": 119,
+        "extra_inside_cooldown": 11,
+        "extra_to_unsubscribe_requests": 5,
+        "acknowledged_under_wrong_topic": 36
+      }
+    }
+  },
+  "guard_on_main_sets": {
+    "dev_held_for_review": 0,
+    "test_held_for_review": 0
+  },
+  "throughput": {
+    "messages_parsed": 1246,
+    "ingest_parse": 4.312,
+    "triage": 0.798,
+    "send": 3.332,
+    "replies_sent": 681,
+    "messages_per_second_ingest_parse": 289.0,
+    "replies_per_second_smtp": 204.4
+  },
+  "baseline_vs_pipeline": {
+    "naive_responder": {
+      "replies_delivered_total": 1246,
+      "replies_to_automated_senders": 295,
+      "replies_to_unsubscribe_requests": 79,
+      "replies_inside_cooldown": 59,
+      "duplicate_replies": 46,
+      "missed_replies": 0
+    },
+    "pipeline": {
+      "replies_delivered_total": 681,
+      "replies_to_automated_senders": 0,
+      "replies_to_unsubscribe_requests": 5,
+      "replies_inside_cooldown": 11,
+      "duplicate_replies": 0,
+      "missed_replies": 119
+    }
+  },
+  "machine_mail_formats": {
+    "formats-a": {
+      "off": {
+        "messages": 196,
+        "replies_to_automated_senders": 39,
+        "groups": {
+          "marked": {
+            "n": 126,
+            "replied": 0,
+            "review": 0,
+            "machine": 126,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 70,
+            "replied": 39,
+            "review": 31,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 39,
+            "review": 31,
+            "machine": 126,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "gmail_vacation_responder": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exchange_automatic_reply": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "leave_notice_headers_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 11,
+            "review": 3,
+            "machine": 0,
+            "other": 0
+          },
+          "helpdesk_confirmation_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "helpdesk_confirmation_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "exchange_ndr": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_delay_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "security_gateway_rejection": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "newsletter_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "saas_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "payment_receipt": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "sign_in_code": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "shipping_notification": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "wording": {
+        "messages": 196,
+        "replies_to_automated_senders": 0,
+        "groups": {
+          "marked": {
+            "n": 126,
+            "replied": 0,
+            "review": 0,
+            "machine": 126,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 70,
+            "replied": 0,
+            "review": 70,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 0,
+            "review": 70,
+            "machine": 126,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "gmail_vacation_responder": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exchange_automatic_reply": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "leave_notice_headers_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "helpdesk_confirmation_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "helpdesk_confirmation_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "exchange_ndr": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_delay_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "security_gateway_rejection": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "newsletter_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "saas_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "payment_receipt": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "sign_in_code": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "shipping_notification": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "full": {
+        "messages": 196,
+        "replies_to_automated_senders": 0,
+        "groups": {
+          "marked": {
+            "n": 126,
+            "replied": 0,
+            "review": 0,
+            "machine": 126,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 70,
+            "replied": 0,
+            "review": 70,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 0,
+            "review": 70,
+            "machine": 126,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "gmail_vacation_responder": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exchange_automatic_reply": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "leave_notice_headers_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "helpdesk_confirmation_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "helpdesk_confirmation_stripped": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "exchange_ndr": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "gmail_delay_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "security_gateway_rejection": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "newsletter_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "saas_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "payment_receipt": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "sign_in_code": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "shipping_notification": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      }
+    },
+    "formats-b": {
+      "off": {
+        "messages": 196,
+        "replies_to_automated_senders": 79,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 79,
+            "review": 47,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 79,
+            "review": 47,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "outlook_ooo_rule_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "ci_failure_notice": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "mailing_list_digest": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exim_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "vendor_status_alert": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "contact_form_thanks": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "subscription_renewal_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "invoice_ready_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "parcel_delivered_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "password_reset_email": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "feedback_survey": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "out_of_country_notice": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 9,
+            "review": 5,
+            "machine": 0,
+            "other": 0
+          },
+          "promo_pricing_offer": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "chat_notification_notify": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "wording": {
+        "messages": 196,
+        "replies_to_automated_senders": 56,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 56,
+            "review": 70,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 56,
+            "review": 70,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "outlook_ooo_rule_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "ci_failure_notice": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "mailing_list_digest": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exim_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "vendor_status_alert": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "contact_form_thanks": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "subscription_renewal_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "invoice_ready_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "parcel_delivered_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "password_reset_email": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "feedback_survey": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "out_of_country_notice": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "promo_pricing_offer": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "chat_notification_notify": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "full": {
+        "messages": 196,
+        "replies_to_automated_senders": 0,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 0,
+            "review": 126,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 0,
+            "review": 126,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "outlook_ooo_rule_headers": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "ci_failure_notice": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "mailing_list_digest": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "exim_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "vendor_status_alert": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "contact_form_thanks": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "subscription_renewal_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "invoice_ready_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "parcel_delivered_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "password_reset_email": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "feedback_survey": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "out_of_country_notice": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "promo_pricing_offer": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "chat_notification_notify": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      }
+    },
+    "formats-c": {
+      "off": {
+        "messages": 196,
+        "replies_to_automated_senders": 76,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 76,
+            "review": 50,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 76,
+            "review": 50,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "precedence_auto_reply_ooo": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "repository_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "marketing_from_a_person_with_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "qmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "calendar_reminder_noreply": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "founder_welcome_drip": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "delivery_exception_carrier": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "refund_processed_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "bank_alert": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_offline_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 9,
+            "review": 5,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_travelling_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 11,
+            "review": 3,
+            "machine": 0,
+            "other": 0
+          },
+          "appointment_reminder": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "order_confirmation_shop": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "pricing_change_from_a_person": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "wording": {
+        "messages": 196,
+        "replies_to_automated_senders": 65,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 65,
+            "review": 61,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 65,
+            "review": 61,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "precedence_auto_reply_ooo": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "repository_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "marketing_from_a_person_with_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "qmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "calendar_reminder_noreply": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "founder_welcome_drip": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "delivery_exception_carrier": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "refund_processed_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "bank_alert": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_offline_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 9,
+            "review": 5,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_travelling_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "appointment_reminder": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "order_confirmation_shop": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "pricing_change_from_a_person": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      },
+      "full": {
+        "messages": 196,
+        "replies_to_automated_senders": 51,
+        "groups": {
+          "marked": {
+            "n": 70,
+            "replied": 0,
+            "review": 0,
+            "machine": 70,
+            "other": 0
+          },
+          "unmarked": {
+            "n": 126,
+            "replied": 51,
+            "review": 75,
+            "machine": 0,
+            "other": 0
+          },
+          "all": {
+            "n": 196,
+            "replied": 51,
+            "review": 75,
+            "machine": 70,
+            "other": 0
+          }
+        },
+        "by_format": {
+          "precedence_auto_reply_ooo": {
+            "category": "auto_reply",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "repository_notification": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "marketing_from_a_person_with_list_headers": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "qmail_failure_notice": {
+            "category": "bounce",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "calendar_reminder_noreply": {
+            "category": "bulk",
+            "marked": 1,
+            "n": 14,
+            "replied": 0,
+            "review": 0,
+            "machine": 14,
+            "other": 0
+          },
+          "founder_welcome_drip": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "delivery_exception_carrier": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "refund_processed_notice": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "bank_alert": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_offline_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 9,
+            "review": 5,
+            "machine": 0,
+            "other": 0
+          },
+          "ooo_travelling_personal": {
+            "category": "auto_reply",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "appointment_reminder": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 0,
+            "review": 14,
+            "machine": 0,
+            "other": 0
+          },
+          "order_confirmation_shop": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          },
+          "pricing_change_from_a_person": {
+            "category": "bulk",
+            "marked": 0,
+            "n": 14,
+            "replied": 14,
+            "review": 0,
+            "machine": 0,
+            "other": 0
+          }
+        }
+      }
+    }
+  },
+  "crash_tests": {
+    "pipeline_targeted": {
+      "mode": "targeted",
+      "responder": "pipeline",
+      "kills_delivered": 60,
+      "kills_by_point": {
+        "after_ingest_row": 3,
+        "after_triage_row": 3,
+        "before_smtp": 18,
+        "after_smtp_before_commit": 18,
+        "after_sent_commit": 18
+      },
+      "process_runs": 61,
+      "delivery": {
+        "delivered_total": 681,
+        "delivered_unique": 681,
+        "duplicates": 0,
+        "messages_answered_twice_or_more": 0,
+        "lost": 0,
+        "unexpected": 0
+      },
+      "seconds": 18.2,
+      "final_states": {
+        "DONE": 519,
+        "SENT": 681
+      },
+      "reconciliation": {
+        "already_delivered_not_resent": 18,
+        "never_delivered_resent": 18,
+        "sent_to_manual_review": 0
+      }
+    },
+    "pipeline_random_wall_clock": {
+      "mode": "random_wall_clock",
+      "responder": "pipeline",
+      "kills_delivered": 40,
+      "process_runs": 41,
+      "send_delay_ms": 25,
+      "delivery": {
+        "delivered_total": 681,
+        "delivered_unique": 681,
+        "duplicates": 0,
+        "messages_answered_twice_or_more": 0,
+        "lost": 0,
+        "unexpected": 0
+      },
+      "final_states": {
+        "DONE": 519,
+        "SENT": 681
+      },
+      "reconciliation": {
+        "already_delivered_not_resent": 2,
+        "never_delivered_resent": 27,
+        "sent_to_manual_review": 0
+      },
+      "seconds": 25.6
+    },
+    "naive_targeted": {
+      "mode": "targeted",
+      "responder": "naive",
+      "kills_delivered": 54,
+      "kills_by_point": {
+        "before_smtp": 18,
+        "after_smtp_before_commit": 18,
+        "after_sent_commit": 18
+      },
+      "process_runs": 55,
+      "delivery": {
+        "delivered_total": 1264,
+        "delivered_unique": 1200,
+        "duplicates": 64,
+        "messages_answered_twice_or_more": 63,
+        "lost": 0,
+        "unexpected": 0
+      },
+      "seconds": 11.8,
+      "duplicates_caused_by_crashes": 18
+    }
+  }
+}

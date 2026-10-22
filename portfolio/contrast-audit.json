@@ -1,0 +1,128 @@
+[
+ {
+  "theme": "light",
+  "text": "ink",
+  "on": "bg",
+  "ratio": 15.66,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "ink",
+  "on": "panel",
+  "ratio": 13.92,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "mute",
+  "on": "bg",
+  "ratio": 6.05,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "mute",
+  "on": "panel",
+  "ratio": 5.38,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "good",
+  "on": "bg",
+  "ratio": 5.68,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "good",
+  "on": "panel",
+  "ratio": 5.04,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "bad",
+  "on": "bg",
+  "ratio": 5.22,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "bad",
+  "on": "panel",
+  "ratio": 4.64,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "light",
+  "text": "neutral (graphics only)",
+  "on": "bg",
+  "ratio": 4.11,
+  "passes_AA_graphics": true
+ },
+ {
+  "theme": "dark",
+  "text": "ink",
+  "on": "bg",
+  "ratio": 15.95,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "ink",
+  "on": "panel",
+  "ratio": 14.58,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "mute",
+  "on": "bg",
+  "ratio": 7.83,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "mute",
+  "on": "panel",
+  "ratio": 7.15,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "good",
+  "on": "bg",
+  "ratio": 10.38,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "good",
+  "on": "panel",
+  "ratio": 9.49,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "bad",
+  "on": "bg",
+  "ratio": 7.75,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "bad",
+  "on": "panel",
+  "ratio": 7.08,
+  "passes_AA_normal": true
+ },
+ {
+  "theme": "dark",
+  "text": "neutral (graphics only)",
+  "on": "bg",
+  "ratio": 5.92,
+  "passes_AA_graphics": true
+ }
+]

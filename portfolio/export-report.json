@@ -1,0 +1,170 @@
+[
+ {
+  "image": "01-outcome",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 331278,
+  "jpg_bytes": 1038163,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 69,
+   "Instrument Serif": 18,
+   "Hanken Grotesk SemiBold": 23,
+   "Hanken Grotesk Medium": 54,
+   "IBM Plex Mono": 176
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 20
+ },
+ {
+  "image": "02-in-action",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 672417,
+  "jpg_bytes": 2279098,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 97,
+   "Instrument Serif": 29,
+   "Hanken Grotesk Medium": 184,
+   "Hanken Grotesk SemiBold": 181,
+   "IBM Plex Mono": 273,
+   "Hanken Grotesk": 640
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 19
+ },
+ {
+  "image": "03-the-problem",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 385694,
+  "jpg_bytes": 1421776,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 143,
+   "Instrument Serif": 35,
+   "Hanken Grotesk SemiBold": 6,
+   "Hanken Grotesk Medium": 154,
+   "IBM Plex Mono": 222
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 20
+ },
+ {
+  "image": "04-the-approach",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 418810,
+  "jpg_bytes": 1742351,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 55,
+   "Instrument Serif": 38,
+   "Hanken Grotesk Medium": 179,
+   "Hanken Grotesk SemiBold": 69,
+   "IBM Plex Mono": 572
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 19
+ },
+ {
+  "image": "05-the-data",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 539628,
+  "jpg_bytes": 1867239,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 224,
+   "Instrument Serif": 49,
+   "Hanken Grotesk Medium": 144,
+   "IBM Plex Mono": 406,
+   "Hanken Grotesk SemiBold": 46
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 20
+ },
+ {
+  "image": "06-the-proof",
+  "pixels": [
+   4000,
+   3000
+  ],
+  "dpi": [
+   300,
+   300
+  ],
+  "srgb_profile_embedded": true,
+  "png_bytes": 399588,
+  "jpg_bytes": 1358599,
+  "within_5MB": true,
+  "font_load_errors": 0,
+  "glyphs_by_family": {
+   "IBM Plex Mono Medium": 174,
+   "Instrument Serif": 37,
+   "Hanken Grotesk Medium": 125,
+   "IBM Plex Mono": 386
+  },
+  "fallback_fonts_used": [],
+  "overlapping_text_pairs": [],
+  "clipped_elements": [],
+  "min_text_margin_css_px": 46.5,
+  "smallest_text_css_px": 20
+ }
+]

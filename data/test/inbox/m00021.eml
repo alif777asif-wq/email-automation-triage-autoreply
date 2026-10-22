@@ -1,0 +1,29 @@
+From: Kenji Yilmaz <kenji.yilmaz@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 03:38:25 -0500
+Message-ID: <dc5b91346dc70c1f3c1b@example.org>
+MIME-Version: 1.0
+Subject: Please cancel and refund
+Content-Type: multipart/alternative;
+ boundary="===============5012055428521316406=="
+
+--===============5012055428521316406==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Please cancel order ORD94995 and refund $3982.65 to my original payment metho=
+d. I changed my mind.
+
+--===============5012055428521316406==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Please cancel order ORD94995 and refund $3982.65 to my original payment m=
+ethod. I changed my mind.</p></body></html>
+
+--===============5012055428521316406==--

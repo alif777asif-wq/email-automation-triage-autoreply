@@ -1,0 +1,42 @@
+From: Nadia Schmidt <nadia.schmidt@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 04:12:24 -0500
+Message-ID: <b677476aa6dfb3eb0b17@example.com>
+MIME-Version: 1.0
+Subject: Cannot sign in after the update
+Content-Type: multipart/mixed; boundary="===============4490938998118293183=="
+
+--===============4490938998118293183==
+Content-Type: multipart/alternative;
+ boundary="===============0498666527342770775=="
+
+--===============0498666527342770775==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Safari 17.
+
+--===============0498666527342770775==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Safari 17.</p></body></html>
+
+--===============0498666527342770775==--
+
+--===============4490938998118293183==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4490938998118293183==--

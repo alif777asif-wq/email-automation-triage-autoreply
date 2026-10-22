@@ -1,0 +1,34 @@
+From: Marek Kowalski <marek.kowalski@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:08:30 +0200
+Message-ID: <53c2ca84e2ab86ee556b@example.org>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============7204958984875800691=="
+
+--===============7204958984875800691==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order ORD-28122 last week and the tracking page has not updated in f=
+ive days. When will it be delivered?
+
+--=20
+Marek Kowalski
+Copperline Supply
+
+--===============7204958984875800691==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order ORD-28122 last week and the tracking page has not updated in =
+five days. When will it be delivered?</p><p style=3D"margin:0 0 12px">-- <br>=
+Marek Kowalski<br>Copperline Supply</p></body></html>
+
+--===============7204958984875800691==--

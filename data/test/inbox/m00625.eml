@@ -1,0 +1,29 @@
+From: Nora Duarte <nora.duarte@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 06:59:49 +0100
+Message-ID: <2f499851c193ff12e360@example.com>
+MIME-Version: 1.0
+Subject: Return request for ORD-84176
+Content-Type: multipart/alternative;
+ boundary="===============1904871381631113310=="
+
+--===============1904871381631113310==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I would like to return order ORD-84176 and get a refund of USD 2952.78. The i=
+tem arrived damaged.
+
+--===============1904871381631113310==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I would like to return order ORD-84176 and get a refund of USD 2952.78. The =
+item arrived damaged.</p></body></html>
+
+--===============1904871381631113310==--

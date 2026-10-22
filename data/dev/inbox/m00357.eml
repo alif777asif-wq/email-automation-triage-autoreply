@@ -1,0 +1,34 @@
+From: Rohan Schmidt <rohan.schmidt@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:34:25 +0000
+Message-ID: <1fa89382bb1a9ad2c39e@example.com>
+MIME-Version: 1.0
+Subject: Cannot sign in after the update
+Content-Type: multipart/alternative;
+ boundary="===============8259939431975325696=="
+
+--===============8259939431975325696==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes evrey time I open the settings page. =
+I reinstalled it but the error is stlil there. Version 5.9.4.
+
+--=20
+Rohan Schmidt
+Birchwood Studio
+
+--===============8259939431975325696==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes evrey time I open the settings page.=
+ I reinstalled it but the error is stlil there. Version 5.9.4.</p><p style=3D=
+"margin:0 0 12px">-- <br>Rohan Schmidt<br>Birchwood Studio</p></body></html>
+
+--===============8259939431975325696==--

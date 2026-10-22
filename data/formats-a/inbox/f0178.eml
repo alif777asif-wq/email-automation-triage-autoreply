@@ -1,0 +1,12 @@
+From: Acme Security <security@accounts178.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 05:46:00 +0000
+Message-ID: <7a0942231b4bcecc4213@mx.example.net>
+Subject: Your sign-in code is 752143
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Use this code to sign in. It expires in 10 minutes.
+
+If you didn't request this code, you can safely ignore this email.

@@ -1,0 +1,45 @@
+From: Nora Chen <nora.chen@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 15:39:36 +0000
+Message-ID: <c6aed206e7ff4ac0a579@example.org>
+MIME-Version: 1.0
+Subject: Please cancel and refund
+Content-Type: multipart/alternative;
+ boundary="===============5556736146058750827=="
+
+--===============5556736146058750827==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I would like to return order ORD66170 and get a refund of $2,703.18. The item=
+ arrived damaged.
+
+--=20
+Nora Chen
+Kestrel Logistics
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi support,
+>=20
+> Exporting a report fails with an error and the download never starts. It wo=
+rked fine last week. Version 5.2.2.
+
+--===============5556736146058750827==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I would like to return order ORD66170 and get a refund of $2,703.18. The ite=
+m arrived damaged.</p><p style=3D"margin:0 0 12px">-- <br>Nora Chen<br>Kestre=
+l Logistics</p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 2=
+8 Feb 2026, Support &lt;support@shop.example&gt; wrote:</div><blockquote clas=
+s=3D"gmail_quote">Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 5.2.2.</blockquote></div></body></html>
+
+--===============5556736146058750827==--

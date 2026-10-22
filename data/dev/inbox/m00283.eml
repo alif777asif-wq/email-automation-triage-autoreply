@@ -1,0 +1,34 @@
+From: =?utf-8?q?S=C3=B8ren?= Silva <soren.silva@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:50:51 -0800
+Message-ID: <f0d30beb549961f2fee6@example.net>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: multipart/alternative;
+ boundary="===============5096515070703560679=="
+
+--===============5096515070703560679==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shwos a blank page. Restar=
+ting did not help. My previous order arrived on time.
+
+--=20
+S=C3=B8ren Silva
+Northfield Clinic
+
+--===============5096515070703560679==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shwos a blank page. Re=
+starting did not help. My previous order arrived on time.</p><p style=3D"marg=
+in:0 0 12px">-- <br>S=C3=B8ren Silva<br>Northfield Clinic</p></body></html>
+
+--===============5096515070703560679==--

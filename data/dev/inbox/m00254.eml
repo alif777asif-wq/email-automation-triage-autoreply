@@ -1,0 +1,30 @@
+From: Viktor Novak <viktor.novak@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:22:29 +0530
+Message-ID: <1c56b8d975e9e3db6bf3@example.org>
+MIME-Version: 1.0
+Subject: Need a copy of invoice INV-2026-4051
+Content-Type: multipart/mixed; boundary="===============4358712788747753526=="
+
+--===============4358712788747753526==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV-2026-4051 ($3,907.44). We need a c=
+orrected invoice for our records.
+
+--=20
+Viktor Novak
+Larkspur Foods
+
+--===============4358712788747753526==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4358712788747753526==--

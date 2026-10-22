@@ -1,0 +1,14 @@
+From: Acme <support@acme-app138.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 01:06:00 +0000
+Message-ID: <7820f854434d81bd4ac6@mx.example.net>
+Subject: Reset your password
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+We got a request to reset your Acme password. Use the button below to choose =
+a new one.
+
+If you didn't ask for this, you can ignore this email and your password will =
+stay the same.

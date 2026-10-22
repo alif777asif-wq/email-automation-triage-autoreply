@@ -1,0 +1,14 @@
+From: Noah Moreau <noah.moreau@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:47:19 +0100
+Message-ID: <3d191fe8cfc0af501a72@example.com>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 5.6.3.</p><=
+p style=3D"margin:0 0 12px">-- <br>Noah Moreau<br>Birchwood Studio</p></body>=
+</html>

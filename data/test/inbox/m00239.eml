@@ -1,0 +1,27 @@
+From: Hana Berg <hana.berg@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 18:30:29 +0200
+Message-ID: <529583ac966e7a534efd@example.com>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/alternative;
+ boundary="===============0743976055001288883=="
+
+--===============0743976055001288883==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times.
+
+--===============0743976055001288883==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app freezes on the =
+start screen after the latest release. Had to force quit three times.</p></bo=
+dy></html>
+
+--===============0743976055001288883==--

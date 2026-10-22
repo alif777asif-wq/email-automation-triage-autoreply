@@ -1,0 +1,32 @@
+From: Isla Kowalski <isla.kowalski@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:00:21 +0200
+Message-ID: <6d5aa17bae4b912dcc81@example.org>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: multipart/alternative;
+ boundary="===============8364256790715358529=="
+
+--===============8364256790715358529==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Safari 17). Help?
+
+--=20
+Isla Kowalski
+Marrow Design
+
+--===============8364256790715358529==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Safari 17). Help=
+?</p><p style=3D"margin:0 0 12px">-- <br>Isla Kowalski<br>Marrow Design</p></=
+body></html>
+
+--===============8364256790715358529==--

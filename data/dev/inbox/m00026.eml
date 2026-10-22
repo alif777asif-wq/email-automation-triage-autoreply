@@ -1,0 +1,30 @@
+From: =?utf-8?q?Ana=C3=AFs?= Larsen <anais.larsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:31:12 +0530
+Message-ID: <1ee6dde13da0066bd5fc@example.net>
+MIME-Version: 1.0
+Subject: STOP
+Content-Type: multipart/alternative;
+ boundary="===============4933237269256976644=="
+
+--===============4933237269256976644==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hello, please stop emailing me. I did not sign up for this newsletter.
+
+-- 
+Anaïs Larsen
+Northfield Clinic
+
+--===============4933237269256976644==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, please stop emailing me. I d=
+id not sign up for this newsletter.</p><p style=3D"margin:0 0 12px">-- <br>An=
+a=C3=AFs Larsen<br>Northfield Clinic</p></body></html>
+
+--===============4933237269256976644==--

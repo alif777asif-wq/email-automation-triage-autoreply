@@ -1,0 +1,11 @@
+From: Mail Delivery Subsystem <mailer-daemon@googlemail102.example.com>
+To: support@shop.example
+Subject: Delivery Status Notification (Delay)
+Date: Mon, 04 May 2026 20:54:00 +0000
+Message-ID: <959ac2c7a78ff876a499@mx.example.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+** Delivery incomplete **
+
+There was a temporary problem delivering your message to ethan.ivanov102@example.com. Gmail will retry for 47 more hours. You'll be notified if the delivery fails permanently.

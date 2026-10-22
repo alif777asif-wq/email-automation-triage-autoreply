@@ -1,0 +1,32 @@
+From: Alice Nielsen <alice.nielsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:06:16 +0000
+Message-ID: <4a536a99a72e61ff03f1@example.net>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: multipart/alternative;
+ boundary="===============1693446655712429327=="
+
+--===============1693446655712429327==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 4.5.8.
+
+--=20
+Alice Nielsen
+Larkspur Foods
+
+--===============1693446655712429327==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 4.5.8.</p><=
+p style=3D"margin:0 0 12px">-- <br>Alice Nielsen<br>Larkspur Foods</p></body>=
+</html>
+
+--===============1693446655712429327==--

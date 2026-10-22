@@ -1,0 +1,34 @@
+From: Viktor Khan <viktor.khan@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:00:35 -0800
+Message-ID: <13b937e0f7b65e5396da@example.org>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/mixed; boundary="===============7016560392173852898=="
+
+--===============7016560392173852898==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times.
+
+--=20
+Viktor Khan
+Kestrel Logistics
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> The product from order #80554 does not work as described. I want my money b=
+ack ($910.60).
+
+--===============7016560392173852898==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============7016560392173852898==--

@@ -1,0 +1,32 @@
+From: Diego Bianchi <diego.bianchi@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 07:54:33 +0000
+Message-ID: <b321209993e97f8c7de8@example.org>
+MIME-Version: 1.0
+Subject: Return request for ORD-45088
+Content-Type: multipart/alternative;
+ boundary="===============8143426499192273154=="
+
+--===============8143426499192273154==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I would like to return order ORD-45088 and get a refund of $4058.12. The item=
+ arrived damaged.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============8143426499192273154==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I would like to return order ORD-45088 and get a refund of $4058.12. The ite=
+m arrived damaged.</p><p style=3D"margin:0 0 12px">This email and any attachm=
+ents are intended solely for the addressee.</p></body></html>
+
+--===============8143426499192273154==--

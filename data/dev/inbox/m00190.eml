@@ -1,0 +1,34 @@
+From: Ethan Tanaka <ethan.tanaka@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:26:09 +0530
+Message-ID: <a61974208d0724ebe8e0@example.org>
+MIME-Version: 1.0
+Subject: Enterprise plan inquiry
+Content-Type: multipart/alternative;
+ boundary="===============7917442198439336006=="
+
+--===============7917442198439336006==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Our company is interested in the enterprise plan. Could you send pricing for =
+50 seats and details about annual contracts?
+
+--=20
+Ethan Tanaka
+Northfield Clinic
+
+--===============7917442198439336006==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Our company is interested in the enterprise plan. Could you send pricing for=
+ 50 seats and details about annual contracts?</p><p style=3D"margin:0 0 12px"=
+>-- <br>Ethan Tanaka<br>Northfield Clinic</p></body></html>
+
+--===============7917442198439336006==--

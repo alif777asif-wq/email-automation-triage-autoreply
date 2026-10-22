@@ -1,0 +1,27 @@
+From: Hana =?utf-8?q?M=C3=BCller?= <hana.mueller@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 12:31:14 -0800
+Message-ID: <c934c9e6f30f48e5713a@example.org>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/alternative;
+ boundary="===============2383541371105112780=="
+
+--===============2383541371105112780==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reprots page just spnis forever sicne yesterday. The console shows=
+ a 500 failure. Version 4.1.1.
+
+--===============2383541371105112780==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reprots page just spnis =
+forever sicne yesterday. The console shows a 500 failure. Version 4.1.1.</p><=
+/body></html>
+
+--===============2383541371105112780==--

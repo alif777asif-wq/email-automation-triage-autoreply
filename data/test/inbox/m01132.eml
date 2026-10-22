@@ -1,0 +1,28 @@
+From: Hana Lopez <hana.lopez@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 01:02:21 +0100
+Message-ID: <59040a0b71201e752aef@example.org>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/mixed; boundary="===============7612864950232639890=="
+
+--===============7612864950232639890==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the USD 148.51 payment went through twice on my bank statement (INV-20=
+26-4024). Please fix it and confirm once done.
+
+--=20
+Hana Lopez
+Northfield Clinic
+
+--===============7612864950232639890==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============7612864950232639890==--

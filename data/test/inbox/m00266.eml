@@ -1,0 +1,32 @@
+From: Liam Chen <liam.chen@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 19:31:34 +0200
+Message-ID: <3485cd784b059003bac5@example.com>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/alternative;
+ boundary="===============2301754157961006653=="
+
+--===============2301754157961006653==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Firefox 128). Help?
+
+--=20
+Liam Chen
+Northfield Clinic
+
+--===============2301754157961006653==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Firefox 128). He=
+lp?</p><p style=3D"margin:0 0 12px">-- <br>Liam Chen<br>Northfield Clinic</p>=
+</body></html>
+
+--===============2301754157961006653==--

@@ -1,0 +1,27 @@
+From: Diego Moreau <diego.moreau@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:17:29 -0800
+Message-ID: <44c7d2f537fbf6a5a7a4@example.net>
+MIME-Version: 1.0
+Subject: Unsubscribe
+Content-Type: multipart/alternative;
+ boundary="===============5802087130596488932=="
+
+--===============5802087130596488932==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, please stop emailing me. I did not sign up for this newsletter. My pre=
+vious order arrived on time.
+
+--===============5802087130596488932==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, please stop emailing me. I d=
+id not sign up for this newsletter. My previous order arrived on time.</p></b=
+ody></html>
+
+--===============5802087130596488932==--

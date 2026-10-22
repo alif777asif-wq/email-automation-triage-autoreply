@@ -1,0 +1,31 @@
+From: =?utf-8?q?Tom=C3=A1s?= Larsen <tomas.larsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:07:31 +0200
+Message-ID: <206b28b61e8465d3e2df@example.net>
+MIME-Version: 1.0
+Subject: STOP
+Content-Type: multipart/alternative;
+ boundary="===============0894271992549421735=="
+
+--===============0894271992549421735==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please remove me from your mailing list. I no longer want to receive promotio=
+nal emails.
+
+--=20
+Tom=C3=A1s Larsen
+Kestrel Logistics
+
+--===============0894271992549421735==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Please remove me from your mailing =
+list. I no longer want to receive promotional emails.</p><p style=3D"margin:0=
+ 0 12px">-- <br>Tom=C3=A1s Larsen<br>Kestrel Logistics</p></body></html>
+
+--===============0894271992549421735==--

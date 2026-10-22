@@ -1,0 +1,45 @@
+From: Oskar Rossi <oskar.rossi@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 20:56:09 +0200
+Message-ID: <d509bb524f3bb14fd85b@example.com>
+MIME-Version: 1.0
+Subject: INV2026-6478 - question
+Content-Type: multipart/mixed; boundary="===============7345324270978226059=="
+
+--===============7345324270978226059==
+Content-Type: multipart/alternative;
+ boundary="===============0763079829794212805=="
+
+--===============0763079829794212805==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $4293.95 last month (INV2026=
+-6478) for my expense report. Thanks!
+
+--=20
+Oskar Rossi
+Larkspur Foods
+
+--===============0763079829794212805==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, I need an official receipt for =
+my payment of $4293.95 last month (INV2026-6478) for my expense report. Thank=
+s!</p><p style=3D"margin:0 0 12px">-- <br>Oskar Rossi<br>Larkspur Foods</p></=
+body></html>
+
+--===============0763079829794212805==--
+
+--===============7345324270978226059==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============7345324270978226059==--

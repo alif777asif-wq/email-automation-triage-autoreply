@@ -1,0 +1,34 @@
+From: Ines Santos <ines.santos@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:54:49 +0200
+Message-ID: <6dc7309cf6ea04023787@example.net>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/alternative;
+ boundary="===============1177528145468304830=="
+
+--===============1177528145468304830==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+--=20
+Ines Santos
+Kestrel Logistics
+
+--===============1177528145468304830==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p><p style=3D"margin:0 0 12px">-- <br>Ines Santos<br>=
+Kestrel Logistics</p></body></html>
+
+--===============1177528145468304830==--

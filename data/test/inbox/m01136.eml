@@ -1,0 +1,32 @@
+From: Greta Alvarez <greta.alvarez@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 02:10:32 +0200
+Message-ID: <cdc23f2c179ece3bcdf3@example.org>
+MIME-Version: 1.0
+Subject: Team plan cost?
+Content-Type: multipart/alternative;
+ boundary="===============2360664938018732257=="
+
+--===============2360664938018732257==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 8 and looking at your product for next quarter. What wou=
+ld the cost be, and could someone give us a walkthrough?
+
+--=20
+Greta Alvarez
+Larkspur Foods
+
+--===============2360664938018732257==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 8 and looking =
+at your product for next quarter. What would the cost be, and could someone g=
+ive us a walkthrough?</p><p style=3D"margin:0 0 12px">-- <br>Greta Alvarez<br=
+>Larkspur Foods</p></body></html>
+
+--===============2360664938018732257==--

@@ -1,0 +1,36 @@
+From: Arjun Hughes <arjun.hughes@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:51:14 +0530
+Message-ID: <7eccb67635ac39dd82b4@example.org>
+MIME-Version: 1.0
+Subject: Need a copy of invoice INV-2026-5146
+Content-Type: multipart/alternative;
+ boundary="===============1414335081856061582=="
+
+--===============1414335081856061582==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV-2026-5146 for $474.24, but the total does not match o=
+ur agreement. Could you check the charge and send a corrected invoice? I may =
+ask for a refund later if this is not resolved.
+
+--=20
+Arjun Hughes
+Copperline Supply
+
+--===============1414335081856061582==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We received invoice INV-2026-5146 for $474.24, but the total does not mat=
+ch our agreement. Could you check the charge and send a corrected invoice? I =
+may ask for a refund later if this is not resolved.</p><p style=3D"margin:0 0=
+ 12px">-- <br>Arjun Hughes<br>Copperline Supply</p></body></html>
+
+--===============1414335081856061582==--

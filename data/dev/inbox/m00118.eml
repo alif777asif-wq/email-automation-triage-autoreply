@@ -1,0 +1,29 @@
+From: Nadia Duarte <nadia.duarte@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:50:15 +0530
+Message-ID: <f4c50a7f193417a1a5dd@example.net>
+MIME-Version: 1.0
+Subject: Invoice INV 2026-8745: amount looks wrong
+Content-Type: multipart/alternative;
+ boundary="===============4881934593398198085=="
+
+--===============4881934593398198085==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+My card was charged $66.03 twice this month (invoice INV 2026-8745). Please l=
+ook into the duplicate payment.
+
+--===============4881934593398198085==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>My card was charged $66.03 twice this month (invoice INV 2026-8745). Please =
+look into the duplicate payment.</p></body></html>
+
+--===============4881934593398198085==--

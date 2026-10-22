@@ -1,0 +1,33 @@
+From: Arjun =?utf-8?q?M=C3=BCller?= <arjun.mueller@example.com>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 01:54:04 +0000
+Message-ID: <f66a118042e8a3f8be0c@example.com>
+MIME-Version: 1.0
+Subject: Late delivery
+Content-Type: multipart/alternative;
+ boundary="===============4288254288975286360=="
+
+--===============4288254288975286360==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (ORD-18350) and nothing has turned =
+up. Could you let me know what is going on?
+
+Sent from my phone
+
+This email and any attachments are intended solely for the addressee.
+
+--===============4288254288975286360==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (ORD-18350) and nothing has turned up. Could you let me know what is g=
+oing on?</p><p style=3D"margin:0 0 12px">Sent from my phone</p><p style=3D"ma=
+rgin:0 0 12px">This email and any attachments are intended solely for the add=
+ressee.</p></body></html>
+
+--===============4288254288975286360==--

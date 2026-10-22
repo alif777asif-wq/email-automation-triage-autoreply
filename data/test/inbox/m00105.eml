@@ -1,0 +1,35 @@
+From: Noah Sato <noah.sato@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:12:01 +0530
+Message-ID: <cb6c5e5535912c3b939c@example.com>
+MIME-Version: 1.0
+Subject: Please reverse the payment
+Content-Type: multipart/alternative;
+ boundary="===============0184040507929961772=="
+
+--===============0184040507929961772==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, please reverse the $487.87 payment for #39521. I no longer need it and ha=
+ve not opened the box.
+
+--=20
+Noah Sato
+Birchwood Studio
+
+This email and any attachments are intended solely for the addressee.
+
+--===============0184040507929961772==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, please reverse the $487.87 paym=
+ent for #39521. I no longer need it and have not opened the box.</p><p style=
+=3D"margin:0 0 12px">-- <br>Noah Sato<br>Birchwood Studio</p><p style=3D"marg=
+in:0 0 12px">This email and any attachments are intended solely for the addre=
+ssee.</p></body></html>
+
+--===============0184040507929961772==--

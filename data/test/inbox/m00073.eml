@@ -1,0 +1,33 @@
+From: Diego Evans <diego.evans@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 05:23:26 -0500
+Message-ID: <ab1c5a0e20ae7409a049@example.org>
+MIME-Version: 1.0
+Subject: Late delivery
+Content-Type: multipart/alternative;
+ boundary="===============7034072841613037891=="
+
+--===============7034072841613037891==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (ORD44682) and nothing has turned u=
+p. Could you let me know what is going on?
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello, please stop emailing me. I did not sign up for this newsletter.
+
+--===============7034072841613037891==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (ORD44682) and nothing has turned up. Could you let me know what is go=
+ing on?</p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Fe=
+b 2026, Support &lt;support@shop.example&gt; wrote:</div><blockquote class=3D=
+"gmail_quote">Hello, please stop emailing me. I did not sign up for this news=
+letter.</blockquote></div></body></html>
+
+--===============7034072841613037891==--

@@ -1,0 +1,14 @@
+From: Delivery Status Notification <notifications@bounce.example.org>
+To: support@shop.example
+Subject: Delivery Status Notification (Failure)
+Date: Mon, 02 Mar 2026 17:39:43 +0100
+Message-ID: <12e61e28f927c9af228d@mx.example.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Delivery to the following recipient failed permanently:
+
+     nadia.varga@example.org
+
+Technical details of permanent failure:
+DNS Error: Domain name not found

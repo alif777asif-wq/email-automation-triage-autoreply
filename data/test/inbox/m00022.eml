@@ -1,0 +1,13 @@
+From: Felix Alvarez <felix.alvarez@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 03:41:43 -0500
+Message-ID: <dc53fdbcd98433ab5ca8@example.org>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 5.1.8.

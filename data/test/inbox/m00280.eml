@@ -1,0 +1,38 @@
+From: =?utf-8?q?S=C3=B8ren?= Novak <soren.novak@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 18:00:38 +0000
+Message-ID: <fa0abfc67e068925bb2e@example.org>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: multipart/alternative;
+ boundary="===============2963013538688030133=="
+
+--===============2963013538688030133==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times. My last invoice was fine, by the way.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> I would like to return order ORD-13238 and get a refund of $309.90. The ite=
+m arrived damaged.
+
+--===============2963013538688030133==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app freezes on the =
+start screen after the latest release. Had to force quit three times. My last=
+ invoice was fine, by the way.</p><div class=3D"gmail_quote"><div class=3D"gm=
+ail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.example&gt; wrote:</d=
+iv><blockquote class=3D"gmail_quote">Hi,
+
+I would like to return order ORD-13238 and get a refund of $309.90. The item =
+arrived damaged.</blockquote></div></body></html>
+
+--===============2963013538688030133==--

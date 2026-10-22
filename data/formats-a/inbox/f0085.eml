@@ -1,0 +1,14 @@
+From: Mail Delivery Subsystem <mailer-daemon@googlemail085.example.com>
+To: support@shop.example
+Subject: Delivery Status Notification (Failure)
+Date: Mon, 04 May 2026 18:55:00 +0000
+Message-ID: <4379cca500a457794948@mx.example.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+** Address not found **
+
+Your message wasn't delivered to oskar.mueller85@example.net because the address couldn't be found, or is unable to receive mail.
+
+The response was:
+550 5.1.1 The email account that you tried to reach does not exist.

@@ -1,0 +1,38 @@
+From: Ines Tanaka <ines.tanaka@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 00:00:14 +0100
+Message-ID: <a5c1ca490fc1afdee6a2@example.org>
+MIME-Version: 1.0
+Subject: Interested in your product
+Content-Type: multipart/alternative;
+ boundary="===============6869650767086457684=="
+
+--===============6869650767086457684==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there, I manage IT for a mid-size company. We would like to discuss licens=
+ing options for 12 users.
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi there,
+>=20
+> The VAT number is missing from invoice INV-2026-0078 ($3,383.50). We need a=
+ corrected invoice for our records.
+
+--===============6869650767086457684==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there, I manage IT for a mid-siz=
+e company. We would like to discuss licensing options for 12 users.</p><div c=
+lass=3D"gmail_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026, Support &=
+lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi =
+there,
+
+The VAT number is missing from invoice INV-2026-0078 ($3,383.50). We need a c=
+orrected invoice for our records.</blockquote></div></body></html>
+
+--===============6869650767086457684==--

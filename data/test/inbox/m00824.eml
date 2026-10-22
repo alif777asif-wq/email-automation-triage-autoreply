@@ -1,0 +1,34 @@
+From: Arjun Chen <arjun.chen@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 15:04:28 +0200
+Message-ID: <232c34243629a531a66e@example.com>
+MIME-Version: 1.0
+Subject: Question about invoice INV-2026-3768
+Content-Type: multipart/alternative;
+ boundary="===============6028786556106120783=="
+
+--===============6028786556106120783==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+My card was charged USD 1,653.83 twice this month (invoice INV-2026-3768). Pl=
+ease look into the duplicate payment.
+
+--=20
+Arjun Chen
+Birchwood Studio
+
+--===============6028786556106120783==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>My card was charged USD 1,653.83 twice this month (invoice INV-2026-3768). P=
+lease look into the duplicate payment.</p><p style=3D"margin:0 0 12px">-- <br=
+>Arjun Chen<br>Birchwood Studio</p></body></html>
+
+--===============6028786556106120783==--

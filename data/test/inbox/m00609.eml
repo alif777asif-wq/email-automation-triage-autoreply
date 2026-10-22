@@ -1,0 +1,29 @@
+From: =?utf-8?q?Ana=C3=AFs?= Bianchi <anais.bianchi@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 07:27:52 +0200
+Message-ID: <4bc31f2d09443b536d15@example.com>
+MIME-Version: 1.0
+Subject: Need a copy of invoice INV-2026-8994
+Content-Type: multipart/alternative;
+ boundary="===============1600467234094483406=="
+
+--===============1600467234094483406==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV-2026-8994 ($2150.86). We need a co=
+rrected invoice for our records.
+
+--===============1600467234094483406==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from invoice INV-2026-8994 ($2150.86). We ne=
+ed a corrected invoice for our records.</p></body></html>
+
+--===============1600467234094483406==--

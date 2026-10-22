@@ -1,0 +1,58 @@
+From: Alice Schmidt <alice.schmidt@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:46:52 +0200
+Message-ID: <95023267aaff870ec073@example.com>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/mixed; boundary="===============2110927154948168872=="
+
+--===============2110927154948168872==
+Content-Type: multipart/alternative;
+ boundary="===============5086920666105131976=="
+
+--===============5086920666105131976==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 4.6.5.
+
+--=20
+Alice Schmidt
+Quill & Anchor
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> The product from order ORD-93890 does not work as described. I want my mone=
+y back ($2700.94).
+
+--===============5086920666105131976==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 4.6.5.</p><p style=3D=
+"margin:0 0 12px">-- <br>Alice Schmidt<br>Quill &amp; Anchor</p><div class=3D=
+"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;supp=
+ort@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi,
+
+The product from order ORD-93890 does not work as described. I want my money =
+back ($2700.94).</blockquote></div></body></html>
+
+--===============5086920666105131976==--
+
+--===============2110927154948168872==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============2110927154948168872==--

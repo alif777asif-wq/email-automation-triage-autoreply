@@ -1,0 +1,32 @@
+From: Nadia Cruz <nadia.cruz@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:49:38 +0000
+Message-ID: <60f80b15fa7929dcf2a7@example.com>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/alternative;
+ boundary="===============8438007733285426983=="
+
+--===============8438007733285426983==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the USD 1717.96 payment went through twice on my bank statement (INV-2=
+026-5459). Please fix it and confirm once done.
+
+--=20
+Nadia Cruz
+Marrow Design
+
+--===============8438007733285426983==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the USD 1717.96 payment went=
+ through twice on my bank statement (INV-2026-5459). Please fix it and confir=
+m once done.</p><p style=3D"margin:0 0 12px">-- <br>Nadia Cruz<br>Marrow Desi=
+gn</p></body></html>
+
+--===============8438007733285426983==--

@@ -1,0 +1,42 @@
+From: Ines Schmidt <ines.schmidt@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 05:59:06 -0800
+Message-ID: <95fff9af5d93b1cd64fc@example.com>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/mixed; boundary="===============9221418589922195379=="
+
+--===============9221418589922195379==
+Content-Type: multipart/alternative;
+ boundary="===============3298129002159879044=="
+
+--===============3298129002159879044==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Edge 126.
+
+--===============3298129002159879044==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Edge 126.</p></body></html>
+
+--===============3298129002159879044==--
+
+--===============9221418589922195379==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============9221418589922195379==--

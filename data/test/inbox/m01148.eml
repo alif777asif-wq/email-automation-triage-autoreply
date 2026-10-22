@@ -1,0 +1,28 @@
+From: Ava Berg <ava.berg@example.com>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 02:34:44 +0200
+Message-ID: <0faf28abb5a47a09062a@example.com>
+MIME-Version: 1.0
+Subject: STOP
+Content-Type: multipart/alternative;
+ boundary="===============4780983464062138827=="
+
+--===============4780983464062138827==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Unsubscribe me from all marketing messages, please.
+
+Sent from my phone
+
+--===============4780983464062138827==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Unsubscribe me from all marketing m=
+essages, please.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></body=
+></html>
+
+--===============4780983464062138827==--

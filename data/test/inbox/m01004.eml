@@ -1,0 +1,37 @@
+From: Amara Petrov <amara.petrov@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 21:23:47 +0200
+Message-ID: <b7973cf275d36cd60fd3@example.net>
+MIME-Version: 1.0
+Subject: Late delivery
+Content-Type: multipart/alternative;
+ boundary="===============8482649637645705732=="
+
+--===============8482649637645705732==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello! Just checking whether my parcel has left your warehouse yet. Order #42=
+694. Thanks.
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> Our company is interested in the enterprise plan. Could you send pricing fo=
+r 120 seats and details about annual contracts?
+
+--===============8482649637645705732==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello! Just checking whether my par=
+cel has left your warehouse yet. Order #42694. Thanks.</p><div class=3D"gmail=
+_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026, Support &lt;support@sh=
+op.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi,
+
+Our company is interested in the enterprise plan. Could you send pricing for =
+120 seats and details about annual contracts?</blockquote></div></body></html>
+
+--===============8482649637645705732==--

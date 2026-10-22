@@ -1,0 +1,29 @@
+From: Kenji Haddad <kenji.haddad@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:17:57 +0000
+Message-ID: <6a5c0c2424b49ff09aee@example.net>
+MIME-Version: 1.0
+Subject: Pricing for 25 seats
+Content-Type: multipart/alternative;
+ boundary="===============0279809391963227891=="
+
+--===============0279809391963227891==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Our company is interested in the enterprise plan. Could you send pricing for =
+25 seats and details about annual contracts?
+
+--===============0279809391963227891==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Our company is interested in the enterprise plan. Could you send pricing for=
+ 25 seats and details about annual contracts?</p></body></html>
+
+--===============0279809391963227891==--

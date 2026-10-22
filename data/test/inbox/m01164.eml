@@ -1,0 +1,45 @@
+From: Daniel Larsen <daniel.larsen@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 01:07:25 +0000
+Message-ID: <5ea5a92426f1d1a8a1ba@example.org>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/mixed; boundary="===============3424543166447916668=="
+
+--===============3424543166447916668==
+Content-Type: multipart/alternative;
+ boundary="===============0048626265917637917=="
+
+--===============0048626265917637917==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the $2,829.54 payment went through twice on my bank statement (INV-202=
+6-3258). Please fix it and confirm once done.
+
+--=20
+Daniel Larsen
+Northfield Clinic
+
+--===============0048626265917637917==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the $2,829.54 payment went t=
+hrough twice on my bank statement (INV-2026-3258). Please fix it and confirm =
+once done.</p><p style=3D"margin:0 0 12px">-- <br>Daniel Larsen<br>Northfield=
+ Clinic</p></body></html>
+
+--===============0048626265917637917==--
+
+--===============3424543166447916668==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============3424543166447916668==--

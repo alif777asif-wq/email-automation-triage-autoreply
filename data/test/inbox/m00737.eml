@@ -1,0 +1,24 @@
+From: Mateo Novak <mateo.novak@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 15:14:01 +0530
+Message-ID: <959d95b08e44140d4814@example.com>
+MIME-Version: 1.0
+Subject: Payment went through twice
+Content-Type: multipart/mixed; boundary="===============8619910632824762743=="
+
+--===============8619910632824762743==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $2604.90 last month (INV 202=
+6-5813) for my expense report. Thanks!
+
+--===============8619910632824762743==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============8619910632824762743==--

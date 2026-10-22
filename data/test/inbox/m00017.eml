@@ -1,0 +1,29 @@
+From: =?utf-8?q?Tom=C3=A1s?= Dupont <tomas.dupont@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 00:26:59 -0800
+Message-ID: <49730ee119f2d148d484@example.net>
+MIME-Version: 1.0
+Subject: Delivery update please
+Content-Type: multipart/alternative;
+ boundary="===============7754285440558396140=="
+
+--===============7754285440558396140==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order ORD-26101 last week and the tracking page has not updated in f=
+ive days. When will it be delivered?
+
+--===============7754285440558396140==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order ORD-26101 last week and the tracking page has not updated in =
+five days. When will it be delivered?</p></body></html>
+
+--===============7754285440558396140==--

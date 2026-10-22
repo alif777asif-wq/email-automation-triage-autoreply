@@ -1,0 +1,40 @@
+From: =?utf-8?q?Ana=C3=AFs?= Larsen <anais.larsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:35:33 -0800
+Message-ID: <258b3c82f08848c444c0@example.net>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: multipart/alternative;
+ boundary="===============1866083009915458162=="
+
+--===============1866083009915458162==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Firefox 128.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> The product from order #43596 does not work as described. I want my money b=
+ack ($4307.57).
+
+--===============1866083009915458162==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Firefox 128.</p><div class=3D"gmail_quote">=
+<div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.examp=
+le&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi,
+
+The product from order #43596 does not work as described. I want my money bac=
+k ($4307.57).</blockquote></div></body></html>
+
+--===============1866083009915458162==--

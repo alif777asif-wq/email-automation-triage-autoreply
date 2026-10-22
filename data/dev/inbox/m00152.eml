@@ -1,0 +1,29 @@
+From: Diego Novak <diego.novak@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:40:42 +0100
+Message-ID: <eaee3257bf5f13823d20@example.org>
+MIME-Version: 1.0
+Subject: Enterprise plan inquiry
+Content-Type: multipart/alternative;
+ boundary="===============0936357673281930871=="
+
+--===============0936357673281930871==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We are evaluating tools for our team of 40 people and would like a quote and =
+a short demo. Do you offer volume discounts?
+
+--===============0936357673281930871==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We are evaluating tools for our team of 40 people and would like a quote =
+and a short demo. Do you offer volume discounts?</p></body></html>
+
+--===============0936357673281930871==--

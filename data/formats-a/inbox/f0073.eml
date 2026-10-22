@@ -1,0 +1,27 @@
+From: Microsoft Outlook <postmaster@contoso-mail073.example.com>
+To: support@shop.example
+Subject: Undeliverable: Invoice INV-2026-0042 follow up
+Date: Mon, 04 May 2026 17:31:00 +0000
+Message-ID: <cee3e099f856e163d53d@mx.example.net>
+X-MS-Exchange-Message-Is-Ndr:
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="b1"
+
+--b1
+Content-Type: text/plain; charset=utf-8
+
+Delivery has failed to these recipients or groups:
+
+nora.cruz73@example.net
+The email address you entered couldn't be found. Please check the recipient's email address and try to resend the message.
+
+--b1
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mail.example.com
+
+Final-Recipient: rfc822;nora.cruz73@example.net
+Action: failed
+Status: 5.1.10
+
+--b1--

@@ -1,0 +1,34 @@
+From: Omar Schmidt <omar.schmidt@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:12:45 -0500
+Message-ID: <4b32ba8a64bf9571eeab@example.net>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: multipart/alternative;
+ boundary="===============5084736791335297898=="
+
+--===============5084736791335297898==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 3.1.8.
+
+--=20
+Omar Schmidt
+Larkspur Foods
+
+--===============5084736791335297898==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 3.1.8.</p><p style=3D=
+"margin:0 0 12px">-- <br>Omar Schmidt<br>Larkspur Foods</p></body></html>
+
+--===============5084736791335297898==--

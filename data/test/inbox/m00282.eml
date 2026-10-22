@@ -1,0 +1,28 @@
+From: Liam Tanaka <liam.tanaka@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:02:14 -0800
+Message-ID: <23501e4e90a3ea9c3a71@example.org>
+MIME-Version: 1.0
+Subject: Unsubscribe
+Content-Type: multipart/alternative;
+ boundary="===============7926050844515660480=="
+
+--===============7926050844515660480==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Unsubscribe me from all marketing messages, please.
+
+Sent from my phone
+
+--===============7926050844515660480==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Unsubscribe me from all marketing m=
+essages, please.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></body=
+></html>
+
+--===============7926050844515660480==--

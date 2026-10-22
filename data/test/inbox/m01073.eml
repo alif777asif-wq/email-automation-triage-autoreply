@@ -1,0 +1,32 @@
+From: Rohan Tanaka <rohan.tanaka@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 03:22:50 +0530
+Message-ID: <6f3f86eb184be6ad129b@example.org>
+MIME-Version: 1.0
+Subject: Has my parcel shipped yet?
+Content-Type: multipart/alternative;
+ boundary="===============4912053980313780794=="
+
+--===============4912053980313780794==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (ORD85299) and nothing has turned u=
+p. Could you let me know what is going on?
+
+--=20
+Rohan Tanaka
+Tidewater Labs
+
+--===============4912053980313780794==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (ORD85299) and nothing has turned up. Could you let me know what is go=
+ing on?</p><p style=3D"margin:0 0 12px">-- <br>Rohan Tanaka<br>Tidewater Labs=
+</p></body></html>
+
+--===============4912053980313780794==--

@@ -1,0 +1,15 @@
+From: CI <noreply@ci027.example.com>
+To: support@shop.example
+Date: Mon, 04 May 2026 12:09:00 +0000
+Message-ID: <e278586f17e8fa7125a4@mx.example.net>
+Subject: [widgets/api] Run failed: tests - main (#2632)
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Run #2632 failed on main (ac47916).
+
+Tests failed: 5
+First failure: test_checkout_totals
+
+View the run in your browser to see the logs.

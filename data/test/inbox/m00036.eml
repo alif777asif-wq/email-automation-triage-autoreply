@@ -1,0 +1,26 @@
+From: =?utf-8?q?Zo=C3=AB?= Kim <zoe.kim@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 01:07:34 -0800
+Message-ID: <8ecaa2204b36c0d88466@example.org>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/mixed; boundary="===============4854897260770684740=="
+
+--===============4854897260770684740==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, I need an official receipt for =
+my payment of USD 3,547.06 last month (INV 2026-3897) for my expense report. =
+Thanks!</p></body></html>
+
+--===============4854897260770684740==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4854897260770684740==--

@@ -1,0 +1,34 @@
+From: Nadia Tanaka <nadia.tanaka@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:37:15 +0100
+Message-ID: <0e96ef58f2ccd7e8d1cc@example.net>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/alternative;
+ boundary="===============9022582473851338176=="
+
+--===============9022582473851338176==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 3.2.3.
+
+--=20
+Nadia Tanaka
+Birchwood Studio
+
+--===============9022582473851338176==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 3.2.3.</p><p style=3D"margin:0 0 12px">--=
+ <br>Nadia Tanaka<br>Birchwood Studio</p></body></html>
+
+--===============9022582473851338176==--

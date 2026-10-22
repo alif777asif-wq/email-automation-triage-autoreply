@@ -1,0 +1,27 @@
+From: Nora Bianchi <nora.bianchi@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 18:15:26 +0100
+Message-ID: <8f1fff08eb8187a7142d@example.net>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV 2026-2088
+Content-Type: multipart/mixed; boundary="===============0168913268755160939=="
+
+--===============0168913268755160939==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV 2026-2088. I was billed $4,535.31 but our plan should cost less than that=
+. Can someone take a look?</p><p style=3D"margin:0 0 12px">Sent from my phone=
+</p></body></html>
+
+--===============0168913268755160939==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0168913268755160939==--

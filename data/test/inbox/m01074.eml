@@ -1,0 +1,30 @@
+From: Kenji Santos <kenji.santos@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 13:56:48 -0800
+Message-ID: <1215dd5f933e188ebc60@example.com>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/alternative;
+ boundary="===============3286578058812794876=="
+
+--===============3286578058812794876==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 4.9.9.
+
+--===============3286578058812794876==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 4.9.9.</p></body></ht=
+ml>
+
+--===============3286578058812794876==--

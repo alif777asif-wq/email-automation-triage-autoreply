@@ -1,0 +1,32 @@
+From: Nadia Okafor <nadia.okafor@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:21:40 -0800
+Message-ID: <fdedb6a4591c59fa5bd2@example.com>
+MIME-Version: 1.0
+Subject: Has my parcel shipped yet?
+Content-Type: multipart/alternative;
+ boundary="===============1567434825786557756=="
+
+--===============1567434825786557756==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, the courier says a delivery was attempted but nobody came. Can you help m=
+e rebook? Order ORD19679. Also, what is the price of the premium plan?
+
+--=20
+Nadia Okafor
+Marrow Design
+
+--===============1567434825786557756==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, the courier says a delivery was=
+ attempted but nobody came. Can you help me rebook? Order ORD19679. Also, wha=
+t is the price of the premium plan?</p><p style=3D"margin:0 0 12px">-- <br>Na=
+dia Okafor<br>Marrow Design</p></body></html>
+
+--===============1567434825786557756==--

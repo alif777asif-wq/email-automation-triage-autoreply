@@ -1,0 +1,15 @@
+From: Hugo Okafor <hugo.okafor@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:24:48 +0100
+Message-ID: <157deddf29ee2b642bda@example.org>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.2.2.
+
+Sent from my phone
+
+This email and any attachments are intended solely for the addressee.

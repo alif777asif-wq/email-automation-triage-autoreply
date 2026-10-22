@@ -1,0 +1,15 @@
+From: =?utf-8?q?Tom=C3=A1s?= Yilmaz <tomas.yilmaz@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 01:25:23 +0200
+Message-ID: <e7e721f2eb59625022b1@example.com>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 4.8.8. My last invoice was fine, by the way.
+
+--=20
+Tom=C3=A1s Yilmaz
+Kestrel Logistics

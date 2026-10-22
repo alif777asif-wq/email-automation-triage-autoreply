@@ -1,0 +1,26 @@
+From: =?utf-8?q?Ana=C3=AFs?= Novak <anais.novak@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:31:13 +0200
+Message-ID: <9aef0c31fa4070218672@example.com>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: multipart/mixed; boundary="===============4867492527183966397=="
+
+--===============4867492527183966397==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Firefox 128). Help?
+
+This email and any attachments are intended solely for the addressee.
+
+--===============4867492527183966397==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4867492527183966397==--

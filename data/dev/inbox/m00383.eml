@@ -1,0 +1,28 @@
+From: Leila Kim <leila.kim@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 13:28:46 -0800
+Message-ID: <f487dcaeb4a0259e0aa4@example.net>
+MIME-Version: 1.0
+Subject: Question about invoice INV2026-0769
+Content-Type: multipart/mixed; boundary="===============0459790214315354236=="
+
+--===============0459790214315354236==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV2026-0769 for $4,270.41, but the total does not match =
+our agreement. Could you check the charge and send a corrected invoice?
+
+This email and any attachments are intended solely for the addressee.
+
+--===============0459790214315354236==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0459790214315354236==--

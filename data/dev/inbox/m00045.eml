@@ -1,0 +1,30 @@
+From: Noah Costa <noah.costa@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 04:40:45 -0500
+Message-ID: <d2b4b95b87c746f32dae@example.net>
+MIME-Version: 1.0
+Subject: Need a copy of invoice INV2026-7146
+Content-Type: multipart/alternative;
+ boundary="===============0088415336487460116=="
+
+--===============0088415336487460116==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV2026-7146 ($2591.65). We need a cor=
+rected invoice for our records. Also, what is the price of the premium plan?
+
+--===============0088415336487460116==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from invoice INV2026-7146 ($2591.65). We nee=
+d a corrected invoice for our records. Also, what is the price of the premium=
+ plan?</p></body></html>
+
+--===============0088415336487460116==--

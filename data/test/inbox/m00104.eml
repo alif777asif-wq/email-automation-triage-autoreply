@@ -1,0 +1,15 @@
+From: Amara Larsen <amara.larsen@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:41:02 +0100
+Message-ID: <9aa56acdd53a6c457503@example.org>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 3.6.5.
+
+--=20
+Amara Larsen
+Marrow Design

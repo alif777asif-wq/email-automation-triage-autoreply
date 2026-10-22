@@ -1,0 +1,32 @@
+From: Greta Yilmaz <greta.yilmaz@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:24:20 -0500
+Message-ID: <1bf4d27efa86c7951d2c@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============0683281402701985369=="
+
+--===============0683281402701985369==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+Sent from my phone
+
+--===============0683281402701985369==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p><p style=3D"margin:0 0 12px">Sent from my phone</p>=
+</body></html>
+
+--===============0683281402701985369==--

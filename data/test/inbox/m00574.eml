@@ -1,0 +1,36 @@
+From: Mei Varga <mei.varga@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 09:33:58 +0530
+Message-ID: <b4d0a7b9618c47f8158a@example.com>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============2818661447416894569=="
+
+--===============2818661447416894569==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order ORD24674 last week and the tracking page has not updated in fi=
+ve days. When will it be delivered? Also, what is the price of the premium pl=
+an?
+
+--=20
+Mei Varga
+Marrow Design
+
+--===============2818661447416894569==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order ORD24674 last week and the tracking page has not updated in f=
+ive days. When will it be delivered? Also, what is the price of the premium p=
+lan?</p><p style=3D"margin:0 0 12px">-- <br>Mei Varga<br>Marrow Design</p></b=
+ody></html>
+
+--===============2818661447416894569==--

@@ -1,0 +1,35 @@
+From: Noah Moreau <noah.moreau@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:02:44 -0500
+Message-ID: <97cc2819e598c968876c@example.com>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: multipart/alternative;
+ boundary="===============6193998827134890700=="
+
+--===============6193998827134890700==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 4.8.9.
+
+--=20
+Noah Moreau
+Northfield Clinic
+
+This email and any attachments are intended solely for the addressee.
+
+--===============6193998827134890700==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 4.8.9.</p><=
+p style=3D"margin:0 0 12px">-- <br>Noah Moreau<br>Northfield Clinic</p><p sty=
+le=3D"margin:0 0 12px">This email and any attachments are intended solely for=
+ the addressee.</p></body></html>
+
+--===============6193998827134890700==--

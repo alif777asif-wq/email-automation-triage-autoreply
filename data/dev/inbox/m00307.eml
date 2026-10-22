@@ -1,0 +1,34 @@
+From: Marek Haddad <marek.haddad@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 13:36:00 -0500
+Message-ID: <80cfd5a3421eabd85449@example.org>
+MIME-Version: 1.0
+Subject: I want my money back
+Content-Type: multipart/alternative;
+ boundary="===============7981952833326903346=="
+
+--===============7981952833326903346==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I would like to return order ORD-71981 and get a refund of $3944.12. The item=
+ arrived damaged.
+
+--=20
+Marek Haddad
+Birchwood Studio
+
+--===============7981952833326903346==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I would like to return order ORD-71981 and get a refund of $3944.12. The ite=
+m arrived damaged.</p><p style=3D"margin:0 0 12px">-- <br>Marek Haddad<br>Bir=
+chwood Studio</p></body></html>
+
+--===============7981952833326903346==--

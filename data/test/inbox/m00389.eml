@@ -1,0 +1,29 @@
+From: Marek Patel <marek.patel@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:52:37 +0100
+Message-ID: <7c3b528574c49c9ebb18@example.org>
+MIME-Version: 1.0
+Subject: Question about invoice INV2026-1150
+Content-Type: multipart/alternative;
+ boundary="===============4120909282478262968=="
+
+--===============4120909282478262968==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV2026-1150? Our accounting team cannot find it. Th=
+e amount due is USD 1,472.11.
+
+--===============4120909282478262968==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Good morning,</p><p style=3D"margin=
+:0 0 12px">Could you resend invoice INV2026-1150? Our accounting team cannot =
+find it. The amount due is USD 1,472.11.</p></body></html>
+
+--===============4120909282478262968==--

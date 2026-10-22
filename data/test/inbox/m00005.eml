@@ -1,0 +1,29 @@
+From: Hugo Rossi <hugo.rossi@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:07:38 +0200
+Message-ID: <53f6d4fa6b9be77e45c6@example.net>
+MIME-Version: 1.0
+Subject: Order ORD55482 status
+Content-Type: multipart/alternative;
+ boundary="===============3410767269827837354=="
+
+--===============3410767269827837354==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order ORD55482 still has not arrived. Could you send me the tr=
+acking number and an estimated delivery date?
+
+--===============3410767269827837354==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order ORD55482 still has not arrived. Could you send me th=
+e tracking number and an estimated delivery date?</p></body></html>
+
+--===============3410767269827837354==--

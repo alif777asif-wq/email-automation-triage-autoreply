@@ -1,0 +1,29 @@
+From: Elena Mensah <elena.mensah@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 10:28:18 -0500
+Message-ID: <70d335ee4f660863c8ef@example.com>
+MIME-Version: 1.0
+Subject: Tracking number for #31307
+Content-Type: multipart/alternative;
+ boundary="===============9075079299335355447=="
+
+--===============9075079299335355447==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Can you tell me the shipping status of order #31307? It was supposed to ship =
+on Monday.
+
+--===============9075079299335355447==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi team,</p><p style=3D"margin:0 0 =
+12px">Can you tell me the shipping status of order #31307? It was supposed to=
+ ship on Monday.</p></body></html>
+
+--===============9075079299335355447==--

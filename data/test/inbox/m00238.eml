@@ -1,0 +1,30 @@
+From: =?utf-8?q?Chlo=C3=A9?= Murphy <chloe.murphy@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:29:53 +0100
+Message-ID: <128c4ba1fa82c58b4caf@example.net>
+MIME-Version: 1.0
+Subject: Charged twice this month
+Content-Type: multipart/alternative;
+ boundary="===============5593557786939497820=="
+
+--===============5593557786939497820==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV-2026-1756 for USD 828.63, but the total does not matc=
+h our agreement. Could you check the charge and send a corrected invoice?
+
+--===============5593557786939497820==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We received invoice INV-2026-1756 for USD 828.63, but the total does not =
+match our agreement. Could you check the charge and send a corrected invoice?=
+</p></body></html>
+
+--===============5593557786939497820==--

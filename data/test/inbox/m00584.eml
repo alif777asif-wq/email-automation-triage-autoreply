@@ -1,0 +1,28 @@
+From: Greta Ivanov <greta.ivanov@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:23:58 -0800
+Message-ID: <4f9bdef5384f080c778e@example.org>
+MIME-Version: 1.0
+Subject: INV 2026-4916 - question
+Content-Type: multipart/mixed; boundary="===============2704075393133373131=="
+
+--===============2704075393133373131==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, I think there is a mistake on INV 2026-4916. I was billed $3,333.37 but =
+our plan should cost less than that. Can someone take a look?
+
+--=20
+Greta Ivanov
+Marrow Design
+
+--===============2704075393133373131==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============2704075393133373131==--

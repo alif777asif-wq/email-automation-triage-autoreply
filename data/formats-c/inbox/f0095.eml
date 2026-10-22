@@ -1,0 +1,13 @@
+From: Parcelhub <delivery@parcelhub095.example.net>
+To: support@shop.example
+Date: Mon, 04 May 2026 20:05:00 +0000
+Message-ID: <ae52a8002076853d144c@mx.example.net>
+Subject: We missed you: delivery attempt unsuccessful
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+We tried to deliver your parcel today but no one was available.
+
+Reference: PH100638375
+We will try again on 05 May, or you can collect it from your local depot.

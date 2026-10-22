@@ -1,0 +1,34 @@
+From: Yara Petrov <yara.petrov@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:10:40 +0000
+Message-ID: <eb0a0593e5f25ec20c35@example.com>
+MIME-Version: 1.0
+Subject: Invoice INV 2026-5772: amount looks wrong
+Content-Type: multipart/alternative;
+ boundary="===============6237830646837238952=="
+
+--===============6237830646837238952==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV 2026-5772 for $2423.48, but the total does not match =
+our agreement. Could you check the charge and send a corrected invoice? My pr=
+evious order arrived on time.
+
+Sent from my phone
+
+--===============6237830646837238952==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We received invoice INV 2026-5772 for $2423.48, but the total does not ma=
+tch our agreement. Could you check the charge and send a corrected invoice? M=
+y previous order arrived on time.</p><p style=3D"margin:0 0 12px">Sent from m=
+y phone</p></body></html>
+
+--===============6237830646837238952==--

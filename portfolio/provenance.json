@@ -1,0 +1,602 @@
+[
+ {
+  "image": 1,
+  "shows": "total forced kills (targeted + random wall-clock campaigns)",
+  "displayed": "100",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_delivered + crash_tests.pipeline_random_wall_clock.kills_delivered"
+ },
+ {
+  "image": 1,
+  "shows": "duplicate replies (both campaigns are 0)",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.duplicates"
+ },
+ {
+  "image": 1,
+  "shows": "lost replies (both campaigns are 0)",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.lost"
+ },
+ {
+  "image": 1,
+  "shows": "targeted kills",
+  "displayed": "60",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_delivered"
+ },
+ {
+  "image": 1,
+  "shows": "random wall-clock kills",
+  "displayed": "40",
+  "results_json_path": "crash_tests.pipeline_random_wall_clock.kills_delivered"
+ },
+ {
+  "image": 1,
+  "shows": "replies delivered once",
+  "displayed": "681",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.delivered_unique"
+ },
+ {
+  "image": 1,
+  "shows": "replies expected",
+  "displayed": "681",
+  "results_json_path": "baseline_vs_pipeline.pipeline.replies_delivered_total"
+ },
+ {
+  "image": 1,
+  "shows": "tests passed",
+  "displayed": "72",
+  "results_json_path": "tests.passed"
+ },
+ {
+  "image": 1,
+  "shows": "tests total",
+  "displayed": "72",
+  "results_json_path": "tests.tests"
+ },
+ {
+  "image": 1,
+  "shows": "naive replies to automated senders",
+  "displayed": "295",
+  "results_json_path": "baseline_vs_pipeline.naive_responder.replies_to_automated_senders"
+ },
+ {
+  "image": 1,
+  "shows": "pipeline replies to automated senders",
+  "displayed": "0",
+  "results_json_path": "baseline_vs_pipeline.pipeline.replies_to_automated_senders"
+ },
+ {
+  "image": 1,
+  "shows": "unique test messages",
+  "displayed": "1,200",
+  "results_json_path": "data.test.unique_messages"
+ },
+ {
+  "image": 2,
+  "shows": "reply subject",
+  "displayed": "Re: Still waiting on ORD31897",
+  "results_json_path": "read from file at build time: results/outputs/test/sample-replies/000001.eml"
+ },
+ {
+  "image": 2,
+  "shows": "reply text",
+  "displayed": "Hello Isla,",
+  "results_json_path": "read from file at build time: results/outputs/test/sample-replies/000001.eml"
+ },
+ {
+  "image": 2,
+  "shows": "reply text",
+  "displayed": "Thanks for getting in touch. We have received your order question and logged it as ticket TKT-C7102A5E. Reference: order ORD-31897.",
+  "results_json_path": "read from file at build time: results/outputs/test/sample-replies/000001.eml"
+ },
+ {
+  "image": 2,
+  "shows": "reply text",
+  "displayed": "A member of our fulfilment team will follow up by email.",
+  "results_json_path": "read from file at build time: results/outputs/test/sample-replies/000001.eml"
+ },
+ {
+  "image": 2,
+  "shows": "reply text",
+  "displayed": "This is an automatic acknowledgement.",
+  "results_json_path": "read from file at build time: results/outputs/test/sample-replies/000001.eml"
+ },
+ {
+  "image": 2,
+  "shows": "queue",
+  "displayed": "fulfilment",
+  "results_json_path": "read from file at build time: results/outputs/test/triage.csv"
+ },
+ {
+  "image": 2,
+  "shows": "order id found in the text",
+  "displayed": "ORD-31897",
+  "results_json_path": "read from file at build time: results/outputs/test/triage.csv"
+ },
+ {
+  "image": 2,
+  "shows": "ticket number",
+  "displayed": "TKT-C7102A5E",
+  "results_json_path": "read from file at build time: results/outputs/test/triage.csv"
+ },
+ {
+  "image": 2,
+  "shows": "subject line",
+  "displayed": "Out of Office: Meeting notes",
+  "results_json_path": "read from file at build time: data/test/inbox/m00030.eml"
+ },
+ {
+  "image": 2,
+  "shows": "sender address",
+  "displayed": "omar.hughes@example.com",
+  "results_json_path": "read from file at build time: data/test/inbox/m00030.eml"
+ },
+ {
+  "image": 2,
+  "shows": "message text",
+  "displayed": "Hello, I am currently away from my desk and will reply after 11 March 2026. This is an automated message.",
+  "results_json_path": "read from file at build time: data/test/inbox/m00030.eml"
+ },
+ {
+  "image": 2,
+  "shows": "subject line",
+  "displayed": "Remove me from your mailing list",
+  "results_json_path": "read from file at build time: data/test/inbox/m00062.eml"
+ },
+ {
+  "image": 2,
+  "shows": "sender address",
+  "displayed": "tomas.larsen@example.org",
+  "results_json_path": "read from file at build time: data/test/inbox/m00062.eml"
+ },
+ {
+  "image": 2,
+  "shows": "message text",
+  "displayed": "Please remove me from your mailing list. I no longer want to receive promotional emails.",
+  "results_json_path": "read from file at build time: data/test/inbox/m00062.eml"
+ },
+ {
+  "image": 2,
+  "shows": "subject line",
+  "displayed": "Can we get a walkthrough?",
+  "results_json_path": "read from file at build time: data/test/inbox/m00028.eml"
+ },
+ {
+  "image": 2,
+  "shows": "sender address",
+  "displayed": "chloe.ivanov@example.org",
+  "results_json_path": "read from file at build time: data/test/inbox/m00028.eml"
+ },
+ {
+  "image": 2,
+  "shows": "message text",
+  "displayed": "Hi, we are a team of 40 and looking at your product for next quarter. What would the cost be, and could someone give us a walkthrough?",
+  "results_json_path": "read from file at build time: data/test/inbox/m00028.eml"
+ },
+ {
+  "image": 2,
+  "shows": "subject line",
+  "displayed": "Still waiting on ORD31897",
+  "results_json_path": "read from file at build time: data/test/inbox/m00000.eml"
+ },
+ {
+  "image": 2,
+  "shows": "sender address",
+  "displayed": "isla.bianchi@example.net",
+  "results_json_path": "read from file at build time: data/test/inbox/m00000.eml"
+ },
+ {
+  "image": 2,
+  "shows": "message text",
+  "displayed": "Hello! Just checking whether my parcel has left your warehouse yet. Order ORD31897. Thanks.",
+  "results_json_path": "read from file at build time: data/test/inbox/m00000.eml"
+ },
+ {
+  "image": 3,
+  "shows": "machine messages (bulk + auto_reply + bounce)",
+  "displayed": "282",
+  "results_json_path": "data.test.categories.{bulk,auto_reply,bounce} summed"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category order_status",
+  "displayed": "221",
+  "results_json_path": "data.test.categories.order_status"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category tech_support",
+  "displayed": "239",
+  "results_json_path": "data.test.categories.tech_support"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category billing",
+  "displayed": "175",
+  "results_json_path": "data.test.categories.billing"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category sales_lead",
+  "displayed": "110",
+  "results_json_path": "data.test.categories.sales_lead"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category refund_request",
+  "displayed": "98",
+  "results_json_path": "data.test.categories.refund_request"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category unsubscribe",
+  "displayed": "75",
+  "results_json_path": "data.test.categories.unsubscribe"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category bulk",
+  "displayed": "122",
+  "results_json_path": "data.test.categories.bulk"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category auto_reply",
+  "displayed": "102",
+  "results_json_path": "data.test.categories.auto_reply"
+ },
+ {
+  "image": 3,
+  "shows": "messages in category bounce",
+  "displayed": "58",
+  "results_json_path": "data.test.categories.bounce"
+ },
+ {
+  "image": 3,
+  "shows": "unique test messages",
+  "displayed": "1,200",
+  "results_json_path": "data.test.unique_messages"
+ },
+ {
+  "image": 3,
+  "shows": "naive replies to automated senders",
+  "displayed": "295",
+  "results_json_path": "baseline_vs_pipeline.naive_responder.replies_to_automated_senders"
+ },
+ {
+  "image": 3,
+  "shows": "re-delivered copies in the inbox",
+  "displayed": "46",
+  "results_json_path": "data.test.redelivered_copies"
+ },
+ {
+  "image": 3,
+  "shows": "naive replies inside 24h cooldown",
+  "displayed": "59",
+  "results_json_path": "baseline_vs_pipeline.naive_responder.replies_inside_cooldown"
+ },
+ {
+  "image": 3,
+  "shows": "naive replies to unsubscribe requests",
+  "displayed": "79",
+  "results_json_path": "baseline_vs_pipeline.naive_responder.replies_to_unsubscribe_requests"
+ },
+ {
+  "image": 4,
+  "shows": "code excerpt (6 lines)",
+  "displayed": "src/mailtriage/sender.py",
+  "results_json_path": "read from source file at build time"
+ },
+ {
+  "image": 4,
+  "shows": "kills at before_smtp",
+  "displayed": "18",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_by_point.before_smtp"
+ },
+ {
+  "image": 4,
+  "shows": "kills at after_smtp_before_commit",
+  "displayed": "18",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_by_point.after_smtp_before_commit"
+ },
+ {
+  "image": 4,
+  "shows": "kills at after_sent_commit",
+  "displayed": "18",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_by_point.after_sent_commit"
+ },
+ {
+  "image": 4,
+  "shows": "re-sent after reconcile",
+  "displayed": "18",
+  "results_json_path": "crash_tests.pipeline_targeted.reconciliation.never_delivered_resent"
+ },
+ {
+  "image": 4,
+  "shows": "settled without resend",
+  "displayed": "18",
+  "results_json_path": "crash_tests.pipeline_targeted.reconciliation.already_delivered_not_resent"
+ },
+ {
+  "image": 5,
+  "shows": "human messages in wording the rules had never seen",
+  "displayed": "443",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording.n"
+ },
+ {
+  "image": 5,
+  "shows": "correct",
+  "displayed": "252",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording.correct"
+ },
+ {
+  "image": 5,
+  "shows": "sent to a human",
+  "displayed": "146",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording.manual_review"
+ },
+ {
+  "image": 5,
+  "shows": "wrong",
+  "displayed": "45",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording.misrouted_not_review"
+ },
+ {
+  "image": 5,
+  "shows": "accuracy on human mail in unseen wording",
+  "displayed": "56.9%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording.accuracy"
+ },
+ {
+  "image": 5,
+  "shows": "machine messages identified",
+  "displayed": "282",
+  "results_json_path": "classification.test.by_phrasing.machine_mail.correct"
+ },
+ {
+  "image": 5,
+  "shows": "machine messages",
+  "displayed": "282",
+  "results_json_path": "classification.test.by_phrasing.machine_mail.n"
+ },
+ {
+  "image": 5,
+  "shows": "fields extracted exactly",
+  "displayed": "825",
+  "results_json_path": "classification.test.extraction.fields_correct"
+ },
+ {
+  "image": 5,
+  "shows": "fields expected",
+  "displayed": "825",
+  "results_json_path": "classification.test.extraction.fields_expected"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, order_status",
+  "displayed": "100",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.order_status.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, order_status",
+  "displayed": "100%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.order_status.recall"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, billing",
+  "displayed": "89",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.billing.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, billing",
+  "displayed": "87%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.billing.recall"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, tech_support",
+  "displayed": "123",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.tech_support.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, tech_support",
+  "displayed": "58%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.tech_support.recall"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, unsubscribe",
+  "displayed": "28",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.unsubscribe.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, unsubscribe",
+  "displayed": "14%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.unsubscribe.recall"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, sales_lead",
+  "displayed": "51",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.sales_lead.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, sales_lead",
+  "displayed": "0%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.sales_lead.recall"
+ },
+ {
+  "image": 5,
+  "shows": "unseen-wording messages, refund_request",
+  "displayed": "52",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.refund_request.n"
+ },
+ {
+  "image": 5,
+  "shows": "recall on unseen wording, refund_request",
+  "displayed": "0%",
+  "results_json_path": "classification.test.by_phrasing.human_unseen_wording_recall.refund_request.recall"
+ },
+ {
+  "image": 5,
+  "shows": "acknowledgements wanted but not sent",
+  "displayed": "119",
+  "results_json_path": "classification.test.reply_policy.missed_replies"
+ },
+ {
+  "image": 5,
+  "shows": "acknowledgements wanted",
+  "displayed": "784",
+  "results_json_path": "classification.test.reply_policy.expected_replies"
+ },
+ {
+  "image": 5,
+  "shows": "of those, held for a person",
+  "displayed": "117",
+  "results_json_path": "classification.test.reply_policy.missed_to_manual_review"
+ },
+ {
+  "image": 5,
+  "shows": "unmarked automated messages that got a reply",
+  "displayed": "51",
+  "results_json_path": "machine_mail_formats.formats-c.full.groups.unmarked.replied"
+ },
+ {
+  "image": 5,
+  "shows": "unmarked automated messages, new formats",
+  "displayed": "126",
+  "results_json_path": "machine_mail_formats.formats-c.full.groups.unmarked.n"
+ },
+ {
+  "image": 5,
+  "shows": "unsubscribe requests that got a reply",
+  "displayed": "5",
+  "results_json_path": "classification.test.reply_policy.extra_to_unsubscribe_requests"
+ },
+ {
+  "image": 5,
+  "shows": "unsubscribe requests",
+  "displayed": "75",
+  "results_json_path": "data.test.categories.unsubscribe"
+ },
+ {
+  "image": 6,
+  "shows": "duplicates, pipeline_targeted",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.duplicates"
+ },
+ {
+  "image": 6,
+  "shows": "kills, pipeline_targeted",
+  "displayed": "60",
+  "results_json_path": "crash_tests.pipeline_targeted.kills_delivered"
+ },
+ {
+  "image": 6,
+  "shows": "replies delivered in total, pipeline_targeted",
+  "displayed": "681",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.delivered_total"
+ },
+ {
+  "image": 6,
+  "shows": "lost, pipeline_targeted",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_targeted.delivery.lost"
+ },
+ {
+  "image": 6,
+  "shows": "duplicates, pipeline_random_wall_clock",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_random_wall_clock.delivery.duplicates"
+ },
+ {
+  "image": 6,
+  "shows": "kills, pipeline_random_wall_clock",
+  "displayed": "40",
+  "results_json_path": "crash_tests.pipeline_random_wall_clock.kills_delivered"
+ },
+ {
+  "image": 6,
+  "shows": "replies delivered in total, pipeline_random_wall_clock",
+  "displayed": "681",
+  "results_json_path": "crash_tests.pipeline_random_wall_clock.delivery.delivered_total"
+ },
+ {
+  "image": 6,
+  "shows": "lost, pipeline_random_wall_clock",
+  "displayed": "0",
+  "results_json_path": "crash_tests.pipeline_random_wall_clock.delivery.lost"
+ },
+ {
+  "image": 6,
+  "shows": "duplicates, naive_targeted",
+  "displayed": "64",
+  "results_json_path": "crash_tests.naive_targeted.delivery.duplicates"
+ },
+ {
+  "image": 6,
+  "shows": "kills, naive_targeted",
+  "displayed": "54",
+  "results_json_path": "crash_tests.naive_targeted.kills_delivered"
+ },
+ {
+  "image": 6,
+  "shows": "replies delivered in total, naive_targeted",
+  "displayed": "1,264",
+  "results_json_path": "crash_tests.naive_targeted.delivery.delivered_total"
+ },
+ {
+  "image": 6,
+  "shows": "lost, naive_targeted",
+  "displayed": "0",
+  "results_json_path": "crash_tests.naive_targeted.delivery.lost"
+ },
+ {
+  "image": 6,
+  "shows": "tests passed",
+  "displayed": "72",
+  "results_json_path": "tests.passed"
+ },
+ {
+  "image": 6,
+  "shows": "tests total",
+  "displayed": "72",
+  "results_json_path": "tests.tests"
+ },
+ {
+  "image": 6,
+  "shows": "python version",
+  "displayed": "3.13.16",
+  "results_json_path": "meta.python"
+ },
+ {
+  "image": 6,
+  "shows": "cpus",
+  "displayed": "2",
+  "results_json_path": "meta.cpus"
+ },
+ {
+  "image": 6,
+  "shows": "sqlite version",
+  "displayed": "3.45.1",
+  "results_json_path": "meta.sqlite"
+ },
+ {
+  "image": 6,
+  "shows": "aiosmtpd version",
+  "displayed": "1.4.6",
+  "results_json_path": "meta.aiosmtpd"
+ },
+ {
+  "image": 6,
+  "shows": "dataset checksum prefix",
+  "displayed": "5b44b01f909b",
+  "results_json_path": "data.test.manifest_sha256"
+ }
+]

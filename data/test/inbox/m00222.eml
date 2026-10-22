@@ -1,0 +1,45 @@
+From: Diego Murphy <diego.murphy@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:59:39 +0100
+Message-ID: <b3961b45b24063779cb6@example.org>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: multipart/mixed; boundary="===============3964358733851562647=="
+
+--===============3964358733851562647==
+Content-Type: multipart/alternative;
+ boundary="===============4742917871557624193=="
+
+--===============4742917871557624193==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.9.2.
+
+--=20
+Diego Murphy
+Quill & Anchor
+
+--===============4742917871557624193==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 5.9.2.</p><=
+p style=3D"margin:0 0 12px">-- <br>Diego Murphy<br>Quill &amp; Anchor</p></bo=
+dy></html>
+
+--===============4742917871557624193==--
+
+--===============3964358733851562647==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============3964358733851562647==--

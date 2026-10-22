@@ -1,0 +1,32 @@
+From: Oskar Duarte <oskar.duarte@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 23:45:35 +0000
+Message-ID: <c558fa21c9b649103b4a@example.net>
+MIME-Version: 1.0
+Subject: Please cancel and refund
+Content-Type: multipart/alternative;
+ boundary="===============0964375227525607032=="
+
+--===============0964375227525607032==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I wolud like to rteurn order #97235 and get a refund of $3312.68. The item ar=
+rived damaged.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============0964375227525607032==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I wolud like to rteurn order #97235 and get a refund of $3312.68. The item a=
+rrived damaged.</p><p style=3D"margin:0 0 12px">This email and any attachment=
+s are intended solely for the addressee.</p></body></html>
+
+--===============0964375227525607032==--

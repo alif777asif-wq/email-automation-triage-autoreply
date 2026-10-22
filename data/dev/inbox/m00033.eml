@@ -1,0 +1,33 @@
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:15:12 +0200
+Message-ID: <d56cdfdef8b0aa61e477@example.net>
+MIME-Version: 1.0
+From: Weekly Digest <news@newsletters.example.net>
+List-Unsubscribe: <mailto:unsubscribe@newsletters.example.net>
+Precedence: bulk
+Subject: New this week
+Content-Type: multipart/alternative;
+ boundary="===============4317420957656958568=="
+
+--===============4317420957656958568==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This week in widgets: five tips for faster shipping.
+
+View this email in your browser.
+You are receiving this email because you subscribed to our newsletter.
+Unsubscribe | Manage preferences
+
+--===============4317420957656958568==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">This week in widgets: five tips for=
+ faster shipping.</p><p style=3D"margin:0 0 12px">View this email in your bro=
+wser.<br>You are receiving this email because you subscribed to our newslette=
+r.<br>Unsubscribe | Manage preferences</p></body></html>
+
+--===============4317420957656958568==--

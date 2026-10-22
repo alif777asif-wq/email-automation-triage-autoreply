@@ -1,0 +1,36 @@
+From: Oskar Varga <oskar.varga@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 13:17:10 -0800
+Message-ID: <25c99e1b0feec0b4bd69@example.org>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: multipart/mixed; boundary="===============1347323567960523561=="
+
+--===============1347323567960523561==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+--=20
+Oskar Varga
+Northfield Clinic
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> We run a small agency and would like to discuss becoming a reseller. Who sh=
+ould we talk to about partnership terms?
+
+--===============1347323567960523561==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============1347323567960523561==--

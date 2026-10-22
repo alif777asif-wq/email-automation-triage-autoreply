@@ -1,0 +1,34 @@
+From: Kenji Novak <kenji.novak@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:53:23 +0200
+Message-ID: <4ef3c57adf52e657b452@example.net>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============0212957077624290827=="
+
+--===============0212957077624290827==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV-2026-3739 ($560.87). We need a cor=
+rected invoice for our records.
+
+--=20
+Kenji Novak
+Northfield Clinic
+
+--===============0212957077624290827==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from invoice INV-2026-3739 ($560.87). We nee=
+d a corrected invoice for our records.</p><p style=3D"margin:0 0 12px">-- <br=
+>Kenji Novak<br>Northfield Clinic</p></body></html>
+
+--===============0212957077624290827==--

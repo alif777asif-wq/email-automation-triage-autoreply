@@ -1,0 +1,45 @@
+From: Elena Khan <elena.khan@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:00:57 +0530
+Message-ID: <f3f2f2d930fdd3ec375e@example.net>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/alternative;
+ boundary="===============0243251563115703211=="
+
+--===============0243251563115703211==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 5.3.7.
+
+--=20
+Elena Khan
+Birchwood Studio
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> We run a small agency and would like to discuss becoming a reseller. Who sh=
+ould we talk to about partnership terms?
+
+--===============0243251563115703211==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 5.3.7.</p><p style=3D"margin:0 0 12px">--=
+ <br>Elena Khan<br>Birchwood Studio</p><div class=3D"gmail_quote"><div class=
+=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.example&gt; wro=
+te:</div><blockquote class=3D"gmail_quote">Hello,
+
+We run a small agency and would like to discuss becoming a reseller. Who shou=
+ld we talk to about partnership terms?</blockquote></div></body></html>
+
+--===============0243251563115703211==--

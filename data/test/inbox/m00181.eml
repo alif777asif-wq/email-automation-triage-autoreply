@@ -1,0 +1,39 @@
+From: Lucas Tanaka <lucas.tanaka@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 15:26:42 +0100
+Message-ID: <fac1cc42ebb380a0ae91@example.org>
+MIME-Version: 1.0
+Subject: No more emails please
+Content-Type: multipart/alternative;
+ boundary="===============2192137991113363809=="
+
+--===============2192137991113363809==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, please take me off your list. I get way too many emails from you.
+
+Sent from my phone
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> Sync stopped working on my phone and the dashboard shows a blank page. Rest=
+arting did not help.
+
+--===============2192137991113363809==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, please take me off your list. I=
+ get way too many emails from you.</p><p style=3D"margin:0 0 12px">Sent from =
+my phone</p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 F=
+eb 2026, Support &lt;support@shop.example&gt; wrote:</div><blockquote class=
+=3D"gmail_quote">Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.</blockquote></div></body></html>
+
+--===============2192137991113363809==--

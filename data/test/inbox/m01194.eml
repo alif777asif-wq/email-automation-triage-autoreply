@@ -1,0 +1,30 @@
+From: Greta Ahmed <greta.ahmed@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 07:55:38 +0530
+Message-ID: <3cddd829afe99a0cdd31@example.org>
+MIME-Version: 1.0
+Subject: Please stop emailing me
+Content-Type: multipart/alternative;
+ boundary="===============1700527105700930760=="
+
+--===============1700527105700930760==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Unsubscribe me from all marketing messages, please.
+
+-- 
+Greta Ahmed
+Marrow Design
+
+--===============1700527105700930760==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Unsubscribe me from all marketing m=
+essages, please.</p><p style=3D"margin:0 0 12px">-- <br>Greta Ahmed<br>Marrow=
+ Design</p></body></html>
+
+--===============1700527105700930760==--

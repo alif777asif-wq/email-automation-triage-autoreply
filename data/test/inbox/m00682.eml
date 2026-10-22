@@ -1,0 +1,27 @@
+From: Diego Tanaka <diego.tanaka@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 02:53:54 -0500
+Message-ID: <e3ae86e5b322187a87fe@example.org>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/alternative;
+ boundary="===============4844106279916608854=="
+
+--===============4844106279916608854==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the $996.43 payment went through twice on my bank statement (INV2026-8=
+010). Please fix it and confirm once done.
+
+--===============4844106279916608854==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the $996.43 payment went thr=
+ough twice on my bank statement (INV2026-8010). Please fix it and confirm onc=
+e done.</p></body></html>
+
+--===============4844106279916608854==--

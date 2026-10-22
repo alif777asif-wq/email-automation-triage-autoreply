@@ -1,0 +1,29 @@
+From: Rina Varga <rina.varga@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:45:40 +0100
+Message-ID: <e07efee64722eba46d82@example.org>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============8254746852552333526=="
+
+--===============8254746852552333526==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+My card was charged $1240.24 twice this month (invoice INV2026-1374). Please =
+look into the duplicate payment.
+
+--===============8254746852552333526==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>My card was charged $1240.24 twice this month (invoice INV2026-1374). Please=
+ look into the duplicate payment.</p></body></html>
+
+--===============8254746852552333526==--

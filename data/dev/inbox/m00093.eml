@@ -1,0 +1,32 @@
+From: =?utf-8?q?Tom=C3=A1s?= Tanaka <tomas.tanaka@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:26:56 +0000
+Message-ID: <05c1d5d0b2262ce1ead8@example.net>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/mixed; boundary="===============1236044201666656192=="
+
+--===============1236044201666656192==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 4.5.0.</p><p style=3D=
+"margin:0 0 12px">-- <br>Tom=C3=A1s Tanaka<br>Birchwood Studio</p><div class=
+=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;s=
+upport@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi,
+
+I would like to return order #84088 and get a refund of $976.47. The item arr=
+ived damaged.</blockquote></div></body></html>
+
+--===============1236044201666656192==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============1236044201666656192==--

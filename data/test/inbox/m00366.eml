@@ -1,0 +1,32 @@
+From: Sofia Ahmed <sofia.ahmed@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 02:34:05 +0530
+Message-ID: <d8993975414e30b2dd58@example.org>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/alternative;
+ boundary="===============1968459050075521604=="
+
+--===============1968459050075521604==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Firefox 128). Help?
+
+--=20
+Sofia Ahmed
+Larkspur Foods
+
+--===============1968459050075521604==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Firefox 128). He=
+lp?</p><p style=3D"margin:0 0 12px">-- <br>Sofia Ahmed<br>Larkspur Foods</p><=
+/body></html>
+
+--===============1968459050075521604==--

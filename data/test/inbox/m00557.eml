@@ -1,0 +1,40 @@
+From: Mateo Murphy <mateo.murphy@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 05:26:19 +0200
+Message-ID: <f6ad94c5293b3eab6c67@example.net>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/mixed; boundary="===============4154801239384167005=="
+
+--===============4154801239384167005==
+Content-Type: multipart/alternative;
+ boundary="===============1877608032188260811=="
+
+--===============1877608032188260811==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app ferezes on the start screen after the latest release. Had=
+ to force quit three times.
+
+--===============1877608032188260811==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app ferezes on the =
+start screen after the latest release. Had to force quit three times.</p></bo=
+dy></html>
+
+--===============1877608032188260811==--
+
+--===============4154801239384167005==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4154801239384167005==--

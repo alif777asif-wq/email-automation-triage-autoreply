@@ -1,0 +1,45 @@
+From: Ines Murphy <ines.murphy@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 12:07:50 +0000
+Message-ID: <512107e85ec7532bdd11@example.org>
+MIME-Version: 1.0
+Subject: Payment went through twice
+Content-Type: multipart/mixed; boundary="===============0522686763373785102=="
+
+--===============0522686763373785102==
+Content-Type: multipart/alternative;
+ boundary="===============8548891549762851924=="
+
+--===============8548891549762851924==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, I think there is a mistake on INV2026-4089. I was billed $2,044.18 but o=
+ur plan should cost less than that. Can someone take a look?
+
+--=20
+Ines Murphy
+Quill & Anchor
+
+--===============8548891549762851924==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV2026-4089. I was billed $2,044.18 but our plan should cost less than that.=
+ Can someone take a look?</p><p style=3D"margin:0 0 12px">-- <br>Ines Murphy<=
+br>Quill &amp; Anchor</p></body></html>
+
+--===============8548891549762851924==--
+
+--===============0522686763373785102==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0522686763373785102==--

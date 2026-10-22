@@ -1,0 +1,33 @@
+From: Greta Haddad <greta.haddad@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:53:44 +0100
+Message-ID: <1ffa45ece4242d82cacd@example.net>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============5301472139933224706=="
+
+--===============5301472139933224706==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 3.5.9.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============5301472139933224706==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 3.5.9.</p><p style=3D"margin:0 0 12px">Th=
+is email and any attachments are intended solely for the addressee.</p></body=
+></html>
+
+--===============5301472139933224706==--

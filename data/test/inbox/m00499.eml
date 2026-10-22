@@ -1,0 +1,34 @@
+From: =?utf-8?q?S=C3=B8ren?= Evans <soren.evans@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 02:22:38 +0100
+Message-ID: <10fbbb21a9bf44525e27@example.com>
+MIME-Version: 1.0
+Subject: Delivery update please
+Content-Type: multipart/alternative;
+ boundary="===============7165391826654205169=="
+
+--===============7165391826654205169==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order #62382 last week and the tracking page has not updaetd in five=
+ days. When will it be delivered?
+
+--=20
+S=C3=B8ren Evans
+Birchwood Studio
+
+--===============7165391826654205169==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order #62382 last week and the tracking page has not updaetd in fiv=
+e days. When will it be delivered?</p><p style=3D"margin:0 0 12px">-- <br>S=
+=C3=B8ren Evans<br>Birchwood Studio</p></body></html>
+
+--===============7165391826654205169==--

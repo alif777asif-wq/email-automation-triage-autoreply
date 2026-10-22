@@ -1,0 +1,37 @@
+From: Felix Haddad <felix.haddad@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:35:14 +0200
+Message-ID: <27ba887f05ac032a6abc@example.com>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/alternative;
+ boundary="===============6144542518639036830=="
+
+--===============6144542518639036830==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times. I may ask for a refund later if this is not resol=
+ved.
+
+--=20
+Felix Haddad
+Tidewater Labs
+
+This email and any attachments are intended solely for the addressee.
+
+--===============6144542518639036830==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app freezes on the =
+start screen after the latest release. Had to force quit three times. I may a=
+sk for a refund later if this is not resolved.</p><p style=3D"margin:0 0 12px=
+">-- <br>Felix Haddad<br>Tidewater Labs</p><p style=3D"margin:0 0 12px">This =
+email and any attachments are intended solely for the addressee.</p></body></=
+html>
+
+--===============6144542518639036830==--

@@ -1,0 +1,34 @@
+From: =?utf-8?q?Zo=C3=AB?= Patel <zoe.patel@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 01:50:56 -0800
+Message-ID: <e368fe7792f95b39b4fc@example.org>
+MIME-Version: 1.0
+Subject: Refund for order ORD-46302
+Content-Type: multipart/alternative;
+ boundary="===============0940708043160076726=="
+
+--===============0940708043160076726==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+The product from order ORD-46302 does not work as described. I want my money =
+back (USD 3,214.44).
+
+--=20
+Zo=C3=AB Patel
+Birchwood Studio
+
+--===============0940708043160076726==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>The product from order ORD-46302 does not work as described. I want my money=
+ back (USD 3,214.44).</p><p style=3D"margin:0 0 12px">-- <br>Zo=C3=AB Patel<b=
+r>Birchwood Studio</p></body></html>
+
+--===============0940708043160076726==--

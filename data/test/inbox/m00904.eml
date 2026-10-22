@@ -1,0 +1,36 @@
+From: Diego Mensah <diego.mensah@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 17:35:01 +0200
+Message-ID: <5a35dd89b9a9bc425257@example.net>
+MIME-Version: 1.0
+Subject: Unsubscribe
+Content-Type: multipart/alternative;
+ boundary="===============1926553327655559726=="
+
+--===============1926553327655559726==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, please stop emailing me. I did not sign up for this newsletter.
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> The product from order ORD-45706 does not work as described. I want my mone=
+y back ($4,179.81).
+
+--===============1926553327655559726==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, please stop emailing me. I d=
+id not sign up for this newsletter.</p><div class=3D"gmail_quote"><div class=
+=3D"gmail_attr">On Sun, 01 Mar 2026, Support &lt;support@shop.example&gt; wro=
+te:</div><blockquote class=3D"gmail_quote">Hi,
+
+The product from order ORD-45706 does not work as described. I want my money =
+back ($4,179.81).</blockquote></div></body></html>
+
+--===============1926553327655559726==--

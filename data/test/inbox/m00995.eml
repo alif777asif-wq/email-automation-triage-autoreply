@@ -1,0 +1,29 @@
+From: Lucas Lopez <lucas.lopez@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 14:01:45 -0500
+Message-ID: <49e83e34cdfd133b375f@example.com>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: multipart/alternative;
+ boundary="===============7544077833286050231=="
+
+--===============7544077833286050231==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Edge 126.
+
+--===============7544077833286050231==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Edge 126.</p></body></html>
+
+--===============7544077833286050231==--

@@ -1,0 +1,40 @@
+From: Mail Delivery System <MAILER-DAEMON@mx.example.net>
+To: support@shop.example
+Subject: Undelivered Mail Returned to Sender
+Date: Mon, 02 Mar 2026 06:06:53 -0500
+Message-ID: <6f2f19e8fac441fc9c09@mx.example.net>
+Return-Path: <>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="=_f41d5e2d7f8d"
+
+--=_f41d5e2d7f8d
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+
+This is the mail system at host mx.example.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients.
+
+<marek.hughes@example.com>: host mx.example.org[192.0.2.25] said: 550 5.1.1 User unknown
+
+--=_f41d5e2d7f8d
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx.example.net
+Arrival-Date: Mon, 02 Mar 2026 06:06:53 -0500
+
+Final-Recipient: rfc822; marek.hughes@example.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp; 550 5.1.1 User unknown
+
+--=_f41d5e2d7f8d
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <support@shop.example>
+Subject: Our newsletter
+
+--=_f41d5e2d7f8d--

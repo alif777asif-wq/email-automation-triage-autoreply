@@ -1,0 +1,35 @@
+From: Amara Chen <amara.chen@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 09:27:12 -0800
+Message-ID: <960354db21c02bea820a@example.net>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============0827967640441139786=="
+
+--===============0827967640441139786==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 4.0.3. My previous order arrived on time.
+
+--=20
+Amara Chen
+Quill & Anchor
+
+--===============0827967640441139786==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 4.0.3. My previous order arrived on time.=
+</p><p style=3D"margin:0 0 12px">-- <br>Amara Chen<br>Quill &amp; Anchor</p><=
+/body></html>
+
+--===============0827967640441139786==--

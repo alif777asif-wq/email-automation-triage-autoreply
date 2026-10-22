@@ -1,0 +1,17 @@
+From: Alice Dupont <alice.dupont@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:15:42 +0530
+Message-ID: <4ee68533b068537c0cd7@example.net>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 3.4.5.
+
+--=20
+Alice Dupont
+Marrow Design

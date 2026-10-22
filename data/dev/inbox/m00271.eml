@@ -1,0 +1,34 @@
+From: Viktor Lopez <viktor.lopez@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:27:56 -0800
+Message-ID: <300fc484c0619d2b0320@example.org>
+MIME-Version: 1.0
+Subject: Where is my order ORD75610?
+Content-Type: multipart/alternative;
+ boundary="===============2718740369165057436=="
+
+--===============2718740369165057436==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Can you tell me the shipping status of order ORD75610? It was supposed to shi=
+p on Monday.
+
+--=20
+Viktor Lopez
+Copperline Supply
+
+--===============2718740369165057436==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi team,</p><p style=3D"margin:0 0 =
+12px">Can you tell me the shipping status of order ORD75610? It was supposed =
+to ship on Monday.</p><p style=3D"margin:0 0 12px">-- <br>Viktor Lopez<br>Cop=
+perline Supply</p></body></html>
+
+--===============2718740369165057436==--

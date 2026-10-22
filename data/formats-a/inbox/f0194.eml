@@ -1,0 +1,13 @@
+From: Acme Orders <orders@store194.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 07:38:00 +0000
+Message-ID: <d0dcdf0982038cb4875b@mx.example.net>
+Subject: Your order ORD-32284 has shipped
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Good news! Your package is on its way.
+
+Tracking number: 1ZE34DD81F75
+Estimated delivery: 11 May

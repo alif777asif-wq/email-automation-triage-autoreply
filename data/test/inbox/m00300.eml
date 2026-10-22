@@ -1,0 +1,35 @@
+From: Viktor Ahmed <viktor.ahmed@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:45:33 +0200
+Message-ID: <7769306b9dfaa528530b@example.org>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/alternative;
+ boundary="===============0715428759492184196=="
+
+--===============0715428759492184196==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It wore=
+kd fine last week. Verison 3.5.7. My last invoice was fine, by the way.
+
+--=20
+Viktor Ahmed
+Birchwood Studio
+
+--===============0715428759492184196==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worekd fine last week. Verison 3.5.7. My last invoice was fine, by the w=
+ay.</p><p style=3D"margin:0 0 12px">-- <br>Viktor Ahmed<br>Birchwood Studio</=
+p></body></html>
+
+--===============0715428759492184196==--

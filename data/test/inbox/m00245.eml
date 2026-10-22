@@ -1,0 +1,27 @@
+From: =?utf-8?q?Ana=C3=AFs?= Johansson <anais.johansson@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 16:42:53 +0000
+Message-ID: <4f8d5a2a2db277b8e32c@example.com>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/alternative;
+ boundary="===============6302899583148902875=="
+
+--===============6302899583148902875==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 3.0.6. My last invoice was fine, by the way.
+
+--===============6302899583148902875==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 3.0.6. My l=
+ast invoice was fine, by the way.</p></body></html>
+
+--===============6302899583148902875==--

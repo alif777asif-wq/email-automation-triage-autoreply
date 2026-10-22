@@ -1,0 +1,17 @@
+From: Fieldwork Accounting <billing@fieldwork102.example.com>
+To: support@shop.example
+Date: Mon, 04 May 2026 20:54:00 +0000
+Message-ID: <8b668804fbb8045acc33@mx.example.net>
+Subject: Invoice 2026-0135 is ready
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Your invoice for October is ready to view in your account.
+
+Total due: $1513.00
+Due date: 29 May
+
+Thanks for your business.

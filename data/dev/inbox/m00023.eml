@@ -1,0 +1,42 @@
+From: Hugo Walker <hugo.walker@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 00:55:43 -0800
+Message-ID: <a178368da2a162be1827@example.net>
+MIME-Version: 1.0
+Subject: Invoice INV-2026-8305: amount looks wrong
+Content-Type: multipart/alternative;
+ boundary="===============5294445252929424710=="
+
+--===============5294445252929424710==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV-2026-8305 for USD 3,373.95, but the total does not ma=
+tch our agreement. Could you check the charge and send a corrected invoice?
+
+--=20
+Hugo Walker
+Copperline Supply
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Please remove me from your mailing list. I no longer want to receive promot=
+ional emails.
+
+--===============5294445252929424710==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We received invoice INV-2026-8305 for USD 3,373.95, but the total does no=
+t match our agreement. Could you check the charge and send a corrected invoic=
+e?</p><p style=3D"margin:0 0 12px">-- <br>Hugo Walker<br>Copperline Supply</p=
+><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Su=
+pport &lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quo=
+te">Please remove me from your mailing list. I no longer want to receive prom=
+otional emails.</blockquote></div></body></html>
+
+--===============5294445252929424710==--

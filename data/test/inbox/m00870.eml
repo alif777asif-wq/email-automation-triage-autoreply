@@ -1,0 +1,46 @@
+From: Nadia Hughes <nadia.hughes@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 14:29:48 +0000
+Message-ID: <747414b4878cd5e102d0@example.com>
+MIME-Version: 1.0
+Subject: Invoice INV 2026-4578: amount looks wrong
+Content-Type: multipart/mixed; boundary="===============8343867798450622645=="
+
+--===============8343867798450622645==
+Content-Type: multipart/alternative;
+ boundary="===============1377767461008720734=="
+
+--===============1377767461008720734==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV 2026-4578? Our accounting team cannot find it. T=
+he amount due is USD 4570.19.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============1377767461008720734==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Good morning,</p><p style=3D"margin=
+:0 0 12px">Could you resend invoice INV 2026-4578? Our accounting team cannot=
+ find it. The amount due is USD 4570.19.</p><p style=3D"margin:0 0 12px">This=
+ email and any attachments are intended solely for the addressee.</p></body><=
+/html>
+
+--===============1377767461008720734==--
+
+--===============8343867798450622645==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============8343867798450622645==--

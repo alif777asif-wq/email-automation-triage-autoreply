@@ -1,0 +1,26 @@
+From: =?utf-8?q?Chlo=C3=A9?= Petrov <chloe.petrov@example.net>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 02:17:01 +0530
+Message-ID: <c3fd0560637aa733f812@example.net>
+MIME-Version: 1.0
+Subject: Unsubscribe
+Content-Type: multipart/alternative;
+ boundary="===============3241808362325981360=="
+
+--===============3241808362325981360==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please remove me from your mailing list. I no longer want to receive promotio=
+nal emails.
+
+--===============3241808362325981360==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Please remove me from your mailing =
+list. I no longer want to receive promotional emails.</p></body></html>
+
+--===============3241808362325981360==--

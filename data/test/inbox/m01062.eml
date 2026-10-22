@@ -1,0 +1,44 @@
+From: Kofi Evans <kofi.evans@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 22:25:22 +0100
+Message-ID: <355dbb5b27b2e72ca532@example.net>
+MIME-Version: 1.0
+Subject: Question on #61679
+Content-Type: multipart/alternative;
+ boundary="===============7967058142238787045=="
+
+--===============7967058142238787045==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (#61679) and nothing has turned up.=
+ Could you let me know what is going on?
+
+--=20
+Kofi Evans
+Kestrel Logistics
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> We received invoice INV 2026-6737 for $1974.01, but the total does not matc=
+h our agreement. Could you check the charge and send a corrected invoice?
+
+--===============7967058142238787045==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (#61679) and nothing has turned up. Could you let me know what is goin=
+g on?</p><p style=3D"margin:0 0 12px">-- <br>Kofi Evans<br>Kestrel Logistics<=
+/p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026, =
+Support &lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_q=
+uote">Hello,
+
+We received invoice INV 2026-6737 for $1974.01, but the total does not match =
+our agreement. Could you check the charge and send a corrected invoice?</bloc=
+kquote></div></body></html>
+
+--===============7967058142238787045==--

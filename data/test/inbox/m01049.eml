@@ -1,0 +1,19 @@
+From: Rina Ivanov <rina.ivanov@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 20:55:58 +0000
+Message-ID: <140c493c6fcfe25d9677@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Firefox 128.</p><p style=3D"margin:0 0 12px=
+">-- <br>Rina Ivanov<br>Marrow Design</p><div class=3D"gmail_quote"><div clas=
+s=3D"gmail_attr">On Sun, 01 Mar 2026, Support &lt;support@shop.example&gt; wr=
+ote:</div><blockquote class=3D"gmail_quote">Hi team,
+
+Can you tell me the shipping status of order #29754? It was supposed to ship =
+on Monday.</blockquote></div></body></html>

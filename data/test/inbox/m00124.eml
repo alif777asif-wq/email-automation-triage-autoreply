@@ -1,0 +1,28 @@
+From: Arjun Khan <arjun.khan@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:27:09 +0000
+Message-ID: <14e4f01eff7f8809c9aa@example.org>
+MIME-Version: 1.0
+Subject: Enough emails
+Content-Type: multipart/alternative;
+ boundary="===============5205904557185688453=="
+
+--===============5205904557185688453==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+No more emails please. I never asked for these.
+
+Sent from my phone
+
+--===============5205904557185688453==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">No more emails please. I never aske=
+d for these.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></body></h=
+tml>
+
+--===============5205904557185688453==--

@@ -1,0 +1,32 @@
+From: Kofi Mensah <kofi.mensah@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:46:31 +0000
+Message-ID: <cffef88281b90bc2c4ae@example.org>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============7323929092614124536=="
+
+--===============7323929092614124536==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Can you tell me the shipping status of order ORD36468? It was supopsed to shi=
+p on Monday.
+
+Sent from my phone
+
+--===============7323929092614124536==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi team,</p><p style=3D"margin:0 0 =
+12px">Can you tell me the shipping status of order ORD36468? It was supopsed =
+to ship on Monday.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></bo=
+dy></html>
+
+--===============7323929092614124536==--

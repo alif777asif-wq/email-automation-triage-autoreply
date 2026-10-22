@@ -1,0 +1,36 @@
+From: Jonas Larsen <jonas.larsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:06:07 +0100
+Message-ID: <297cca06633536bd8182@example.net>
+MIME-Version: 1.0
+Subject: Tracking number for ORD47120
+Content-Type: multipart/alternative;
+ boundary="===============2145253421703988295=="
+
+--===============2145253421703988295==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order ORD47120 still has not arrived. Could you send me the tr=
+acking number and an estimated delivery date? The app also crashed once last =
+month.
+
+--=20
+Jonas Larsen
+Tidewater Labs
+
+--===============2145253421703988295==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order ORD47120 still has not arrived. Could you send me th=
+e tracking number and an estimated delivery date? The app also crashed once l=
+ast month.</p><p style=3D"margin:0 0 12px">-- <br>Jonas Larsen<br>Tidewater L=
+abs</p></body></html>
+
+--===============2145253421703988295==--

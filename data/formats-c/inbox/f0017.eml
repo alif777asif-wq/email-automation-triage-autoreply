@@ -1,0 +1,14 @@
+From: octo-bot <noreply@code017.example.com>
+To: support@shop.example
+Date: Mon, 04 May 2026 10:59:00 +0000
+Message-ID: <27cd823bcc2348e0ec29@mx.example.net>
+Subject: Re: [widgets/api] Fix rounding in checkout totals (#2846)
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Ines Patel commented on this pull request.
+
+> Looks good to me, merging after CI passes.
+
+Reply to this email directly or view it on the site.

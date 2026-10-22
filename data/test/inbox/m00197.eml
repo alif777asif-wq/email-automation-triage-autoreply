@@ -1,0 +1,48 @@
+From: =?utf-8?q?Tom=C3=A1s?= Johansson <tomas.johansson@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:00:00 +0200
+Message-ID: <9c64a8eb566b2a31da26@example.net>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/mixed; boundary="===============4977038356347766882=="
+
+--===============4977038356347766882==
+Content-Type: multipart/alternative;
+ boundary="===============7819423550817128434=="
+
+--===============7819423550817128434==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Safari 17.
+
+Sent from my phone
+
+This email and any attachments are intended solely for the addressee.
+
+--===============7819423550817128434==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Safari 17.</p><p style=3D"margin:0 0 12px">=
+Sent from my phone</p><p style=3D"margin:0 0 12px">This email and any attachm=
+ents are intended solely for the addressee.</p></body></html>
+
+--===============7819423550817128434==--
+
+--===============4977038356347766882==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4977038356347766882==--

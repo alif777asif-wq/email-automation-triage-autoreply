@@ -1,0 +1,32 @@
+From: Leila Sato <leila.sato@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:16:35 -0500
+Message-ID: <389c5003dade89f9af56@example.net>
+MIME-Version: 1.0
+Subject: Bulk licensing
+Content-Type: multipart/alternative;
+ boundary="===============8999474584244471362=="
+
+--===============8999474584244471362==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 12 and looking at your prodcut for next quarter. What wo=
+uld the cost be, and could someone give us a walkthrough?
+
+--=20
+Leila Sato
+Marrow Design
+
+--===============8999474584244471362==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 12 and looking=
+ at your prodcut for next quarter. What would the cost be, and could someone =
+give us a walkthrough?</p><p style=3D"margin:0 0 12px">-- <br>Leila Sato<br>M=
+arrow Design</p></body></html>
+
+--===============8999474584244471362==--

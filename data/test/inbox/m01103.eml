@@ -1,0 +1,13 @@
+From: Amara Lopez <amara.lopez@example.com>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 00:54:36 +0200
+Message-ID: <a6be3220789e88b979d5@example.com>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 3.6.5. My last invoice was fine, by the way.
+
+Sent from my phone

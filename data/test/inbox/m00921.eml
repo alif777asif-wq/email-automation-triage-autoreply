@@ -1,0 +1,27 @@
+From: Arjun Dupont <arjun.dupont@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 18:22:17 +0200
+Message-ID: <723140a6e18523b8ab1e@example.net>
+MIME-Version: 1.0
+Subject: Interested in your product
+Content-Type: multipart/alternative;
+ boundary="===============0177580629205962896=="
+
+--===============0177580629205962896==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 40 and looking at your product for next quarter. What wo=
+uld the cost be, and could someone give us a walkthrough?
+
+--===============0177580629205962896==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 40 and looking=
+ at your product for next quarter. What would the cost be, and could someone =
+give us a walkthrough?</p></body></html>
+
+--===============0177580629205962896==--

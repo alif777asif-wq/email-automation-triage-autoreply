@@ -1,0 +1,21 @@
+{
+  "mode": "targeted",
+  "responder": "naive",
+  "kills_delivered": 54,
+  "kills_by_point": {
+    "before_smtp": 18,
+    "after_smtp_before_commit": 18,
+    "after_sent_commit": 18
+  },
+  "process_runs": 55,
+  "delivery": {
+    "delivered_total": 1264,
+    "delivered_unique": 1200,
+    "duplicates": 64,
+    "messages_answered_twice_or_more": 63,
+    "lost": 0,
+    "unexpected": 0
+  },
+  "seconds": 11.8,
+  "duplicates_caused_by_crashes": 18
+}

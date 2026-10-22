@@ -1,0 +1,12 @@
+From: Acme Security <security@accounts181.example.com>
+To: support@shop.example
+Date: Tue, 05 May 2026 06:07:00 +0000
+Message-ID: <1a0dc90464a879268c82@mx.example.net>
+Subject: Your sign-in code is 113326
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Use this code to sign in. It expires in 10 minutes.
+
+If you didn't request this code, you can safely ignore this email.

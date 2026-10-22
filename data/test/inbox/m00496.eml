@@ -1,0 +1,27 @@
+From: =?utf-8?q?Chlo=C3=A9?= Costa <chloe.costa@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 20:17:43 -0500
+Message-ID: <41aa0267b1c7c0a4c435@example.net>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/alternative;
+ boundary="===============7081410964407002569=="
+
+--===============7081410964407002569==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.0.1.
+
+--===============7081410964407002569==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 5.0.1.</p><=
+/body></html>
+
+--===============7081410964407002569==--

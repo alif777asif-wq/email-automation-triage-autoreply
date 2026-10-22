@@ -1,0 +1,25 @@
+From: Elena Lopez <elena.lopez@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 23:22:40 -0500
+Message-ID: <88b878328f092190bcdc@example.net>
+MIME-Version: 1.0
+Subject: Unsubscribe
+Content-Type: multipart/alternative;
+ boundary="===============2166940792781932746=="
+
+--===============2166940792781932746==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello, please stop emailing me. I did not sign up for this newsletter.
+
+--===============2166940792781932746==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, please stop emailing me. I d=
+id not sign up for this newsletter.</p></body></html>
+
+--===============2166940792781932746==--

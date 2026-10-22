@@ -1,0 +1,32 @@
+From: Jonas Nielsen <jonas.nielsen@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:42:58 +0000
+Message-ID: <c3363a3fac3fff599cfb@example.org>
+MIME-Version: 1.0
+Subject: Refund for order ORD-31880
+Content-Type: multipart/alternative;
+ boundary="===============0230589637864849844=="
+
+--===============0230589637864849844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I would like to return order ORD-31880 and get a refund of $724.77. The item =
+arrived damaged.
+
+Sent from my phone
+
+--===============0230589637864849844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I would like to return order ORD-31880 and get a refund of $724.77. The item=
+ arrived damaged.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></bod=
+y></html>
+
+--===============0230589637864849844==--

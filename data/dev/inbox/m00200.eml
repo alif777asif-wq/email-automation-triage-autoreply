@@ -1,0 +1,26 @@
+From: Leila Patel <leila.patel@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 07:09:36 -0800
+Message-ID: <491ea4cb2acbb57d3796@example.net>
+MIME-Version: 1.0
+Subject: Charged twice this month
+Content-Type: multipart/mixed; boundary="===============9044614691224486546=="
+
+--===============9044614691224486546==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We received invoice INV2026-0219 for $1,462.32, but the total does not match =
+our agreement. Could you check the charge and send a corrected invoice?
+
+--===============9044614691224486546==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============9044614691224486546==--

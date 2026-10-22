@@ -1,0 +1,36 @@
+From: =?utf-8?q?Zo=C3=AB?= Tanaka <zoe.tanaka@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 05:49:01 +0200
+Message-ID: <e52e76dd4d961ab2c554@example.net>
+MIME-Version: 1.0
+Subject: Quote for an annual contract
+Content-Type: multipart/alternative;
+ boundary="===============1152556690196838559=="
+
+--===============1152556690196838559==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We are evaluating tools for our team of 25 people and would like a quote and =
+a short demo. Do you offer volume discounts? My previous order arrived on tim=
+e.
+
+--=20
+Zo=C3=AB Tanaka
+Northfield Clinic
+
+--===============1152556690196838559==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We are evaluating tools for our team of 25 people and would like a quote =
+and a short demo. Do you offer volume discounts? My previous order arrived on=
+ time.</p><p style=3D"margin:0 0 12px">-- <br>Zo=C3=AB Tanaka<br>Northfield C=
+linic</p></body></html>
+
+--===============1152556690196838559==--

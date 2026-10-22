@@ -1,0 +1,27 @@
+From: Rohan Lindqvist <rohan.lindqvist@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 01:06:27 -0500
+Message-ID: <500f4bccff7070072d33@example.org>
+MIME-Version: 1.0
+Subject: Payment went through twice
+Content-Type: multipart/alternative;
+ boundary="===============1955259088331932829=="
+
+--===============1955259088331932829==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, I think there is a mistake on INV 2026-8609. I was billed USD 1670.18 bu=
+t our plan should cost less than that. Can someone take a look?
+
+--===============1955259088331932829==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV 2026-8609. I was billed USD 1670.18 but our plan should cost less than th=
+at. Can someone take a look?</p></body></html>
+
+--===============1955259088331932829==--

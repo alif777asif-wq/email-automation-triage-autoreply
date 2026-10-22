@@ -1,0 +1,27 @@
+From: Ethan Walker <ethan.walker@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:26:12 +0200
+Message-ID: <108a841b12f19077fce2@example.org>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV2026-5065
+Content-Type: multipart/alternative;
+ boundary="===============2016284046059041048=="
+
+--===============2016284046059041048==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the $1843.71 payment went through twice on my bank statement (INV2026-=
+5065). Please fix it and confirm once done.
+
+--===============2016284046059041048==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the $1843.71 payment went th=
+rough twice on my bank statement (INV2026-5065). Please fix it and confirm on=
+ce done.</p></body></html>
+
+--===============2016284046059041048==--

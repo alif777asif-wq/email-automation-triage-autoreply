@@ -1,0 +1,27 @@
+From: Lucas Murphy <lucas.murphy@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:17:18 +0100
+Message-ID: <fa02f3ef0e5db34f08c3@example.org>
+MIME-Version: 1.0
+Subject: Please reverse the payment
+Content-Type: multipart/alternative;
+ boundary="===============2354325673901811005=="
+
+--===============2354325673901811005==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, I would like my money returned for ORD-27582 ($3,936.49). The prdouct =
+stopped working after two days.
+
+--===============2354325673901811005==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, I would like my money return=
+ed for ORD-27582 ($3,936.49). The prdouct stopped working after two days.</p>=
+</body></html>
+
+--===============2354325673901811005==--

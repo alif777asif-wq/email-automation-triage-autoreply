@@ -1,0 +1,30 @@
+From: Arjun Moreau <arjun.moreau@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:50:55 +0000
+Message-ID: <e6e008da1183733a19bf@example.com>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============1602652579159757940=="
+
+--===============1602652579159757940==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+My card was charged USD 2,237.81 twice this month (invoice INV 2026-8548). Pl=
+ease look into the duplicate payment. The app also crashed once last month.
+
+--===============1602652579159757940==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>My card was charged USD 2,237.81 twice this month (invoice INV 2026-8548). P=
+lease look into the duplicate payment. The app also crashed once last month.<=
+/p></body></html>
+
+--===============1602652579159757940==--

@@ -1,0 +1,47 @@
+From: Isla Kowalski <isla.kowalski@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 15:05:17 +0200
+Message-ID: <2c0ffeed64dbe6232517@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/mixed; boundary="===============7694143839874075717=="
+
+--===============7694143839874075717==
+Content-Type: multipart/alternative;
+ boundary="===============2010674972995243566=="
+
+--===============2010674972995243566==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 3.0.0.
+
+--=20
+Isla Kowalski
+Quill & Anchor
+
+--===============2010674972995243566==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 3.0.0.</p><p style=3D=
+"margin:0 0 12px">-- <br>Isla Kowalski<br>Quill &amp; Anchor</p></body></html>
+
+--===============2010674972995243566==--
+
+--===============7694143839874075717==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============7694143839874075717==--

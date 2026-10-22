@@ -1,0 +1,42 @@
+From: Hugo Dupont <hugo.dupont@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 04:34:40 -0500
+Message-ID: <133d82f20470f038c57e@example.org>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/mixed; boundary="===============1900455808451673737=="
+
+--===============1900455808451673737==
+Content-Type: multipart/alternative;
+ boundary="===============1245970148009505095=="
+
+--===============1245970148009505095==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 3.8.4.
+
+--===============1245970148009505095==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 3.8.4.</p></body></html>
+
+--===============1245970148009505095==--
+
+--===============1900455808451673737==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============1900455808451673737==--

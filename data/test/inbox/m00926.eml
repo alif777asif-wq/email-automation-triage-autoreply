@@ -1,0 +1,11 @@
+From: Greta Walker <greta.walker@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 22:06:47 +0530
+Message-ID: <934bb03af17352bca6e9@example.org>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 4.8.0. My previous order arrived on time.

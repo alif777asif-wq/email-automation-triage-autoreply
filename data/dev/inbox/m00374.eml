@@ -1,0 +1,35 @@
+From: Elena Walker <elena.walker@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 13:09:45 -0800
+Message-ID: <c60d08a0562fecff26b7@example.com>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============9193865878877297652=="
+
+--===============9193865878877297652==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order #19419 last week and the tracking page has not updated in five=
+ days. When will it be delivered? The app also crashed once last month.
+
+--=20
+Elena Walker
+Birchwood Studio
+
+--===============9193865878877297652==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order #19419 last week and the tracking page has not updated in fiv=
+e days. When will it be delivered? The app also crashed once last month.</p><=
+p style=3D"margin:0 0 12px">-- <br>Elena Walker<br>Birchwood Studio</p></body=
+></html>
+
+--===============9193865878877297652==--

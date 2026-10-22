@@ -1,0 +1,11 @@
+# Hashes of the rules/parsers at the moment they were frozen, BEFORE the test-set phrase bank (POOL_B) was written.
+# Dev set scored 400/400 at this point (saturated), so no tuning was needed or done.
+b273e1a37d299ce106e92af1f8b649bd326d675a4854ebc31682daabd4434eec  classify.py
+95fbe416a66b3663e5b1dfea7a3f3e83af8d93e9ca77815e40c822e6929da64a  extract.py
+99fd571a836fbbc0c9a89bbd441ba812b850c61af212ce3f122c6c8a18b9435b  parse.py
+# guard.py frozen AFTER data/formats-a (its development set) and BEFORE data/formats-b was written.
+# formats-b measures it; it was not changed after seeing formats-b.
+ed824284be3b9748cfbce11c5ed73e50e973006b0fb6fa48c3417856e223c472  guard.py
+# roles.py frozen AFTER data/formats-a and data/formats-b (its development sets) and BEFORE data/formats-c was written.
+# formats-c measures it; it was not changed after seeing formats-c.
+ee2a93781b77c2856d08dafd996327d029dee96257ac46bb9ef0756a351ac44b  roles.py

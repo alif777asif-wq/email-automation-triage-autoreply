@@ -1,0 +1,32 @@
+From: Rina Costa <rina.costa@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:19:10 +0000
+Message-ID: <5b8ebdd4476018d7b6cd@example.com>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/alternative;
+ boundary="===============5664443456637721673=="
+
+--===============5664443456637721673==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.0.4.
+
+--=20
+Rina Costa
+Tidewater Labs
+
+--===============5664443456637721673==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 5.0.4.</p><=
+p style=3D"margin:0 0 12px">-- <br>Rina Costa<br>Tidewater Labs</p></body></h=
+tml>
+
+--===============5664443456637721673==--

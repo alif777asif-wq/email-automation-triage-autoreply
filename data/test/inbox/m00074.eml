@@ -1,0 +1,40 @@
+From: Ethan Sato <ethan.sato@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 05:25:05 -0500
+Message-ID: <f19ed82f7843fee38bc7@example.net>
+MIME-Version: 1.0
+Subject: Order ORD61713 status
+Content-Type: multipart/alternative;
+ boundary="===============2100909035653713145=="
+
+--===============2100909035653713145==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order ORD61713 still has not arrived. Could you send me the tr=
+acking number and an estimated delivery date?
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> Please cancel order #37370 and refund $4,105.46 to my original payment meth=
+od. I changed my mind.
+
+--===============2100909035653713145==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order ORD61713 still has not arrived. Could you send me th=
+e tracking number and an estimated delivery date?</p><div class=3D"gmail_quot=
+e"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.ex=
+ample&gt; wrote:</div><blockquote class=3D"gmail_quote">Hello,
+
+Please cancel order #37370 and refund $4,105.46 to my original payment method=
+. I changed my mind.</blockquote></div></body></html>
+
+--===============2100909035653713145==--

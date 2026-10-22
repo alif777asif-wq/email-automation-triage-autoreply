@@ -1,0 +1,32 @@
+From: =?utf-8?q?Tom=C3=A1s?= Yilmaz <tomas.yilmaz@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 05:41:04 -0500
+Message-ID: <a7573415d28e7f230197@example.net>
+MIME-Version: 1.0
+Subject: Delivery update please
+Content-Type: multipart/alternative;
+ boundary="===============1383712077822913255=="
+
+--===============1383712077822913255==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Can you tell me the shipping status of order ORD-65417? It was supposed to sh=
+ip on Monday.
+
+Sent from my phone
+
+--===============1383712077822913255==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi team,</p><p style=3D"margin:0 0 =
+12px">Can you tell me the shipping status of order ORD-65417? It was supposed=
+ to ship on Monday.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></b=
+ody></html>
+
+--===============1383712077822913255==--

@@ -1,0 +1,30 @@
+From: Arjun Evans <arjun.evans@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 01:06:15 -0800
+Message-ID: <277490b3ec7c16d87e45@example.com>
+MIME-Version: 1.0
+Subject: Cannot sign in after the update
+Content-Type: multipart/alternative;
+ boundary="===============8335552312474348392=="
+
+--===============8335552312474348392==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 4.3.6.
+
+--===============8335552312474348392==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 4.3.6.</p></body></ht=
+ml>
+
+--===============8335552312474348392==--

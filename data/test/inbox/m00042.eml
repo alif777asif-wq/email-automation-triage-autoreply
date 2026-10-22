@@ -1,0 +1,40 @@
+From: Hana Santos <hana.santos@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:18:14 +0000
+Message-ID: <f2bd529a9b93267fdd1e@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============7332070631577349249=="
+
+--===============7332070631577349249==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> The product from order ORD73169 does not work as described. I want my money=
+ back ($2,029.21).
+
+--===============7332070631577349249==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p><div class=3D"gmail_quote"><div class=3D"gmail_attr=
+">On Sat, 28 Feb 2026, Support &lt;support@shop.example&gt; wrote:</div><bloc=
+kquote class=3D"gmail_quote">Hi,
+
+The product from order ORD73169 does not work as described. I want my money b=
+ack ($2,029.21).</blockquote></div></body></html>
+
+--===============7332070631577349249==--

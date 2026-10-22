@@ -1,0 +1,13 @@
+From: Kenji Kowalski <kenji.kowalski@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 08:10:25 -0500
+Message-ID: <cceda5648574bd48fb25@example.net>
+MIME-Version: 1.0
+Subject: Error when exporting a report
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi support,</p><p style=3D"margin:0=
+ 0 12px">Exporting a report fails with an error and the download never starts=
+. It worked fine last week. Version 5.6.3.</p></body></html>

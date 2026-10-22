@@ -1,0 +1,32 @@
+From: Oskar Larsen <oskar.larsen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:54:25 +0530
+Message-ID: <026428dcc629766e0975@example.net>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============6216746098914758362=="
+
+--===============6216746098914758362==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order #55114 last week and the tracking page has not updated in five=
+ days. When will it be delivered?
+
+Sent from my phone
+
+--===============6216746098914758362==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order #55114 last week and the tracking page has not updated in fiv=
+e days. When will it be delivered?</p><p style=3D"margin:0 0 12px">Sent from =
+my phone</p></body></html>
+
+--===============6216746098914758362==--

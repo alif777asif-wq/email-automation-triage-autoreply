@@ -1,0 +1,30 @@
+From: Diego Cruz <diego.cruz@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:37:14 +0000
+Message-ID: <df0a872430656e54e7c8@example.com>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/mixed; boundary="===============3489226891632631995=="
+
+--===============3489226891632631995==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Firefox 128.
+
+--=20
+Diego Cruz
+Birchwood Studio
+
+--===============3489226891632631995==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============3489226891632631995==--

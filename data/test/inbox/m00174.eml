@@ -1,0 +1,26 @@
+From: Diego Schmidt <diego.schmidt@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 19:47:13 +0530
+Message-ID: <0e2a5a392aab86980bb2@example.org>
+MIME-Version: 1.0
+Subject: Question about invoice INV 2026-8329
+Content-Type: multipart/mixed; boundary="===============2968731271712682493=="
+
+--===============2968731271712682493==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV 2026-8329? Our accounting team cannot find it. T=
+he amount due is $3,983.64.
+
+--===============2968731271712682493==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============2968731271712682493==--

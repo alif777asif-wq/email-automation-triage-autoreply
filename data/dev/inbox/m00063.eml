@@ -1,0 +1,36 @@
+From: Alice Petrov <alice.petrov@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:19:13 +0200
+Message-ID: <0c57809d662c9642b1e2@example.net>
+MIME-Version: 1.0
+Subject: Order ORD-20248 status
+Content-Type: multipart/alternative;
+ boundary="===============0700981583244834171=="
+
+--===============0700981583244834171==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order ORD-20248 still has not arrived. Could you send me the t=
+racking number and an estimated delivery date? Also, what is the price of the=
+ premium plan?
+
+--=20
+Alice Petrov
+Quill & Anchor
+
+--===============0700981583244834171==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order ORD-20248 still has not arrived. Could you send me t=
+he tracking number and an estimated delivery date? Also, what is the price of=
+ the premium plan?</p><p style=3D"margin:0 0 12px">-- <br>Alice Petrov<br>Qui=
+ll &amp; Anchor</p></body></html>
+
+--===============0700981583244834171==--

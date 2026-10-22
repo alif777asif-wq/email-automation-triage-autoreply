@@ -1,0 +1,33 @@
+From: Mateo Hughes <mateo.hughes@example.org>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 00:25:24 +0200
+Message-ID: <3d1612335cb59e6adf41@example.org>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: multipart/alternative;
+ boundary="===============4042141696300914987=="
+
+--===============4042141696300914987==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Edge 126). Help?
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hello, please stop emailing me. I did not sign up for this newsletter.
+
+--===============4042141696300914987==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Edge 126). Help?=
+</p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026,=
+ Support &lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_=
+quote">Hello, please stop emailing me. I did not sign up for this newsletter.=
+</blockquote></div></body></html>
+
+--===============4042141696300914987==--

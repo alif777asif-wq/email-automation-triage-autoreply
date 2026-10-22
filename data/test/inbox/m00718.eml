@@ -1,0 +1,24 @@
+From: Isla Novak <isla.novak@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 14:39:02 +0530
+Message-ID: <cc3c1ad8d28dad4cc6fb@example.org>
+MIME-Version: 1.0
+Subject: INV2026-3446 - question
+Content-Type: multipart/mixed; boundary="===============3588862214927027793=="
+
+--===============3588862214927027793==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $4014.49 last month (INV2026=
+-3446) for my expense report. Thanks!
+
+--===============3588862214927027793==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============3588862214927027793==--

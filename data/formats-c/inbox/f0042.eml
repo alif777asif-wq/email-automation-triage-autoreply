@@ -1,0 +1,15 @@
+From: MAILER-DAEMON@qmail042.example.net
+To: support@shop.example
+Subject: failure notice
+Date: Mon, 04 May 2026 13:54:00 +0000
+Message-ID: <cc18e1c1d795e1ae7cd4@mx.example.net>
+Return-Path: <>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hi. This is the qmail-send program at mail.example.net.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<isla.okafor42@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)

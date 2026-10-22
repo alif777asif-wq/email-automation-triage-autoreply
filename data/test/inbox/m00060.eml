@@ -1,0 +1,21 @@
+From: Ethan Ricci <ethan.ricci@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:55:25 +0100
+Message-ID: <b84a2f0446e9eedeb969@example.org>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV2026-6296
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the USD 4,774.85 payment went through twice on my bank statement (INV2=
+026-6296). Please fix it and confirm once done.
+
+--=20
+Ethan Ricci
+Northfield Clinic
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi support,
+>=20
+> Exporting a report fails with an error and the download never starts. It wo=
+rked fine last week. Version 5.2.7.

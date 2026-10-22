@@ -1,0 +1,11 @@
+From: Fatima Murphy <fatima.murphy@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 04:42:41 -0800
+Message-ID: <620d0e80bdfcd97a26e2@example.net>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.7.2.

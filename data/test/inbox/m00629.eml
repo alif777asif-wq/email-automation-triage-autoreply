@@ -1,0 +1,32 @@
+From: Felix Haddad <felix.haddad@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 01:03:30 -0500
+Message-ID: <c3796777e374edefea67@example.net>
+MIME-Version: 1.0
+Subject: Interested in your product
+Content-Type: multipart/alternative;
+ boundary="===============1861489825572760296=="
+
+--===============1861489825572760296==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 8 and looking at your product for next quarter. What wou=
+ld the cost be, and could someone give us a walkthrough?
+
+--=20
+Felix Haddad
+Kestrel Logistics
+
+--===============1861489825572760296==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 8 and looking =
+at your product for next quarter. What would the cost be, and could someone g=
+ive us a walkthrough?</p><p style=3D"margin:0 0 12px">-- <br>Felix Haddad<br>=
+Kestrel Logistics</p></body></html>
+
+--===============1861489825572760296==--

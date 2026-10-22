@@ -1,0 +1,29 @@
+From: Omar Tanaka <omar.tanaka@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 03:35:54 -0800
+Message-ID: <e4ab87df56a28cb5e8e4@example.org>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/alternative;
+ boundary="===============2138734128416247352=="
+
+--===============2138734128416247352==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+--===============2138734128416247352==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p></body></html>
+
+--===============2138734128416247352==--

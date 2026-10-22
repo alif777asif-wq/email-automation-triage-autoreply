@@ -1,0 +1,32 @@
+From: Liam Alvarez <liam.alvarez@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 18:29:17 +0200
+Message-ID: <75e9c4b09e98e25b6d72@example.com>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============4231557264613116066=="
+
+--===============4231557264613116066==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV2026-3335? Our accounting team cannot find it. Th=
+e amount due is $1181.10.
+
+Sent from my phone
+
+--===============4231557264613116066==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Good morning,</p><p style=3D"margin=
+:0 0 12px">Could you resend invoice INV2026-3335? Our accounting team cannot =
+find it. The amount due is $1181.10.</p><p style=3D"margin:0 0 12px">Sent fro=
+m my phone</p></body></html>
+
+--===============4231557264613116066==--

@@ -1,0 +1,26 @@
+From: Hana Alvarez <hana.alvarez@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:22:35 +0000
+Message-ID: <649c75a0d84552677ae5@example.org>
+MIME-Version: 1.0
+Subject: Cannot sign in after the update
+Content-Type: multipart/mixed; boundary="===============4135527094969445986=="
+
+--===============4135527094969445986==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 3.3.3.
+
+--===============4135527094969445986==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4135527094969445986==--

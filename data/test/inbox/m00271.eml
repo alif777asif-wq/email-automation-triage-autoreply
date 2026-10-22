@@ -1,0 +1,34 @@
+From: Fatima Duarte <fatima.duarte@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 23:14:11 +0530
+Message-ID: <20e0cfa71017dca8f321@example.org>
+MIME-Version: 1.0
+Subject: Order ORD55422 status
+Content-Type: multipart/alternative;
+ boundary="===============2901680666779150239=="
+
+--===============2901680666779150239==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I palced order ORD55422 last week and the tracking page has not updated in fi=
+ve days. When will it be delivered?
+
+--=20
+Fatima Duarte
+Northfield Clinic
+
+--===============2901680666779150239==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I palced order ORD55422 last week and the tracking page has not updated in f=
+ive days. When will it be delivered?</p><p style=3D"margin:0 0 12px">-- <br>F=
+atima Duarte<br>Northfield Clinic</p></body></html>
+
+--===============2901680666779150239==--

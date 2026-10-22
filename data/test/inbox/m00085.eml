@@ -1,0 +1,31 @@
+From: Jonas Murphy <jonas.murphy@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:52:13 +0200
+Message-ID: <d9dac38b8c37376b705b@example.org>
+MIME-Version: 1.0
+Subject: Still waiting on ORD-27639
+Content-Type: multipart/alternative;
+ boundary="===============3451690545745118162=="
+
+--===============3451690545745118162==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello! Just checking wehther my parcel has left your warehosue yet. Order ORD=
+-27639. Thanks.
+
+--=20
+Jonas Murphy
+Marrow Design
+
+--===============3451690545745118162==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello! Just checking wehther my par=
+cel has left your warehosue yet. Order ORD-27639. Thanks.</p><p style=3D"marg=
+in:0 0 12px">-- <br>Jonas Murphy<br>Marrow Design</p></body></html>
+
+--===============3451690545745118162==--

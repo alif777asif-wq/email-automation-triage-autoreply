@@ -1,0 +1,27 @@
+From: Microsoft Outlook <postmaster@contoso-mail078.example.com>
+To: support@shop.example
+Subject: Undeliverable: Delivery address change
+Date: Mon, 04 May 2026 18:06:00 +0000
+Message-ID: <f8a3a3ed928ddb5cad38@mx.example.net>
+X-MS-Exchange-Message-Is-Ndr:
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="b1"
+
+--b1
+Content-Type: text/plain; charset=utf-8
+
+Delivery has failed to these recipients or groups:
+
+oskar.mensah78@example.org
+The email address you entered couldn't be found. Please check the recipient's email address and try to resend the message.
+
+--b1
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mail.example.com
+
+Final-Recipient: rfc822;oskar.mensah78@example.org
+Action: failed
+Status: 5.1.10
+
+--b1--

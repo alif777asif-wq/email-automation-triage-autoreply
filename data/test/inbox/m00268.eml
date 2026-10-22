@@ -1,0 +1,28 @@
+From: Marek Tanaka <marek.tanaka@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:37:25 +0000
+Message-ID: <8f086723cc2ff8511a57@example.net>
+MIME-Version: 1.0
+Subject: Wrong amount on my statement
+Content-Type: multipart/mixed; boundary="===============0015112469789896155=="
+
+--===============0015112469789896155==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the $940.41 payment went through twice on my bank statement (INV 2026-=
+8155). Please fix it and confirm once done.
+
+--=20
+Marek Tanaka
+Copperline Supply
+
+--===============0015112469789896155==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0015112469789896155==--

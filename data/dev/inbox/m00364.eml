@@ -1,0 +1,14 @@
+From: Mail Delivery Subsystem <mailer-daemon@mx.example.net>
+To: support@shop.example
+Subject: Delivery Status Notification (Failure)
+Date: Mon, 02 Mar 2026 15:48:03 -0500
+Message-ID: <92e517c5e92e5591a90d@mx.example.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Delivery to the following recipient failed permanently:
+
+     tomas.rossi@example.net
+
+Technical details of permanent failure:
+DNS Error: Domain name not found

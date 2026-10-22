@@ -1,0 +1,32 @@
+From: Mateo Dupont <mateo.dupont@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 07:44:22 +0200
+Message-ID: <55654b7c49adb1327b79@example.org>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV 2026-6919
+Content-Type: multipart/alternative;
+ boundary="===============6177097206971392318=="
+
+--===============6177097206971392318==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $4547.13 last month (INV 202=
+6-6919) for my expense report. Thanks!
+
+--=20
+Mateo Dupont
+Copperline Supply
+
+--===============6177097206971392318==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, I need an official receipt for =
+my payment of $4547.13 last month (INV 2026-6919) for my expense report. Than=
+ks!</p><p style=3D"margin:0 0 12px">-- <br>Mateo Dupont<br>Copperline Supply<=
+/p></body></html>
+
+--===============6177097206971392318==--

@@ -1,0 +1,29 @@
+From: Lucas Kim <lucas.kim@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:50:07 +0000
+Message-ID: <3f7f9f7d06ba7dbd7754@example.net>
+MIME-Version: 1.0
+Subject: Quote for an annual contract
+Content-Type: multipart/alternative;
+ boundary="===============7168880852700698218=="
+
+--===============7168880852700698218==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We run a small agency and would like to discuss becoming a reseller. Who shou=
+ld we talk to about partnership terms?
+
+--===============7168880852700698218==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We run a small agency and would like to discuss becoming a reseller. Who =
+should we talk to about partnership terms?</p></body></html>
+
+--===============7168880852700698218==--

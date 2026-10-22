@@ -1,0 +1,24 @@
+2026-10-22 09:06:25,785 INFO == data:dev
+2026-10-22 09:06:26,448 INFO == data:test
+2026-10-22 09:06:28,245 INFO == data:formats-a
+2026-10-22 09:06:28,432 INFO == data:formats-b
+2026-10-22 09:06:28,644 INFO == data:formats-c
+2026-10-22 09:06:28,902 INFO rules unchanged since freeze: True
+2026-10-22 09:06:28,902 INFO == pytest
+2026-10-22 09:06:47,375 INFO tests: {'tests': 72, 'passed': 72, 'failed': 0, 'skipped': 0, 'seconds': 18.5}
+2026-10-22 09:06:47,375 INFO == clean run: dev
+2026-10-22 09:06:50,907 INFO == clean run: test
+2026-10-22 09:07:00,350 INFO == clean run: naive baseline
+2026-10-22 09:07:07,271 INFO == formats formats-a, guard=off
+2026-10-22 09:07:08,513 INFO == formats formats-a, guard=wording
+2026-10-22 09:07:09,535 INFO == formats formats-a, guard=full
+2026-10-22 09:07:10,440 INFO == formats formats-b, guard=off
+2026-10-22 09:07:12,032 INFO == formats formats-b, guard=wording
+2026-10-22 09:07:13,426 INFO == formats formats-b, guard=full
+2026-10-22 09:07:14,561 INFO == formats formats-c, guard=off
+2026-10-22 09:07:16,065 INFO == formats formats-c, guard=wording
+2026-10-22 09:07:17,487 INFO == formats formats-c, guard=full
+2026-10-22 09:07:18,856 INFO == crash: pipeline targeted
+2026-10-22 09:07:37,103 INFO == crash: pipeline random
+2026-10-22 09:08:02,737 INFO == crash: naive targeted
+2026-10-22 09:08:15,095 INFO DONE. tests 72/72 passed | test accuracy 84.1% | targeted kills 60 dup 0 lost 0 | random kills 40 dup 0 lost 0

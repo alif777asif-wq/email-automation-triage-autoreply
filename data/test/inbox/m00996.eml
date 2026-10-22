@@ -1,0 +1,28 @@
+From: =?utf-8?q?S=C3=B8ren?= Patel <soren.patel@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 20:05:44 +0100
+Message-ID: <70156e34c5476aa7f437@example.com>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV2026-5577
+Content-Type: multipart/alternative;
+ boundary="===============2012848390451165428=="
+
+--===============2012848390451165428==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I need an official receipt for my payment of $4,336.92 last month (INV202=
+6-5577) for my expense report. Thanks! Also, what is the price of the premium=
+ plan?
+
+--===============2012848390451165428==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, I need an official receipt for =
+my payment of $4,336.92 last month (INV2026-5577) for my expense report. Than=
+ks! Also, what is the price of the premium plan?</p></body></html>
+
+--===============2012848390451165428==--

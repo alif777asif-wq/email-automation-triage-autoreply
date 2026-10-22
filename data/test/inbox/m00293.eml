@@ -1,0 +1,26 @@
+From: Leila Khan <leila.khan@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 19:27:58 +0100
+Message-ID: <e4c9ea38454c92421300@example.net>
+MIME-Version: 1.0
+Subject: Still waiting on #61715
+Content-Type: multipart/alternative;
+ boundary="===============1871178464544462528=="
+
+--===============1871178464544462528==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello! Just checking whether my parcel has left your warehouse yet. Order #61=
+715. Thanks.
+
+--===============1871178464544462528==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello! Just checking whether my par=
+cel has left your warehouse yet. Order #61715. Thanks.</p></body></html>
+
+--===============1871178464544462528==--

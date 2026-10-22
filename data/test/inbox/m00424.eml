@@ -1,0 +1,40 @@
+From: Priya Khan <priya.khan@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 00:58:30 +0200
+Message-ID: <9fb60e1d3cbb9fa9fa7c@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============3906921187219281241=="
+
+--===============3906921187219281241==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Since the latest update the app crashes every time I open the settings page. =
+I reinstalled it but the error is still there. Version 3.2.7.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> We are evaluating tools for our team of 25 people and would like a quote an=
+d a short demo. Do you offer volume discounts?
+
+--===============3906921187219281241==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>Since the latest update the app crashes every time I open the settings page.=
+ I reinstalled it but the error is still there. Version 3.2.7.</p><div class=
+=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;s=
+upport@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hello,
+
+We are evaluating tools for our team of 25 people and would like a quote and =
+a short demo. Do you offer volume discounts?</blockquote></div></body></html>
+
+--===============3906921187219281241==--

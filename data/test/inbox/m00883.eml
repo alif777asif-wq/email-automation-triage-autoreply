@@ -1,0 +1,25 @@
+From: Yara Hughes <yara.hughes@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 06:56:06 -0800
+Message-ID: <0bde0fcb4e65f8616188@example.net>
+MIME-Version: 1.0
+Subject: Please stop emailing me
+Content-Type: multipart/alternative;
+ boundary="===============2522199595934339681=="
+
+--===============2522199595934339681==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Unsubscribe me from all marketing messages, please.
+
+--===============2522199595934339681==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Unsubscribe me from all marketing m=
+essages, please.</p></body></html>
+
+--===============2522199595934339681==--

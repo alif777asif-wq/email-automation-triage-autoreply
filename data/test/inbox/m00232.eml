@@ -1,0 +1,35 @@
+From: Ines Haddad <ines.haddad@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 21:45:26 +0530
+Message-ID: <8a44be76a8c048db1e8e@example.net>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============3739838369625472636=="
+
+--===============3739838369625472636==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order ORD-23979 last week and the tracking page has not updated in f=
+ive days. When will it be delivered? My last invoice was fine, by the way.
+
+--=20
+Ines Haddad
+Kestrel Logistics
+
+--===============3739838369625472636==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order ORD-23979 last week and the tracking page has not updated in =
+five days. When will it be delivered? My last invoice was fine, by the way.</=
+p><p style=3D"margin:0 0 12px">-- <br>Ines Haddad<br>Kestrel Logistics</p></b=
+ody></html>
+
+--===============3739838369625472636==--

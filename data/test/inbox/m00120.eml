@@ -1,0 +1,40 @@
+From: Kofi Murphy <kofi.murphy@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 07:18:58 -0500
+Message-ID: <cb53d671c4b220194289@example.org>
+MIME-Version: 1.0
+Subject: App keeps crashing on login
+Content-Type: multipart/alternative;
+ boundary="===============1270339455008956987=="
+
+--===============1270339455008956987==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Chrome 126.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi there,
+>=20
+> The VAT number is missing from invoice INV-2026-1974 ($1,677.40). We need a=
+ corrected invoice for our records.
+
+--===============1270339455008956987==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Chrome 126.</p><div class=3D"gmail_quote"><=
+div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.exampl=
+e&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi there,
+
+The VAT number is missing from invoice INV-2026-1974 ($1,677.40). We need a c=
+orrected invoice for our records.</blockquote></div></body></html>
+
+--===============1270339455008956987==--

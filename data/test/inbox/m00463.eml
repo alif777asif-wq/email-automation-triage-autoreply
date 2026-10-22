@@ -1,0 +1,13 @@
+From: Rina Varga <rina.varga@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 00:13:10 +0000
+Message-ID: <0f2ea1991c8456e66f94@example.com>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reoprts page just spnis forever since yesterday. The console shwos=
+ a 500 failure. Version 5.0.0.
+
+Sent from my phone

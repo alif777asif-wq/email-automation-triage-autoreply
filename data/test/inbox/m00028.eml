@@ -1,0 +1,32 @@
+From: =?utf-8?q?Chlo=C3=A9?= Ivanov <chloe.ivanov@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:21:26 +0530
+Message-ID: <2a9665fc1ce904c57d48@example.org>
+MIME-Version: 1.0
+Subject: Can we get a walkthrough?
+Content-Type: multipart/alternative;
+ boundary="===============9158018173620278391=="
+
+--===============9158018173620278391==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, we are a team of 40 and looking at your product for next quarter. What wo=
+uld the cost be, and could someone give us a walkthrough?
+
+--=20
+Chlo=C3=A9 Ivanov
+Kestrel Logistics
+
+--===============9158018173620278391==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, we are a team of 40 and looking=
+ at your product for next quarter. What would the cost be, and could someone =
+give us a walkthrough?</p><p style=3D"margin:0 0 12px">-- <br>Chlo=C3=A9 Ivan=
+ov<br>Kestrel Logistics</p></body></html>
+
+--===============9158018173620278391==--

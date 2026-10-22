@@ -1,0 +1,14 @@
+From: Alice Tanaka <alice.tanaka@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 13:35:00 -0800
+Message-ID: <93e887288457807ee87f@example.org>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Chrome 126). Hel=
+p?</p><p style=3D"margin:0 0 12px">-- <br>Alice Tanaka<br>Northfield Clinic</=
+p></body></html>

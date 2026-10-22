@@ -1,0 +1,32 @@
+From: Noah Okafor <noah.okafor@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 05:55:16 +0000
+Message-ID: <c6dd14f54ac96da8d8a2@example.org>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: multipart/alternative;
+ boundary="===============4179032359772046892=="
+
+--===============4179032359772046892==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, every time I try to log in it sends me straight back to the login page. T=
+ried two browsers (Firefox 128). Help?
+
+--=20
+Noah Okafor
+Copperline Supply
+
+--===============4179032359772046892==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, every time I try to log in it s=
+ends me straight back to the login page. Tried two browsers (Firefox 128). He=
+lp?</p><p style=3D"margin:0 0 12px">-- <br>Noah Okafor<br>Copperline Supply</=
+p></body></html>
+
+--===============4179032359772046892==--

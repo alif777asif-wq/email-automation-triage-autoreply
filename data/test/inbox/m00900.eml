@@ -1,0 +1,29 @@
+From: Leila Costa <leila.costa@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 20:59:07 +0530
+Message-ID: <a6fb0f26b6e12a88b902@example.net>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============5179118912600530864=="
+
+--===============5179118912600530864==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from ivnoice INV-2026-0162 (USD 3,336.41). We need =
+a corrected invoice for our records.
+
+--===============5179118912600530864==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from ivnoice INV-2026-0162 (USD 3,336.41). W=
+e need a corrected invoice for our records.</p></body></html>
+
+--===============5179118912600530864==--

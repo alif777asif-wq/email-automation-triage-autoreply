@@ -1,0 +1,19 @@
+From: Noah Chen <noah.chen@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:08:33 +0100
+Message-ID: <7b16078dab058463842a@example.net>
+MIME-Version: 1.0
+Subject: Everything is frozen
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, the reports page just spins =
+forever since yesterday. The console shows a 500 failure. Version 3.1.8.</p><=
+p style=3D"margin:0 0 12px">Sent from my phone</p><div class=3D"gmail_quote">=
+<div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.examp=
+le&gt; wrote:</div><blockquote class=3D"gmail_quote">Hello,
+
+We received invoice INV2026-4759 for $2896.18, but the total does not match o=
+ur agreement. Could you check the charge and send a corrected invoice?</block=
+quote></div></body></html>

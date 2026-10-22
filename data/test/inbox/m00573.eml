@@ -1,0 +1,45 @@
+From: =?utf-8?q?Tom=C3=A1s?= Ahmed <tomas.ahmed@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 23:00:12 -0500
+Message-ID: <1566f8da4d6965e0d6be@example.org>
+MIME-Version: 1.0
+Subject: Pricing for 12 seats
+Content-Type: multipart/alternative;
+ boundary="===============7478660357542497548=="
+
+--===============7478660357542497548==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We run a small agency and would like to discuss becoming a reseller. Who shou=
+ld we talk to about partnership terms?
+
+--=20
+Tom=C3=A1s Ahmed
+Northfield Clinic
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi support,
+>=20
+> Exporting a report fails with an error and the download never starts. It wo=
+rked fine last week. Version 4.2.8.
+
+--===============7478660357542497548==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We run a small agency and would like to discuss becoming a reseller. Who =
+should we talk to about partnership terms?</p><p style=3D"margin:0 0 12px">--=
+ <br>Tom=C3=A1s Ahmed<br>Northfield Clinic</p><div class=3D"gmail_quote"><div=
+ class=3D"gmail_attr">On Sun, 01 Mar 2026, Support &lt;support@shop.example&g=
+t; wrote:</div><blockquote class=3D"gmail_quote">Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 4.2.8.</blockquote></div></body></html>
+
+--===============7478660357542497548==--

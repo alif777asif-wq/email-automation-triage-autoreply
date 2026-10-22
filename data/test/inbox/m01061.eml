@@ -1,0 +1,29 @@
+From: Sofia Okafor <sofia.okafor@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 22:23:13 +0100
+Message-ID: <ae30d81678ccaedd28dd@example.com>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/alternative;
+ boundary="===============3973837069424467803=="
+
+--===============3973837069424467803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Chrome 126.
+
+--===============3973837069424467803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Chrome 126.</p></body></html>
+
+--===============3973837069424467803==--

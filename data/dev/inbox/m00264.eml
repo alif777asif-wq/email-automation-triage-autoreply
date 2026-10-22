@@ -1,0 +1,19 @@
+From: Mei Ahmed <mei.ahmed@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:13:25 -0500
+Message-ID: <4e6d8087fbcfc988c331@example.org>
+MIME-Version: 1.0
+Subject: VAT number missing on our invoice
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV-2026-8947 ($3,263.99). We need a c=
+orrected invoice for our records.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi support,
+>=20
+> Exporting a report fails with an error and the download never starts. It wo=
+rked fine last week. Version 4.3.7.

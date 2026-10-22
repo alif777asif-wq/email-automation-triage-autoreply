@@ -1,0 +1,32 @@
+From: =?utf-8?q?Tom=C3=A1s?= Ahmed <tomas.ahmed@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:57:04 +0100
+Message-ID: <db514055c97ec6ac96cc@example.com>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/alternative;
+ boundary="===============4967519230518605541=="
+
+--===============4967519230518605541==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+Sent from my phone
+
+--===============4967519230518605541==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p><p style=3D"margin:0 0 12px">Sent from my phone</p>=
+</body></html>
+
+--===============4967519230518605541==--

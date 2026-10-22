@@ -1,0 +1,34 @@
+From: Mei Varga <mei.varga@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:16:24 -0500
+Message-ID: <7f7da11f88159c82b688@example.net>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: multipart/mixed; boundary="===============4890421384095046591=="
+
+--===============4890421384095046591==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times.
+
+--=20
+Mei Varga
+Kestrel Logistics
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hi,
+>=20
+> I would like to return order ORD27207 and get a refund of $1,561.65. The it=
+em arrived damaged.
+
+--===============4890421384095046591==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4890421384095046591==--

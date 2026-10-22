@@ -1,0 +1,29 @@
+From: Lucas Bianchi <lucas.bianchi@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 12:00:20 -0500
+Message-ID: <20d59d3062641877e9df@example.net>
+MIME-Version: 1.0
+Subject: Where is my order #92261?
+Content-Type: multipart/alternative;
+ boundary="===============0012663913541767669=="
+
+--===============0012663913541767669==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order #92261 last week and the tracking page has not updated in five=
+ days. When will it be delivered?
+
+--===============0012663913541767669==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order #92261 last week and the tracking page has not updated in fiv=
+e days. When will it be delivered?</p></body></html>
+
+--===============0012663913541767669==--

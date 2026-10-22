@@ -1,0 +1,30 @@
+From: Liam Lindqvist <liam.lindqvist@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:46:39 +0000
+Message-ID: <b13194db85fc6ff585be@example.org>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: multipart/mixed; boundary="===============4304651102363505352=="
+
+--===============4304651102363505352==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Chrome 126.
+
+--=20
+Liam Lindqvist
+Kestrel Logistics
+
+--===============4304651102363505352==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============4304651102363505352==--

@@ -1,0 +1,11 @@
+From: Mei Evans <mei.evans@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 22:14:04 +0200
+Message-ID: <ddc51cf94532bdb76603@example.net>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times.

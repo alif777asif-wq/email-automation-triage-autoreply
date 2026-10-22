@@ -1,0 +1,15 @@
+From: =?utf-8?q?Tom=C3=A1s?= Yilmaz <tomas.yilmaz@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:09:39 +0200
+Message-ID: <e4979dc89de63859acb7@example.org>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 5.7.6. My last invoice was fine, by the way.
+
+--=20
+Tom=C3=A1s Yilmaz
+Northfield Clinic

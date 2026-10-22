@@ -1,0 +1,32 @@
+From: Felix Dupont <felix.dupont@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 18:00:17 +0200
+Message-ID: <fdf3e5259c8cd16fb904@example.org>
+MIME-Version: 1.0
+Subject: Where is my order #58708?
+Content-Type: multipart/alternative;
+ boundary="===============7536229471815077643=="
+
+--===============7536229471815077643==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order #58708 still has not arrived. Could you send me the trac=
+king number and an estimated delivery date?
+
+Sent from my phone
+
+--===============7536229471815077643==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order #58708 still has not arrived. Could you send me the =
+tracking number and an estimated delivery date?</p><p style=3D"margin:0 0 12p=
+x">Sent from my phone</p></body></html>
+
+--===============7536229471815077643==--

@@ -1,0 +1,29 @@
+From: =?utf-8?q?Tom=C3=A1s?= Cruz <tomas.cruz@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 09:00:42 -0500
+Message-ID: <315ef7d8f71959bb9385@example.org>
+MIME-Version: 1.0
+Subject: Charged twice this month
+Content-Type: multipart/alternative;
+ boundary="===============4788464219068259803=="
+
+--===============4788464219068259803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV2026-8433 ($179.95). We need a corr=
+ected invoice for our records.
+
+--===============4788464219068259803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from invoice INV2026-8433 ($179.95). We need=
+ a corrected invoice for our records.</p></body></html>
+
+--===============4788464219068259803==--

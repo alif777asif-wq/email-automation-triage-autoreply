@@ -1,0 +1,27 @@
+From: Alice Sato <alice.sato@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 08:23:17 -0500
+Message-ID: <acf11a7c221fea626845@example.net>
+MIME-Version: 1.0
+Subject: INV2026-0316 - question
+Content-Type: multipart/mixed; boundary="===============2625974801654682659=="
+
+--===============2625974801654682659==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV2026-0316. I was billed $3526.73 but our plan should cost less than that. =
+Can someone take a look? I may ask for a refund later if this is not resolved=
+.</p><p style=3D"margin:0 0 12px">Sent from my phone</p></body></html>
+
+--===============2625974801654682659==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============2625974801654682659==--

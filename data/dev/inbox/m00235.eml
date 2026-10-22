@@ -1,0 +1,14 @@
+From: Amara Tanaka <amara.tanaka@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:12:13 +0100
+Message-ID: <120ed74c0a335517cedf@example.net>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Firefox 128.</p><p style=3D"margin:0 0 12px=
+">-- <br>Amara Tanaka<br>Northfield Clinic</p></body></html>

@@ -1,0 +1,11 @@
+From: Ava Patel <ava.patel@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 17:30:45 +0000
+Message-ID: <25fd858bc16790c4da1d@example.org>
+MIME-Version: 1.0
+Subject: Reports will not load
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 3.8.4.

@@ -1,0 +1,32 @@
+From: Rohan Haddad <rohan.haddad@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 11:03:37 +0000
+Message-ID: <cd5e130b1eba482e5d69@example.net>
+MIME-Version: 1.0
+Subject: Has my parcel shipped yet?
+Content-Type: multipart/alternative;
+ boundary="===============3999654606669738185=="
+
+--===============3999654606669738185==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, it has been two weeks since I ordered (ORD19552) and nothing has turned u=
+p. Could you let me know what is going on?
+
+--=20
+Rohan Haddad
+Birchwood Studio
+
+--===============3999654606669738185==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi, it has been two weeks since I o=
+rdered (ORD19552) and nothing has turned up. Could you let me know what is go=
+ing on?</p><p style=3D"margin:0 0 12px">-- <br>Rohan Haddad<br>Birchwood Stud=
+io</p></body></html>
+
+--===============3999654606669738185==--

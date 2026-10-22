@@ -1,0 +1,26 @@
+From: Ava Petrov <ava.petrov@example.org>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 09:50:35 +0000
+Message-ID: <7cfd58a81124b99ef883@example.org>
+MIME-Version: 1.0
+Subject: Bulk licensing
+Content-Type: multipart/alternative;
+ boundary="===============4845148962654206675=="
+
+--===============4845148962654206675==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, do you have special rates for non-profits? We would need around 120 ac=
+counts.
+
+--===============4845148962654206675==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, do you have special rates fo=
+r non-profits? We would need around 120 accounts.</p></body></html>
+
+--===============4845148962654206675==--

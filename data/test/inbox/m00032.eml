@@ -1,0 +1,32 @@
+From: Mateo Tanaka <mateo.tanaka@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 03:59:00 -0500
+Message-ID: <0d701da23ed13e945ceb@example.com>
+MIME-Version: 1.0
+Subject: Cannot sign in after the update
+Content-Type: multipart/alternative;
+ boundary="===============2937751607579525610=="
+
+--===============2937751607579525610==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Sync stopped working on my phone and the dashboard shows a blank page. Restar=
+ting did not help.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============2937751607579525610==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Sync stopped working on my phone and the dashboard shows a blank page. Re=
+starting did not help.</p><p style=3D"margin:0 0 12px">This email and any att=
+achments are intended solely for the addressee.</p></body></html>
+
+--===============2937751607579525610==--

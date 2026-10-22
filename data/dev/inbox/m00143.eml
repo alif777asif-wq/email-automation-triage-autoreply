@@ -1,0 +1,34 @@
+From: Marek Novak <marek.novak@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 05:23:01 -0800
+Message-ID: <ead6cae6cc117fc5705e@example.com>
+MIME-Version: 1.0
+Subject: Enterprise plan inquiry
+Content-Type: multipart/alternative;
+ boundary="===============0497196354210242891=="
+
+--===============0497196354210242891==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We run a small agency and would like to discuss becoming a reseller. Who shou=
+ld we talk to about partnership terms?
+
+--=20
+Marek Novak
+Copperline Supply
+
+--===============0497196354210242891==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We run a small agency and would like to discuss becoming a reseller. Who =
+should we talk to about partnership terms?</p><p style=3D"margin:0 0 12px">--=
+ <br>Marek Novak<br>Copperline Supply</p></body></html>
+
+--===============0497196354210242891==--

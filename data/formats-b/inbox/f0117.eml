@@ -1,0 +1,13 @@
+From: Swiftpost <tracking@swiftpost117.example.net>
+To: support@shop.example
+Date: Mon, 04 May 2026 22:39:00 +0000
+Message-ID: <974f359ea4ddb9d19341@mx.example.net>
+Subject: Delivered: your parcel from Acme
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Your parcel was delivered today at 14:10 and left with a neighbour.
+
+Tracking number: SP3591147299
+Signed for by: N. Neighbour

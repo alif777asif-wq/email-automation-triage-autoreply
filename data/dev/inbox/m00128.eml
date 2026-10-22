@@ -1,0 +1,34 @@
+From: Noah Novak <noah.novak@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:44:46 +0200
+Message-ID: <49f59b4a2505960321f9@example.org>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/alternative;
+ boundary="===============3631127238130792760=="
+
+--===============3631127238130792760==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV 2026-1256? Our accounting team cannot find it. T=
+he amount due is $2161.11.
+
+--=20
+Noah Novak
+Northfield Clinic
+
+--===============3631127238130792760==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Good morning,</p><p style=3D"margin=
+:0 0 12px">Could you resend invoice INV 2026-1256? Our accounting team cannot=
+ find it. The amount due is $2161.11.</p><p style=3D"margin:0 0 12px">-- <br>=
+Noah Novak<br>Northfield Clinic</p></body></html>
+
+--===============3631127238130792760==--

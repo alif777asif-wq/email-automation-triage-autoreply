@@ -1,0 +1,25 @@
+From: Rohan Patel <rohan.patel@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 10:47:30 +0200
+Message-ID: <e85aa8a8b629b25e8d5f@example.org>
+MIME-Version: 1.0
+Subject: No more emails please
+Content-Type: multipart/alternative;
+ boundary="===============8818953908973078571=="
+
+--===============8818953908973078571==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello, I would like to opt out of all your messages. Thank you.
+
+--===============8818953908973078571==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello, I would like to opt out of a=
+ll your messages. Thank you.</p></body></html>
+
+--===============8818953908973078571==--

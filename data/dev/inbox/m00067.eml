@@ -1,0 +1,34 @@
+From: Ava Moreau <ava.moreau@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 15:57:37 +0530
+Message-ID: <7912f17fba032c90ef7e@example.com>
+MIME-Version: 1.0
+Subject: Tracking number for ORD-38314
+Content-Type: multipart/alternative;
+ boundary="===============2162587484873100358=="
+
+--===============2162587484873100358==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+Can you tell me the shipping status of order ORD-38314? It was supposed to sh=
+ip on Monday.
+
+--=20
+Ava Moreau
+Tidewater Labs
+
+--===============2162587484873100358==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi team,</p><p style=3D"margin:0 0 =
+12px">Can you tell me the shipping status of order ORD-38314? It was supposed=
+ to ship on Monday.</p><p style=3D"margin:0 0 12px">-- <br>Ava Moreau<br>Tide=
+water Labs</p></body></html>
+
+--===============2162587484873100358==--

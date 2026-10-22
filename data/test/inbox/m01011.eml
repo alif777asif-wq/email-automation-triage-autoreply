@@ -1,0 +1,29 @@
+From: Viktor Tanaka <viktor.tanaka@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 21:39:06 +0200
+Message-ID: <9068290f4497ecfc1645@example.com>
+MIME-Version: 1.0
+Subject: Charged twice this month
+Content-Type: multipart/alternative;
+ boundary="===============2330145591231744361=="
+
+--===============2330145591231744361==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+My card was charged USD 4277.67 twice this month (invoice INV-2026-8531). Ple=
+ase look into the duplicate payment.
+
+--===============2330145591231744361==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>My card was charged USD 4277.67 twice this month (invoice INV-2026-8531). Pl=
+ease look into the duplicate payment.</p></body></html>
+
+--===============2330145591231744361==--

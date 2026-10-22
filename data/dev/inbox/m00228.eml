@@ -1,0 +1,36 @@
+From: Kenji Novak <kenji.novak@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:01:56 +0100
+Message-ID: <dabb7682b1be280ee56a@example.net>
+MIME-Version: 1.0
+Subject: Package has not arrived
+Content-Type: multipart/alternative;
+ boundary="===============7170025362121095013=="
+
+--===============7170025362121095013==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+My package for order ORD22539 still has not arrived. Could you send me the tr=
+acking number and an estimated delivery date?
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hello, please stop emailing me. I did not sign up for this newsletter.
+
+--===============7170025362121095013==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">My package for order ORD22539 still has not arrived. Could you send me th=
+e tracking number and an estimated delivery date?</p><div class=3D"gmail_quot=
+e"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.ex=
+ample&gt; wrote:</div><blockquote class=3D"gmail_quote">Hello, please stop em=
+ailing me. I did not sign up for this newsletter.</blockquote></div></body></=
+html>
+
+--===============7170025362121095013==--

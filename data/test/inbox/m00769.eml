@@ -1,0 +1,19 @@
+From: Rina Varga <rina.varga@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 05:54:24 -0500
+Message-ID: <acfd4d2c77c4e5dd9620@example.net>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app freezes on the =
+start screen after the latest release. Had to force quit three times.</p><p s=
+tyle=3D"margin:0 0 12px">-- <br>Rina Varga<br>Copperline Supply</p><div class=
+=3D"gmail_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026, Support &lt;s=
+upport@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quote">Hi ther=
+e,
+
+The VAT number is missing from invoice INV 2026-8600 ($3183.97). We need a co=
+rrected invoice for our records.</blockquote></div></body></html>

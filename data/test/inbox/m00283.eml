@@ -1,0 +1,42 @@
+From: Mateo Santos <mateo.santos@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 23:35:56 +0530
+Message-ID: <2acd62a880b95bcc198c@example.org>
+MIME-Version: 1.0
+Subject: Need a copy of invoice INV2026-5056
+Content-Type: multipart/mixed; boundary="===============0152948354153820171=="
+
+--===============0152948354153820171==
+Content-Type: multipart/alternative;
+ boundary="===============6033103127175928342=="
+
+--===============6033103127175928342==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV2026-5056? Our accounting team cannot find it. Th=
+e amount due is $3866.40.
+
+--===============6033103127175928342==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Good morning,</p><p style=3D"margin=
+:0 0 12px">Could you resend invoice INV2026-5056? Our accounting team cannot =
+find it. The amount due is $3866.40.</p></body></html>
+
+--===============6033103127175928342==--
+
+--===============0152948354153820171==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0152948354153820171==--

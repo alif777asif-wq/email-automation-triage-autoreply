@@ -1,0 +1,12 @@
+From: Northfield Bank <alerts@northfield113.example.net>
+To: support@shop.example
+Date: Mon, 04 May 2026 22:11:00 +0000
+Message-ID: <ad15dd892ce85f402692@mx.example.net>
+Subject: Card purchase alert
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+A purchase of $80.12 was made with your card ending 4242 at Copperline Supply.
+
+If this was not you, call the number on the back of your card.

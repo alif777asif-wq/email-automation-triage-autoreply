@@ -1,0 +1,34 @@
+From: =?utf-8?q?Tom=C3=A1s?= Okafor <tomas.okafor@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 18:17:29 +0100
+Message-ID: <bd5188e030b8179dd31c@example.com>
+MIME-Version: 1.0
+Subject: Enterprise plan inquiry
+Content-Type: multipart/alternative;
+ boundary="===============2322089665199882369=="
+
+--===============2322089665199882369==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We are evaluating tools for our team of 40 people and would like a quote and =
+a short demo. Do you offer volume discounts?
+
+--=20
+Tom=C3=A1s Okafor
+Quill & Anchor
+
+--===============2322089665199882369==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We are evaluating tools for our team of 40 people and would like a quote =
+and a short demo. Do you offer volume discounts?</p><p style=3D"margin:0 0 12=
+px">-- <br>Tom=C3=A1s Okafor<br>Quill &amp; Anchor</p></body></html>
+
+--===============2322089665199882369==--

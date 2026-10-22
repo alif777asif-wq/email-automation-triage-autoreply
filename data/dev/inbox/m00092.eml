@@ -1,0 +1,33 @@
+From: Mateo Khan <mateo.khan@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 12:25:04 +0100
+Message-ID: <89be003b6d6c7f0905c6@example.net>
+MIME-Version: 1.0
+Subject: Refund for order ORD-47252
+Content-Type: multipart/alternative;
+ boundary="===============5355334281171668890=="
+
+--===============5355334281171668890==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Please cancel order ORD-47252 and refund USD 2,901.75 to my original payment =
+method. I changed my mind. My last invoice was fine, by the way.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============5355334281171668890==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Please cancel order ORD-47252 and refund USD 2,901.75 to my original paym=
+ent method. I changed my mind. My last invoice was fine, by the way.</p><p st=
+yle=3D"margin:0 0 12px">This email and any attachments are intended solely fo=
+r the addressee.</p></body></html>
+
+--===============5355334281171668890==--

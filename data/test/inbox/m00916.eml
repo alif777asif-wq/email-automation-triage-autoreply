@@ -1,0 +1,42 @@
+From: Oskar Lopez <oskar.lopez@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 16:10:12 +0000
+Message-ID: <01d6ac7265bbe05cddab@example.com>
+MIME-Version: 1.0
+Subject: VAT number missing on our invoice
+Content-Type: multipart/alternative;
+ boundary="===============3313816869945622500=="
+
+--===============3313816869945622500==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+The VAT number is missing from invoice INV 2026-4623 ($409.48). We need a cor=
+rected invoice for our records. My previous order arrived on time.
+
+On Sun, 01 Mar 2026, Support <support@shop.example> wrote:
+> Hello,
+>=20
+> My package for order ORD-57444 still has not arrived. Could you send me the=
+ tracking number and an estimated delivery date?
+
+--===============3313816869945622500==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi there,</p><p style=3D"margin:0 0=
+ 12px">The VAT number is missing from invoice INV 2026-4623 ($409.48). We nee=
+d a corrected invoice for our records. My previous order arrived on time.</p>=
+<div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sun, 01 Mar 2026, Sup=
+port &lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_quot=
+e">Hello,
+
+My package for order ORD-57444 still has not arrived. Could you send me the t=
+racking number and an estimated delivery date?</blockquote></div></body></htm=
+l>
+
+--===============3313816869945622500==--

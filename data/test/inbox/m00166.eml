@@ -1,0 +1,17 @@
+From: Omar Ricci <omar.ricci@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 08:55:00 -0500
+Message-ID: <fb17691a51f031591d91@example.com>
+MIME-Version: 1.0
+Subject: Login loop
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, the reports page just spins forever since yesterday. The console shows=
+ a 500 failure. Version 3.0.6.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Hi team,
+>=20
+> Can you tell me the shipping status of order #13852? It was supposed to shi=
+p on Monday.

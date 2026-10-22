@@ -1,0 +1,26 @@
+From: Omar Petrov <omar.petrov@example.net>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 16:32:17 +0100
+Message-ID: <9b8ebc97ea78c01168b7@example.net>
+MIME-Version: 1.0
+Subject: Remove me from your mailing list
+Content-Type: multipart/alternative;
+ boundary="===============4421027263954278462=="
+
+--===============4421027263954278462==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Unsubscribe me from all marketing messages, please. The app also crashed once=
+ last month.
+
+--===============4421027263954278462==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Unsubscribe me from all marketing m=
+essages, please. The app also crashed once last month.</p></body></html>
+
+--===============4421027263954278462==--

@@ -1,0 +1,40 @@
+From: Ines Hughes <ines.hughes@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 17:54:27 +0100
+Message-ID: <96dc7dbe4dc40bb69197@example.com>
+MIME-Version: 1.0
+Subject: Sync stopped working
+Content-Type: multipart/alternative;
+ boundary="===============0037536131456555477=="
+
+--===============0037536131456555477==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I cannot sign in anymore. After entering my password I get an error message a=
+nd the page reloads. Browser: Firefox 128.
+
+On Sat, 28 Feb 2026, Support <support@shop.example> wrote:
+> Good morning,
+>=20
+> Could you resend invoice INV2026-2907? Our accounting team cannot find it. =
+The amount due is $4,338.61.
+
+--===============0037536131456555477==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">I cannot sign in anymore. After entering my password I get an error messa=
+ge and the page reloads. Browser: Firefox 128.</p><div class=3D"gmail_quote">=
+<div class=3D"gmail_attr">On Sat, 28 Feb 2026, Support &lt;support@shop.examp=
+le&gt; wrote:</div><blockquote class=3D"gmail_quote">Good morning,
+
+Could you resend invoice INV2026-2907? Our accounting team cannot find it. Th=
+e amount due is $4,338.61.</blockquote></div></body></html>
+
+--===============0037536131456555477==--

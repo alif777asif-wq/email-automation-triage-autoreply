@@ -1,0 +1,32 @@
+From: Liam Santos <liam.santos@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 13:01:59 +0200
+Message-ID: <287cb3d0aadab327f6f7@example.net>
+MIME-Version: 1.0
+Subject: VAT number missing on our invoice
+Content-Type: multipart/mixed; boundary="===============3865369650019423233=="
+
+--===============3865369650019423233==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">We received invoice INV-2026-6660 for $4,045.45, but the total does not m=
+atch our agreement. Could you check the charge and send a corrected invoice?<=
+/p><div class=3D"gmail_quote"><div class=3D"gmail_attr">On Sat, 28 Feb 2026, =
+Support &lt;support@shop.example&gt; wrote:</div><blockquote class=3D"gmail_q=
+uote">Hi,
+
+I would like to return order ORD-44828 and get a refund of $2,928.02. The ite=
+m arrived damaged.</blockquote></div></body></html>
+
+--===============3865369650019423233==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============3865369650019423233==--

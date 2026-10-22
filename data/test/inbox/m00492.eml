@@ -1,0 +1,28 @@
+From: Omar Ivanov <omar.ivanov@example.com>
+To: support@shop.example
+Date: Tue, 03 Mar 2026 06:41:25 +0530
+Message-ID: <5bf4a184b7ddc2ce044f@example.com>
+MIME-Version: 1.0
+Subject: Problem with the mobile app
+Content-Type: multipart/alternative;
+ boundary="===============3534805953429883833=="
+
+--===============3534805953429883833==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, the mobile app freezes on the start screen after the latest release. Had=
+ to force quit three times. I will unsubscribe from the newsletter if this co=
+ntinues.
+
+--===============3534805953429883833==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, the mobile app freezes on the =
+start screen after the latest release. Had to force quit three times. I will =
+unsubscribe from the newsletter if this continues.</p></body></html>
+
+--===============3534805953429883833==--

@@ -1,0 +1,26 @@
+From: =?utf-8?q?Tom=C3=A1s_M=C3=BCller?= <tomas.mueller@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 15:39:00 +0200
+Message-ID: <9495337d2dc32c21a54d@example.com>
+MIME-Version: 1.0
+Subject: Billing question
+Content-Type: multipart/mixed; boundary="===============0835874672985571895=="
+
+--===============0835874672985571895==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Could you resend invoice INV-2026-3780? Our accounting team cannot find it. T=
+he amount due is USD 3506.69.
+
+--===============0835874672985571895==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.csv"
+MIME-Version: 1.0
+
+dGltZXN0YW1wLGV2ZW50CjA5OjAxLGVycm9yCg==
+
+--===============0835874672985571895==--

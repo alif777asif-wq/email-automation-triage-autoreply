@@ -1,0 +1,13 @@
+From: Isla Ahmed <isla.ahmed@example.net>
+To: support@shop.example
+Date: Wed, 04 Mar 2026 03:56:57 +0200
+Message-ID: <89db0079af6b281fc0a2@example.net>
+MIME-Version: 1.0
+Subject: Bug: dashboard shows a blank page
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi support,
+
+Exporting a report fails with an error and the download never starts. It work=
+ed fine last week. Version 4.8.1.

@@ -1,0 +1,34 @@
+From: Ethan Johansson <ethan.johansson@example.com>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 14:17:01 +0100
+Message-ID: <49eef861cecda3c16914@example.com>
+MIME-Version: 1.0
+Subject: Tracking number for ORD93750
+Content-Type: multipart/alternative;
+ boundary="===============2205852436324214664=="
+
+--===============2205852436324214664==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I placed order ORD93750 last week and the tracking page has not updated in fi=
+ve days. When will it be delivered?
+
+--=20
+Ethan Johansson
+Marrow Design
+
+--===============2205852436324214664==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hi,</p><p style=3D"margin:0 0 12px"=
+>I placed order ORD93750 last week and the tracking page has not updated in f=
+ive days. When will it be delivered?</p><p style=3D"margin:0 0 12px">-- <br>E=
+than Johansson<br>Marrow Design</p></body></html>
+
+--===============2205852436324214664==--

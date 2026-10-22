@@ -1,0 +1,32 @@
+From: Noah Hughes <noah.hughes@example.net>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 08:26:26 -0500
+Message-ID: <e515d4ad6e2e211c509d@example.net>
+MIME-Version: 1.0
+Subject: Return request for ORD-81313
+Content-Type: multipart/alternative;
+ boundary="===============3181846746997826125=="
+
+--===============3181846746997826125==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Please cancel order ORD-81313 and refund $138.92 to my original payment metho=
+d. I changed my mind.
+
+This email and any attachments are intended solely for the addressee.
+
+--===============3181846746997826125==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hello,</p><p style=3D"margin:0 0 12=
+px">Please cancel order ORD-81313 and refund $138.92 to my original payment m=
+ethod. I changed my mind.</p><p style=3D"margin:0 0 12px">This email and any =
+attachments are intended solely for the addressee.</p></body></html>
+
+--===============3181846746997826125==--

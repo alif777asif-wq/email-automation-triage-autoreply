@@ -1,0 +1,25 @@
+{
+  "mode": "random_wall_clock",
+  "responder": "pipeline",
+  "kills_delivered": 40,
+  "process_runs": 41,
+  "send_delay_ms": 25,
+  "delivery": {
+    "delivered_total": 681,
+    "delivered_unique": 681,
+    "duplicates": 0,
+    "messages_answered_twice_or_more": 0,
+    "lost": 0,
+    "unexpected": 0
+  },
+  "final_states": {
+    "DONE": 519,
+    "SENT": 681
+  },
+  "reconciliation": {
+    "already_delivered_not_resent": 2,
+    "never_delivered_resent": 27,
+    "sent_to_manual_review": 0
+  },
+  "seconds": 25.6
+}

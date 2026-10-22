@@ -1,0 +1,31 @@
+{
+  "mode": "targeted",
+  "responder": "pipeline",
+  "kills_delivered": 60,
+  "kills_by_point": {
+    "after_ingest_row": 3,
+    "after_triage_row": 3,
+    "before_smtp": 18,
+    "after_smtp_before_commit": 18,
+    "after_sent_commit": 18
+  },
+  "process_runs": 61,
+  "delivery": {
+    "delivered_total": 681,
+    "delivered_unique": 681,
+    "duplicates": 0,
+    "messages_answered_twice_or_more": 0,
+    "lost": 0,
+    "unexpected": 0
+  },
+  "seconds": 18.2,
+  "final_states": {
+    "DONE": 519,
+    "SENT": 681
+  },
+  "reconciliation": {
+    "already_delivered_not_resent": 18,
+    "never_delivered_resent": 18,
+    "sent_to_manual_review": 0
+  }
+}

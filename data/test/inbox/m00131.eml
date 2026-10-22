@@ -1,0 +1,32 @@
+From: Oskar Varga <oskar.varga@example.org>
+To: support@shop.example
+Date: Mon, 02 Mar 2026 18:09:15 +0530
+Message-ID: <7430fc1393d3d293b6e5@example.org>
+MIME-Version: 1.0
+Subject: Can you send a receipt for INV2026-1697
+Content-Type: multipart/alternative;
+ boundary="===============5493614313477330660=="
+
+--===============5493614313477330660==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, I think there is a mistake on INV2026-1697. I was billed $1,898.31 but o=
+ur plan should cost less than that. Can someone take a look?
+
+--=20
+Oskar Varga
+Quill & Anchor
+
+--===============5493614313477330660==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><head><title>m</title><style>body{font-family:Arial,sans-serif}</style>=
+</head><body><p style=3D"margin:0 0 12px">Hey, I think there is a mistake on =
+INV2026-1697. I was billed $1,898.31 but our plan should cost less than that.=
+ Can someone take a look?</p><p style=3D"margin:0 0 12px">-- <br>Oskar Varga<=
+br>Quill &amp; Anchor</p></body></html>
+
+--===============5493614313477330660==--
